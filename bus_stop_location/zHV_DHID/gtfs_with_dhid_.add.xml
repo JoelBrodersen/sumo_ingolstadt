@@ -1,0 +1,2468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-03-01 10:57:35 by Eclipse SUMO netedit Version 1.16.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- StoppingPlaces -->
+    <busStop id="101" name="Klinik - Dr. Reiser" lane="233673410#0_2" startPos="11.41" endPos="21.41">
+        <param key="DHID" value="de:09161:7567:0:1"/>
+    </busStop>
+    <busStop id="102" name="Klinik - Dr. Reiser" lane="-233673410#0_2" startPos="3.09" endPos="13.09">
+        <param key="DHID" value="de:09161:7567:0:2"/>
+    </busStop>
+    <busStop id="103401" name="Altwasserweg" lane="-164051425#2_1" startPos="144.43" endPos="170.62">
+        <param key="DHID" value="de:09161:1034:0:1"/>
+    </busStop>
+    <busStop id="103402" name="Altwasserweg " lane="164051425#2_1" startPos="12.42" endPos="38.42" friendlyPos="true">
+        <param key="DHID" value="de:09161:1034:0:1"/>
+    </busStop>
+    <busStop id="104201" name="Bezirkssportanlage Nord-West" lane="24634510#21_1" startPos="2.43" endPos="28.43" friendlyPos="true">
+        <param key="DHID" value="de:09161:8956:0:2"/>
+    </busStop>
+    <busStop id="104203" name="Bezirkssportanlage Nord-West" lane="201238726#0_0" startPos="7.91" endPos="17.91">
+        <param key="DHID" value="de:09161:8956:0:1"/>
+    </busStop>
+    <busStop id="10599" name="Boschstraße" lane="-22486129#0_1" startPos="132.98" endPos="158.98" friendlyPos="true">
+        <param key="DHID" value="de:09161:8926:0:2"/>
+    </busStop>
+    <busStop id="10801" name="Breslauer Straße" lane="201953161#7_1" startPos="77.53" endPos="103.53" friendlyPos="true">
+        <param key="DHID" value="de:09161:8785:0:1"/>
+    </busStop>
+    <busStop id="10802" name="Breslauer Straße" lane="-115881043#9_1" startPos="5.62" endPos="31.62" friendlyPos="true">
+        <param key="DHID" value="de:09161:8785:0:2"/>
+    </busStop>
+    <busStop id="10902" name="Brodmühlweg" lane="-173169611#2_2" startPos="94.85" endPos="104.85" friendlyPos="true">
+        <param key="DHID" value="de:09161:109:0:2"/>
+    </busStop>
+    <busStop id="11001" name="Brückenkopf" lane="-32923867#4_2" startPos="5.45" endPos="31.45" friendlyPos="true">
+        <param key="DHID" value="de:09161:7997:0:2"/>
+    </busStop>
+    <busStop id="11002" name="Brückenkopf" lane="32923867#4_2" startPos="9.92" endPos="35.92" friendlyPos="true">
+        <param key="DHID" value="de:09161:7997:0:2"/>
+    </busStop>
+    <busStop id="11301" name="Buchnerstraße" lane="201926265#5_1" startPos="0.30" endPos="26.30" friendlyPos="true">
+        <param key="DHID" value="de:09161:113:0:2"/>
+    </busStop>
+    <busStop id="11302" name="Buchnerstraße" lane="-201926265#5_1" startPos="47.20" endPos="73.20" friendlyPos="true">
+        <param key="DHID" value="de:09161:113:0:1"/>
+    </busStop>
+    <busStop id="11499" name="Bunsenstraße " lane="-305496616#3_1" startPos="20.43" endPos="46.43" friendlyPos="true">
+        <param key="DHID" value="de:09161:114:0:10"/>
+    </busStop>
+    <busStop id="118201" name="Lenting, Blockhaus" lane="11940927#5_1" startPos="124.73" endPos="150.73" friendlyPos="true">
+        <param key="DHID" value="de:09161:7485:0:1"/>
+    </busStop>
+    <busStop id="118202" name="Lenting, Blockhaus" lane="-11940927#5_1" startPos="404.01" endPos="430.01" friendlyPos="true">
+        <param key="DHID" value="de:09161:7485:0:1"/>
+    </busStop>
+    <busStop id="12601" name="Linnestraße" lane="-233675413#3_2" startPos="56.92" endPos="66.92" friendlyPos="true">
+        <param key="DHID" value="de:09161:7688:0:2"/>
+    </busStop>
+    <busStop id="12602" name="Buxheimer Weg" lane="233675413#3_2" startPos="8.96" endPos="18.96" friendlyPos="true">
+        <param key="DHID" value="de:09161:7688:0:1"/>
+    </busStop>
+    <busStop id="12701" name="Canisiusstraße" lane="-201286890#6_1" startPos="15.57" endPos="41.57" friendlyPos="true">
+        <param key="DHID" value="de:09161:127:0:2"/>
+    </busStop>
+    <busStop id="12702" name="Canisiusstraße" lane="201286890#6_1" startPos="23.75" endPos="49.75" friendlyPos="true">
+        <param key="DHID" value="de:09161:127:0:1"/>
+    </busStop>
+    <busStop id="12901" name="Christoph-Scheiner-Gymnasium" lane="-51856496#0_2" startPos="24.53" endPos="34.53">
+        <param key="DHID" value="de:09161:7980:0:1"/>
+    </busStop>
+    <busStop id="12902" name="Christoph-Scheiner-Gymnasium" lane="390282481_2" startPos="16.88" endPos="26.88">
+        <param key="DHID" value="de:09161:7980:0:2"/>
+    </busStop>
+    <busStop id="13201" name="Degenhartstraße" lane="-18813598#2_2" startPos="68.75" endPos="78.75">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:8030:0:1"/>
+    </busStop>
+    <busStop id="13202" name="Degenhartstraße" lane="18813598#1_2" startPos="24.79" endPos="34.79">
+        <param key="DHID" value="de:09161:8030:0:2"/>
+    </busStop>
+    <busStop id="13401" name="Kösching-Desching, Raffineriesiedlung " lane="-204095914#0_1" startPos="48.47" endPos="74.47" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:7423:0:1"/>
+    </busStop>
+    <busStop id="13402" name="Kösching-Desching, Raffineriesiedlung " lane="204095914#0_1" startPos="100.03" endPos="126.03" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:7423:0:1"/>
+    </busStop>
+    <busStop id="13501" name="Deschinger Straße " lane="25638761#0_1" startPos="6.98" endPos="19.98" friendlyPos="true">
+        <param key="DHID" value="de:09161:8796:0:2"/>
+    </busStop>
+    <busStop id="13502" name="Deschinger Straße" lane="-39861708#1_2" startPos="5.34" endPos="15.34" friendlyPos="true">
+        <param key="DHID" value="de:09161:8796:0:2"/>
+    </busStop>
+    <busStop id="13702" name="Dr.-Maier-Straße" lane="-391029011#3_1" startPos="0.00" endPos="13.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:137:0:2"/>
+    </busStop>
+    <busStop id="145901" name="E" lane="-320733910#1_2" startPos="64.14" endPos="74.14">
+        <param key="DHID" value="de:09161:7526:0:1"/>
+    </busStop>
+    <busStop id="145902" name="Audi - GVZ, Halle H" lane="-710645371#5_0" startPos="106.35" endPos="116.35">
+        <param key="DHID" value="de:09161:7526:0:2"/>
+    </busStop>
+    <busStop id="146701" name="Technische Hochschule" lane="-145069303#4_1" startPos="21.28" endPos="31.28">
+        <param key="DHID" value="de:09161:7547:0:2"/>
+    </busStop>
+    <busStop id="146702" name="Technische Hochschule" lane="145069303#4_1" startPos="18.83" endPos="28.83">
+        <param key="DHID" value="de:09161:7533:0:4"/>
+    </busStop>
+    <busStop id="147301" name="Wielandstraße" lane="-29027727#9_2" startPos="10.78" endPos="20.78">
+        <param key="DHID" value="de:09161:7535:0:1"/>
+    </busStop>
+    <busStop id="147302" name="Wielandstraße" lane="29027727#9_2" startPos="65.42" endPos="75.42">
+        <param key="DHID" value="de:09161:7535:0:1"/>
+    </busStop>
+    <busStop id="14798" name="Effnerstraße " lane="-23622107#3_1" startPos="7.31" endPos="33.31" friendlyPos="true">
+        <param key="DHID" value="de:09161:8782:0:1"/>
+    </busStop>
+    <busStop id="14799" name="Effnerstraße " lane="23622107#4_1" startPos="6.24" endPos="32.24" friendlyPos="true">
+        <param key="DHID" value="de:09161:8782:0:2"/>
+    </busStop>
+    <busStop id="148199" name="Existenzgründerzentrum" lane="-23258631#5_1" startPos="22.39" endPos="32.39">
+        <param key="DHID" value="de:09161:2907:0:1"/>
+    </busStop>
+    <busStop id="148301" name="Audi - GVZ, Halle G" lane="-320733909#1_2" startPos="4.32" endPos="14.32">
+        <param key="DHID" value="de:09161:7527:0:1"/>
+    </busStop>
+    <busStop id="148302" name="Audi - GVZ, Halle G" lane="320733909#1_2" startPos="19.69" endPos="29.69">
+        <param key="DHID" value="de:09161:7527:0:1"/>
+    </busStop>
+    <busStop id="14899" name="Egerlandstraße" lane="140834249#8_1" startPos="79.94" endPos="105.95" friendlyPos="true">
+        <param key="DHID" value="de:09161:148:0:99"/>
+    </busStop>
+    <busStop id="149299" name="Audi - GVZ, Halle O" lane="98323002#3_0" startPos="90.66" endPos="105.18">
+        <param key="DHID" value="de:09161:1492:0:99"/>
+    </busStop>
+    <busStop id="156198" name="Schwäblstraße" lane="-48742425#3_2" startPos="59.79" endPos="75.09">
+        <param key="DHID" value="de:09161:1561:0:98"/>
+    </busStop>
+    <busStop id="156199" name="Schwäblstraße" lane="48742425#3_2" startPos="34.13" endPos="50.40">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:1561:0:99"/>
+    </busStop>
+    <busStop id="156301" name="Friedhof, Oberhaunstadt " lane="25377287#7_1" startPos="72.34" endPos="98.34" friendlyPos="true">
+        <param key="DHID" value="de:09161:7538:0:1"/>
+    </busStop>
+    <busStop id="156302" name="Friedhof, Oberhaunstadt " lane="-32203888#1_1" startPos="35.56" endPos="61.56" friendlyPos="true">
+        <param key="DHID" value="de:09161:7538:0:2"/>
+    </busStop>
+    <busStop id="156401" name="Röntgenstraße" lane="25377287#3_1" startPos="2.47" endPos="28.47" friendlyPos="true">
+        <param key="DHID" value="de:09161:7537:0:1"/>
+    </busStop>
+    <busStop id="156402" name="Röntgenstraße" lane="-25377287#2_1" startPos="0.00" endPos="16.91" friendlyPos="true">
+        <param key="DHID" value="de:09161:7537:0:2"/>
+    </busStop>
+    <busStop id="156501" name="Nobelstraße" lane="29459180#1_1" startPos="155.45" endPos="181.45" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:7536:0:1"/>
+    </busStop>
+    <busStop id="156502" name="Nobelstraße" lane="-32140444#3_1" startPos="83.24" endPos="109.24" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:7536:0:2"/>
+    </busStop>
+    <busStop id="157401" name="St. Markus" lane="266607804#1_2" startPos="55.10" endPos="65.10" friendlyPos="true">
+        <param key="DHID" value="de:09161:7984:0:3"/>
+    </busStop>
+    <busStop id="157402" name="St. Markus" lane="-266607803#1_2" startPos="49.31" endPos="59.31" friendlyPos="true">
+        <param key="DHID" value="de:09161:7984:0:4"/>
+    </busStop>
+    <busStop id="159401" name="Audi - Tradition" lane="-320733911#0_2" startPos="18.27" endPos="28.27">
+        <param key="DHID" value="de:09161:7525:0:1"/>
+    </busStop>
+    <busStop id="159402" name="Audi - Tradition" lane="320733908_2" startPos="12.99" endPos="27.35">
+        <param key="DHID" value="de:09161:7525:0:2"/>
+    </busStop>
+    <busStop id="162401" name="Donautherme" lane="-164051438#0.17_2" startPos="30.82" endPos="56.82" friendlyPos="true">
+        <param key="DHID" value="de:09161:1624:0:1"/>
+    </busStop>
+    <busStop id="162402" name="Donautherme" lane="164051438#0_2" startPos="41.20" endPos="67.20" friendlyPos="true">
+        <param key="DHID" value="de:09161:1624:0:2"/>
+    </busStop>
+    <busStop id="162598" name="Saturn-Arena " lane="141058765_2" startPos="18.30" endPos="44.30" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:1625:0:98"/>
+    </busStop>
+    <busStop id="162599" name="Saturn-Arena " lane="4268816#0_2" startPos="37.15" endPos="63.15" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:1625:0:99"/>
+    </busStop>
+    <busStop id="162601" name="Liegnitzer Straße " lane="201953161#0_1" startPos="13.55" endPos="39.55" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:8784:0:1"/>
+    </busStop>
+    <busStop id="162602" name="Liegnitzer Straße " lane="-140834255#1_1" startPos="31.39" endPos="57.39" friendlyPos="true">
+        <param key="DHID" value="de:09161:1626:0:3"/>
+    </busStop>
+    <busStop id="162603" name="Liegnitzer Straße " lane="140834255#1_1" startPos="1.74" endPos="27.74" friendlyPos="true">
+        <param key="DHID" value="de:09161:8784:0:2"/>
+    </busStop>
+    <busStop id="164801" name="St. Anton" lane="26339476#1_1" startPos="13.10" endPos="23.10">
+        <param key="DHID" value="de:09161:1648:0:3"/>
+    </busStop>
+    <busStop id="164802" name="St. Anton " lane="247392223_1" startPos="0.00" endPos="25.11" friendlyPos="true">
+        <param key="DHID" value="de:09161:7983:0:2"/>
+    </busStop>
+    <busStop id="164803" name="St. Anton" lane="200949176#0_2" startPos="15.90" endPos="25.90">
+        <param key="DHID" value="de:09161:1648:0:3"/>
+    </busStop>
+    <busStop id="16501" name="Eigenheimstraße " lane="-40623117#1_2" startPos="0.00" endPos="23.38" friendlyPos="true">
+        <param key="DHID" value="de:09161:8800:0:1"/>
+    </busStop>
+    <busStop id="16502" name="Eigenheimstraße" lane="391208988_2" startPos="12.85" endPos="22.85">
+        <param key="DHID" value="de:09161:8800:0:2"/>
+    </busStop>
+    <busStop id="167301" name="Nordbahnhof Ost" lane="29027727#0_2" startPos="16.06" endPos="30.59">
+        <param key="DHID" value="de:09161:7534:0:1"/>
+    </busStop>
+    <busStop id="167302" name="Nordbahnhof Ost" lane="-29027727#0_2" startPos="9.90" endPos="24.65">
+        <param key="DHID" value="de:09161:7534:0:2"/>
+    </busStop>
+    <busStop id="167799" name="Ingolstadt Village" lane="25623134#0_1" startPos="0.00" endPos="13.83" friendlyPos="true">
+        <param key="DHID" value="de:09161:1677:0:99"/>
+    </busStop>
+    <busStop id="168101" name="Frühlingstraße" lane="24970784#5_2" startPos="13.37" endPos="23.37">
+        <param key="DHID" value="de:09161:7428:0:1"/>
+    </busStop>
+    <busStop id="168102" name="Frühlingstraße" lane="-24970784#3_2" startPos="10.94" endPos="20.94">
+        <param key="DHID" value="de:09161:7428:0:2"/>
+    </busStop>
+    <busStop id="173101" name="Speckweg" lane="675757785#2_1" startPos="42.60" endPos="75.03" friendlyPos="true">
+        <param key="DHID" value="de:09161:1731:0:1"/>
+    </busStop>
+    <busStop id="173102" name="Speckweg" lane="-675757785#3_1" startPos="181.90" endPos="207.90" friendlyPos="true">
+        <param key="DHID" value="de:09161:1731:0:2"/>
+    </busStop>
+    <busStop id="17901" name="Eriagstraße" lane="146973214#11_0" startPos="0.00" endPos="14.16" friendlyPos="true">
+        <param key="DHID" value="de:09161:179:0:1"/>
+    </busStop>
+    <busStop id="17902" name="Eriagstraße" lane="-146973214#9_0" startPos="0.62" endPos="26.62" friendlyPos="true">
+        <param key="DHID" value="de:09161:179:0:2"/>
+    </busStop>
+    <busStop id="18001" name="Erletstraße" lane="-22486112#1_1" startPos="42.74" endPos="68.74" friendlyPos="true">
+        <param key="DHID" value="de:09161:180:0:1"/>
+    </busStop>
+    <busStop id="18002" name="Erletstraße" lane="22486112#0_1" startPos="9.25" endPos="40.24" friendlyPos="true">
+        <param key="DHID" value="de:09161:180:0:2"/>
+    </busStop>
+    <busStop id="180301" name="Linnestraße" lane="136728344#4.72_1" startPos="44.34" endPos="66.77">
+        <param key="DHID" value="de:09161:8886:0:1"/>
+    </busStop>
+    <busStop id="180302" name="Friedrichshofener Straße" lane="-130185488#1.58_1" startPos="3.15" endPos="29.15" friendlyPos="true">
+        <param key="DHID" value="de:09161:8886:0:2"/>
+    </busStop>
+    <busStop id="180801" name="Gaimersheim, Gewerbegebiet" lane="-161783477_1" startPos="164.08" endPos="190.08" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:8036:0:1"/>
+    </busStop>
+    <busStop id="180802" name="Gaimersheim, Gewerbegebiet" lane="-161783480_1" startPos="0.00" endPos="13.00" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:8036:0:1"/>
+    </busStop>
+    <busStop id="181101" name="Elisabethstraße" lane="718844698#6_1" startPos="0.34" endPos="13.38">
+        <param key="DHID" value="de:09161:8901:0:2"/>
+    </busStop>
+    <busStop id="181102" name="Elisabethstraße " lane="-718844698#6_1" startPos="23.40" endPos="36.50" friendlyPos="true">
+        <param key="DHID" value="de:09161:8901:0:2"/>
+    </busStop>
+    <busStop id="18301" name="Ettringer Straße" lane="-315358242#3_2" startPos="4.51" endPos="27.27">
+        <param key="DHID" value="de:09161:8050:0:1"/>
+    </busStop>
+    <busStop id="18302" name="Ettinger Straße" lane="315358242#4_2" startPos="39.27" endPos="58.08">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:8050:0:2"/>
+    </busStop>
+    <busStop id="18303" name="Ettinger Straße" lane="386687242#1_2" startPos="10.06" endPos="31.89">
+        <param key="DHID" value="de:09161:8050:0:3"/>
+    </busStop>
+    <busStop id="18304" name="Ettinger Straße" lane="386687235#1_2" startPos="13.17" endPos="33.95">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:8050:0:4"/>
+    </busStop>
+    <busStop id="184096" name="Audi - Sportpark" lane="387031636.74_0" startPos="25.84" endPos="36.23">
+        <param key="DHID" value="de:09161:1840:0:96"/>
+    </busStop>
+    <busStop id="184097" name="Audi - Sportpark" lane="387031636.74_0" startPos="48.64" endPos="60.59">
+        <param key="DHID" value="de:09161:1840:0:97"/>
+    </busStop>
+    <busStop id="184099" name="Audi - Sportpark" lane="387031636_0" startPos="0.00" endPos="69.54" friendlyPos="true">
+        <param key="DHID" value="de:09161:1840:0:99"/>
+    </busStop>
+    <busStop id="184599" name="Ingolstadt, Hauptbahnhof Ost" lane="-591899019_0" startPos="14.53" endPos="40.57">
+        <param key="DHID" value="de:09161:1845:0:99"/>
+    </busStop>
+    <busStop id="184601" name="Gaimersheim, Horchstraße" lane="320733892#0_1" startPos="41.98" endPos="67.98" friendlyPos="true">
+        <param key="DHID" value="de:09161:8036:0:1"/>
+    </busStop>
+    <busStop id="184602" name="Gaimersheim, Horchstraße" lane="-148527688#2_1" startPos="9.41" endPos="35.41" friendlyPos="true">
+        <param key="DHID" value="de:09161:8036:0:1"/>
+    </busStop>
+    <busStop id="184901" name="Gaimersheim, Bahnhof" lane="E3_0" startPos="83.35" endPos="93.35">
+        <param key="DHID" value="de:09161:8036:0:1"/>
+    </busStop>
+    <busStop id="184902" name="Gaimersheim, Bahnhof" lane="-E3_0" startPos="29.38" endPos="39.38">
+        <param key="DHID" value="de:09161:8036:0:1"/>
+    </busStop>
+    <busStop id="185001" name="Audi Tor 3" lane="-542806889_2" startPos="48.34" endPos="58.34" friendlyPos="true">
+        <param key="DHID" value="de:09161:1850:0:1"/>
+    </busStop>
+    <busStop id="185002" name="Audi Tor 3" lane="542806889_2" startPos="11.56" endPos="21.56" friendlyPos="true">
+        <param key="DHID" value="de:09161:1850:0:1"/>
+    </busStop>
+    <busStop id="18501" name="Fauststraße" lane="-60100821#0_1" startPos="30.62" endPos="53.96">
+        <param key="DHID" value="de:09161:8900:0:2"/>
+    </busStop>
+    <busStop id="18502" name="Fauststraße" lane="60100821#0_1" startPos="41.37" endPos="67.37" friendlyPos="true">
+        <param key="DHID" value="de:09161:8900:0:1"/>
+    </busStop>
+    <busStop id="185101" name="Audi - A 56" lane="611319808#2_0" startPos="4.44" endPos="14.44">
+        <param key="DHID" value="de:09161:1851:0:1"/>
+    </busStop>
+    <busStop id="185102" name="Audi - A 56" lane="805074683#0_0" startPos="43.52" endPos="53.52">
+        <param key="DHID" value="de:09161:1851:0:1"/>
+    </busStop>
+    <busStop id="185301" name="Audi - T 35 / T 23" lane="-335392792_0" startPos="77.85" endPos="87.85">
+        <param key="DHID" value="de:09161:1853:0:2"/>
+    </busStop>
+    <busStop id="185302" name="Audi - T 35 / T 23" lane="335392792_0" startPos="17.43" endPos="27.43">
+        <param key="DHID" value="de:09161:1853:0:2"/>
+    </busStop>
+    <busStop id="185699" name="Lentinger Straße" lane="-127076895_1" startPos="0.00" endPos="29.49" friendlyPos="true">
+        <param key="DHID" value="de:09161:1856:0:99"/>
+    </busStop>
+    <busStop id="18601" name="Feldschlößl" lane="4942575#0_2" startPos="63.34" endPos="73.34">
+        <param key="DHID" value="de:09161:8824:0:2"/>
+    </busStop>
+    <busStop id="18602" name="Feldschlößl" lane="31342350#4_2" startPos="99.83" endPos="109.83">
+        <param key="DHID" value="de:09161:8824:0:2"/>
+    </busStop>
+    <busStop id="186301" name="Am Eichelanger" lane="22603941#3_1" startPos="18.14" endPos="44.14" friendlyPos="true">
+        <param key="DHID" value="de:09186:8130:0:1"/>
+    </busStop>
+    <busStop id="186302" name="Am Eichelanger" lane="-147014252#2_1" startPos="21.28" endPos="47.28" friendlyPos="true">
+        <param key="DHID" value="de:09186:8130:0:2"/>
+    </busStop>
+    <busStop id="186501" name="Niederfelder Straße " lane="51262568_1" startPos="23.63" endPos="49.63" friendlyPos="true">
+        <param key="DHID" value="de:09161:8954:0:1"/>
+    </busStop>
+    <busStop id="186502" name="Niederfelder Straße" lane="-30315926#1_2" startPos="17.29" endPos="27.29">
+        <param key="DHID" value="de:09161:8954:0:2"/>
+    </busStop>
+    <busStop id="186601" name="Meinlettenstraße" lane="41494741#2_2" startPos="12.61" endPos="22.61">
+        <param key="DHID" value="de:09161:8955:0:1"/>
+    </busStop>
+    <busStop id="186602" name="Meinlettenstraße" lane="-201400751#0_2" startPos="297.28" endPos="307.28">
+        <param key="DHID" value="de:09161:8955:0:2"/>
+    </busStop>
+    <busStop id="18701" name="Feselenstraße" lane="23184252#2_1" startPos="44.41" endPos="70.41" friendlyPos="true">
+        <param key="DHID" value="de:09161:187:0:2"/>
+    </busStop>
+    <busStop id="18702" name="Feselenstraße" lane="-23184252#2_1" startPos="7.20" endPos="33.20" friendlyPos="true">
+        <param key="DHID" value="de:09161:187:0:1"/>
+    </busStop>
+    <busStop id="187401" name="Gaimersheim, Lilienthalstraße " lane="148527678#0_1" startPos="21.30" endPos="47.30" friendlyPos="true">
+        <param key="DHID" value="de:09161:1492:0:2"/>
+    </busStop>
+    <busStop id="187402" name="Gaimersheim, Lilienthalstraße " lane="-148527678#0_1" startPos="94.99" endPos="120.99" friendlyPos="true">
+        <param key="DHID" value="de:09161:1492:0:2"/>
+    </busStop>
+    <busStop id="188401" name="Audi - T2" lane="-206411605#7_0" startPos="6.81" endPos="16.81">
+        <param key="DHID" value="de:09161:7635:0:1"/>
+    </busStop>
+    <busStop id="188402" name="Audi - T2" lane="206411605#7_0" startPos="129.98" endPos="139.98">
+        <param key="DHID" value="de:09161:7635:0:2"/>
+    </busStop>
+    <busStop id="188501" name="Audi - T 41" lane="206411605#7_0" startPos="1.83" endPos="11.83">
+        <param key="DHID" value="de:09161:7668:0:2"/>
+    </busStop>
+    <busStop id="188502" name="Audi - T41" lane="-206411605#7_0" startPos="131.93" endPos="141.93">
+        <param key="DHID" value="de:09161:7668:0:2"/>
+    </busStop>
+    <busStop id="188601" name="Audi - Bahnhalt Süd" lane="-29254786#0_0" startPos="5.42" endPos="15.42">
+        <param key="DHID" value="de:09161:7678:0:2"/>
+    </busStop>
+    <busStop id="188602" name="Audi - Bahnhalt Süd" lane="29254786#0_0" startPos="6.25" endPos="16.25">
+        <param key="DHID" value="de:09161:7678:0:2"/>
+    </busStop>
+    <busStop id="189199" name="Pfingstäckerweg" lane="-23622056#0_1" startPos="67.21" endPos="91.82">
+        <param key="DHID" value="de:09161:80:0:1"/>
+    </busStop>
+    <busStop id="189299" name="Steigerwaldstraße " lane="-307536275#3_1" startPos="537.29" endPos="563.29" friendlyPos="true">
+        <param key="DHID" value="de:09161:1892:0:99"/>
+    </busStop>
+    <busStop id="189799" name="Isaak-Newton-Straße" lane="-146973218#1_1" startPos="62.30" endPos="72.30">
+        <param key="DHID" value="de:09161:4438:0:1"/>
+    </busStop>
+    <busStop id="190101" name="Am Kreuzäcker" lane="41522169#3_1" startPos="18.17" endPos="44.17" friendlyPos="true">
+        <param key="DHID" value="de:09161:7485:0:1"/>
+    </busStop>
+    <busStop id="190102" name="Am Kreuzäcker" lane="-41522169#2_1" startPos="88.91" endPos="114.91" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:7485:0:2"/>
+    </busStop>
+    <busStop id="190601" name="Bahnhof Ingolstadt Audi - Bussteig 1" lane="763221359_0" startPos="12.90" endPos="27.15">
+        <param key="DHID" value="de:09161:1750:1:1"/>
+    </busStop>
+    <busStop id="190602" name="Bahnhof Ingolstadt Audi - Bussteig 2" lane="763221359_0" startPos="34.22" endPos="47.60">
+        <param key="DHID" value="de:09161:1750:1:1"/>
+    </busStop>
+    <busStop id="190603" name="Bahnhof Ingolstadt Audi - Bussteig 3" lane="763221359_0" startPos="53.75" endPos="65.52">
+        <param key="DHID" value="de:09161:1750:1:2"/>
+    </busStop>
+    <busStop id="190604" name="Bahnhof Ingolstadt Audi - Bussteig 4" lane="763221359_0" startPos="71.40" endPos="82.83">
+        <param key="DHID" value="de:09161:1750:1:3"/>
+    </busStop>
+    <busStop id="190605" name="Bahnhof Ingolstadt Audi - Bussteig 5" lane="763360623_0" startPos="38.70" endPos="50.53">
+        <param key="DHID" value="de:09161:1750:1:6"/>
+    </busStop>
+    <busStop id="190606" name="Bahnhof Ingolstadt Audi - Bussteig 6" lane="763360623_0" startPos="59.24" endPos="70.50">
+        <param key="DHID" value="de:09161:1750:1"/>
+    </busStop>
+    <busStop id="190607" name="Bahnhof Ingolstadt Audi - Bussteig 7" lane="763360623_0" startPos="79.08" endPos="91.79">
+        <param key="DHID" value="de:09161:1750:1:7"/>
+    </busStop>
+    <busStop id="190608" name="Bahnhof Ingolstadt Audi - Bussteig 8" lane="763360623_0" startPos="96.76" endPos="109.81">
+        <param key="DHID" value="de:09161:1750:1:8"/>
+    </busStop>
+    <busStop id="19701" name="Fraunhoferstraße" lane="-205182378#5_1" startPos="63.07" endPos="89.07" friendlyPos="true">
+        <param key="DHID" value="de:09161:7989:0:1"/>
+    </busStop>
+    <busStop id="19702" name="Fraunhoferstraße" lane="205182378#6_1" startPos="21.71" endPos="47.71" friendlyPos="true">
+        <param key="DHID" value="de:09161:7989:0:10"/>
+    </busStop>
+    <busStop id="20101" name="Friedrich-Ebert-Straße" lane="137463475#2_2" startPos="78.28" endPos="88.28">
+        <param key="DHID" value="de:09161:201:0:1"/>
+    </busStop>
+    <busStop id="20102" name="Friedrich-Ebert-Straße" lane="-137463475#2_2" startPos="54.11" endPos="64.11">
+        <param key="DHID" value="de:09161:201:0:1"/>
+    </busStop>
+    <busStop id="20201" name="Frueaufstraße" lane="-201286890#3_1" startPos="71.48" endPos="97.48" friendlyPos="true">
+        <param key="DHID" value="de:09161:202:0:1"/>
+    </busStop>
+    <busStop id="20202" name="Frueaufstraße" lane="201286890#3_1" startPos="39.07" endPos="65.07" friendlyPos="true">
+        <param key="DHID" value="de:09161:202:0:2"/>
+    </busStop>
+    <busStop id="20401" name="Gabelsbergerstraße" lane="201238718#0_2" startPos="109.57" endPos="122.17">
+        <param key="DHID" value="de:09161:204:0:2"/>
+    </busStop>
+    <busStop id="20402" name="Gabelsbergerstraße" lane="-201238718#0_2" startPos="89.11" endPos="103.29">
+        <param key="DHID" value="de:09161:204:0:2"/>
+    </busStop>
+    <busStop id="21401" name="Gaimersheim, Kraibergstraße" lane="-320733901#1_1" startPos="21.58" endPos="31.58" friendlyPos="true">
+        <param key="DHID" value="de:09161:8036:0:1"/>
+    </busStop>
+    <busStop id="21402" name="Gaimersheim, Kraibergstraße " lane="320733901#0_1" startPos="0.00" endPos="15.11" friendlyPos="true">
+        <param key="DHID" value="de:09161:8036:0:1"/>
+    </busStop>
+    <busStop id="21601" name="Gaimersheim, Mittlere Heide " lane="-307562643#0_1" startPos="60.12" endPos="86.12" friendlyPos="true">
+        <param key="DHID" value="de:09161:8036:0:1"/>
+    </busStop>
+    <busStop id="21602" name="Gaimersheim, Mittlere Heide " lane="379795383_1" startPos="0.00" endPos="20.10" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:8036:0:1"/>
+    </busStop>
+    <busStop id="23101" name="Gaimersheimer Straße" lane="28319300#0_1" startPos="0.00" endPos="25.98" friendlyPos="true">
+        <param key="DHID" value="de:09161:231:0:1"/>
+    </busStop>
+    <busStop id="23102" name="Gaimersheimer Straße" lane="-201201945#11_2" startPos="14.25" endPos="34.94">
+        <param key="DHID" value="de:09161:231:0:2"/>
+    </busStop>
+    <busStop id="23201" name="Ganghoferstraße " lane="30482638#12_1" startPos="7.56" endPos="33.56" friendlyPos="true">
+        <param key="DHID" value="de:09161:232:0:2"/>
+    </busStop>
+    <busStop id="23202" name="Ganghoferstraße " lane="-30482638#12_1" startPos="105.09" endPos="131.09" friendlyPos="true">
+        <param key="DHID" value="de:09161:232:0:1"/>
+    </busStop>
+    <busStop id="23301" name="Geibelstraße" lane="202070429#11_2" startPos="73.46" endPos="83.46">
+        <param key="DHID" value="de:09161:7439:0:1"/>
+    </busStop>
+    <busStop id="23302" name="Geibelstraße" lane="-202070429#11_2" startPos="170.74" endPos="180.74">
+        <param key="DHID" value="de:09161:7439:0:2"/>
+    </busStop>
+    <busStop id="2399" name="Am Westpark 1" lane="392714143#1.19_1" startPos="0.00" endPos="16.78" friendlyPos="true">
+        <param key="DHID" value="de:09161:7613:0:1"/>
+    </busStop>
+    <busStop id="24101" name="Geisenfelder Straße " lane="-141058755#1_1" startPos="87.13" endPos="113.13" friendlyPos="true">
+        <param key="DHID" value="de:09161:7992:0:1"/>
+    </busStop>
+    <busStop id="24102" name="Geisenfelder Straße " lane="141058755#1_1" startPos="66.98" endPos="92.98" friendlyPos="true">
+        <param key="DHID" value="de:09161:7992:0:2"/>
+    </busStop>
+    <busStop id="24701" name="Georgstraße" lane="25638761#5_1" startPos="0.00" endPos="22.49" friendlyPos="true">
+        <param key="DHID" value="de:09161:8795:0:1"/>
+    </busStop>
+    <busStop id="24702" name="Georgstraße" lane="-25638761#4_1" startPos="5.79" endPos="31.79" friendlyPos="true">
+        <param key="DHID" value="de:09161:8795:0:2"/>
+    </busStop>
+    <busStop id="25999" name="Grundnerstraße" lane="391029014#0_1" startPos="0.00" endPos="17.88" friendlyPos="true">
+        <param key="DHID" value="de:09161:259:0:99"/>
+    </busStop>
+    <busStop id="26299" name="Gutenbergstraße " lane="-201789796_1" startPos="6.89" endPos="32.89" friendlyPos="true">
+        <param key="DHID" value="de:09161:262:0:99"/>
+    </busStop>
+    <busStop id="26601" name="Hackerstraße " lane="146973236#14_1" startPos="29.86" endPos="55.86" friendlyPos="true">
+        <param key="DHID" value="de:09161:266:0:1"/>
+    </busStop>
+    <busStop id="26602" name="Hackerstraße " lane="-146973236#13_1" startPos="0.00" endPos="25.20" friendlyPos="true">
+        <param key="DHID" value="de:09161:266:0:2"/>
+    </busStop>
+    <busStop id="27801" name="Haltmayrstraße" lane="-136728347#0_2" startPos="12.31" endPos="22.31">
+        <param key="DHID" value="de:09161:8095:0:1"/>
+    </busStop>
+    <busStop id="27802" name="Haltmayrstraße" lane="128906555_1" startPos="25.77" endPos="35.77">
+        <param key="DHID" value="de:09161:8095:0:2"/>
+    </busStop>
+    <busStop id="28201" name="Hans-Mielich-Straße " lane="-32530108#3_1" startPos="68.08" endPos="94.08" friendlyPos="true">
+        <param key="DHID" value="de:09161:7991:0:1"/>
+    </busStop>
+    <busStop id="28202" name="Hans-Mielich-Straße " lane="32530108#3_1" startPos="6.95" endPos="32.95" friendlyPos="true">
+        <param key="DHID" value="de:09161:7991:0:2"/>
+    </busStop>
+    <busStop id="28401" name="Harderstraße " lane="-32924041#0_1" startPos="0.00" endPos="19.25" friendlyPos="true">
+        <param key="DHID" value="de:09161:8001:0:1"/>
+    </busStop>
+    <busStop id="28402" name="Harderstraße " lane="32924041#0_1" startPos="0.72" endPos="26.72" friendlyPos="true">
+        <param key="DHID" value="de:09161:8001:0:1"/>
+    </busStop>
+    <busStop id="28601" name="Haslangstraße" lane="18809673#9_2" startPos="0.69" endPos="10.69">
+        <param key="DHID" value="de:09161:8031:0:1"/>
+    </busStop>
+    <busStop id="28602" name="Haslangstraße" lane="-18809673#5_2" startPos="2.15" endPos="12.15">
+        <param key="DHID" value="de:09161:8031:0:2"/>
+    </busStop>
+    <busStop id="28701" name="Haunwöhrer Straße" lane="-174609517#4_2" startPos="5.31" endPos="15.31">
+        <param key="DHID" value="de:09161:8799:0:2"/>
+    </busStop>
+    <busStop id="28702" name="Haunwöhrer Straße" lane="174609517#4_2" startPos="25.17" endPos="35.17">
+        <param key="DHID" value="de:09161:8799:0:1"/>
+    </busStop>
+    <busStop id="29101" name="Heidemannstraße" lane="-653473569#2_2" startPos="31.06" endPos="41.06" friendlyPos="true">
+        <param key="DHID" value="de:09161:8028:0:1"/>
+    </busStop>
+    <busStop id="29102" name="Heidemannstraße" lane="653473569#3_2" startPos="19.99" endPos="29.99" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:8028:0:1"/>
+    </busStop>
+    <busStop id="30499" name="Herschelstraße" lane="379520414#1_1" startPos="1.93" endPos="16.95" friendlyPos="true">
+        <param key="DHID" value="de:09161:304:0:99"/>
+    </busStop>
+    <busStop id="30701" name="Heydeckstraße" lane="64464405_2" startPos="56.52" endPos="82.52" friendlyPos="true">
+        <param key="DHID" value="de:09161:8003:0:1"/>
+    </busStop>
+    <busStop id="30801" name="Heysestraße" lane="30482638#2_1" startPos="28.46" endPos="54.46" friendlyPos="true">
+        <param key="DHID" value="de:09161:308:0:1"/>
+    </busStop>
+    <busStop id="30802" name="Heysestraße" lane="-30482638#2_1" startPos="24.77" endPos="50.77" friendlyPos="true">
+        <param key="DHID" value="de:09161:308:0:1"/>
+    </busStop>
+    <busStop id="30901" name="Hindemithstraße" lane="54169280#5_2" startPos="5.57" endPos="15.57" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:8047:0:1"/>
+    </busStop>
+    <busStop id="31301" name="Hölderlinstraße" lane="-97304242#6_2" startPos="18.96" endPos="28.96">
+        <param key="DHID" value="de:09161:313:0:2"/>
+    </busStop>
+    <busStop id="31302" name="Hölderlinstraße" lane="97304242#6_2" startPos="117.89" endPos="127.89">
+        <param key="DHID" value="de:09161:313:0:2"/>
+    </busStop>
+    <busStop id="3202" name="Alban-Berg-Straße" lane="176550249#6_2" startPos="20.28" endPos="43.32">
+        <param key="DHID" value="de:09161:7626:0:2"/>
+    </busStop>
+    <busStop id="32501" name="Hugo-Wolf-Straße" lane="24634505_1" startPos="6.25" endPos="32.25" friendlyPos="true">
+        <param key="DHID" value="de:09161:325:0:2"/>
+    </busStop>
+    <busStop id="34002" name="Jurastraße" lane="-307536275#0_1" startPos="104.43" endPos="130.43" friendlyPos="true">
+        <param key="DHID" value="de:09161:8777:0:2"/>
+    </busStop>
+    <busStop id="34098" name="Jurastraße" lane="393420112#2_1" startPos="0.06" endPos="25.98">
+        <param key="DHID" value="de:09161:340:0:99"/>
+    </busStop>
+    <busStop id="34099" name="Jurastraße" lane="-393420112#2_1" startPos="1.33" endPos="27.33" friendlyPos="true">
+        <param key="DHID" value="de:09161:340:0:98"/>
+    </busStop>
+    <busStop id="34101" name="Kälberschüttstraße/IN Campus" lane="164051405#1_0" startPos="30.06" endPos="56.06" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:8789:0:2"/>
+    </busStop>
+    <busStop id="34102" name="Kälberschüttstraße/IN Campus" lane="-164051405#1_0" startPos="25.81" endPos="51.81" friendlyPos="true">
+        <param key="DHID" value="de:09161:8789:0:2"/>
+    </busStop>
+    <busStop id="3501" name="Am Augraben" lane="29459180#0_1" startPos="37.76" endPos="63.76" friendlyPos="true">
+        <param key="DHID" value="de:09161:8010:0:2"/>
+    </busStop>
+    <busStop id="3502" name="Am Augraben" lane="-29459180#0_1" startPos="8.14" endPos="34.14" friendlyPos="true">
+        <param key="DHID" value="de:09161:8010:0:1"/>
+    </busStop>
+    <busStop id="3801" name="Am Auwaldsee " lane="-203971377#0_1" startPos="147.89" endPos="173.89" friendlyPos="true">
+        <param key="DHID" value="de:09161:8787:0:1"/>
+    </busStop>
+    <busStop id="3802" name="Am Auwaldsee " lane="42444460#4_1" startPos="17.80" endPos="43.80" friendlyPos="true">
+        <param key="DHID" value="de:09161:8787:0:2"/>
+    </busStop>
+    <busStop id="38201" name="Keplerstraße" lane="201201953#4_2" startPos="4.05" endPos="23.20">
+        <param key="DHID" value="de:09161:7622:0:1"/>
+    </busStop>
+    <busStop id="39001" name="Klinikum" lane="378946911_1" startPos="0.00" endPos="26.00" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:8033:0:2"/>
+    </busStop>
+    <busStop id="39002" name="Klinikum" lane="378946911_1" startPos="25.15" endPos="51.15" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:8033:0:2"/>
+    </busStop>
+    <busStop id="3901" name="Am Dachsberg " lane="-24754837#1_1" startPos="167.11" endPos="193.11" friendlyPos="true">
+        <param key="DHID" value="de:09161:8035:0:1"/>
+    </busStop>
+    <busStop id="3902" name="Am Dachsberg " lane="24754837#1_1" startPos="0.00" endPos="13.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:8035:0:2"/>
+    </busStop>
+    <busStop id="39099" name="Klinikum" lane="201201949#1_1" startPos="2.65" endPos="28.65" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:8033:0:3"/>
+    </busStop>
+    <busStop id="39601" name="Körnerstraße " lane="202070427#1_2" startPos="0.00" endPos="22.15" friendlyPos="true">
+        <param key="DHID" value="de:09161:7986:0:1"/>
+    </busStop>
+    <busStop id="39602" name="Körnerstraße " lane="33280102#2_2" startPos="49.83" endPos="75.83" friendlyPos="true">
+        <param key="DHID" value="de:09161:7986:0:2"/>
+    </busStop>
+    <busStop id="4001" name="Am Franziskanerwasser " lane="-146973200#1_1" startPos="82.71" endPos="108.71" friendlyPos="true">
+        <param key="DHID" value="de:09161:8666:0:1"/>
+    </busStop>
+    <busStop id="4002" name="Am Franziskanerwasser " lane="146973200#1_1" startPos="91.75" endPos="117.75" friendlyPos="true">
+        <param key="DHID" value="de:09161:8666:0:1"/>
+    </busStop>
+    <busStop id="41801" name="Kösching-Desching, Raffinerietor" lane="39857772#1_1" startPos="11.14" endPos="21.14">
+        <param key="DHID" value="de:09161:7423:0:1"/>
+    </busStop>
+    <busStop id="42501" name="Universität (Kreuztor)" lane="-749560260_1" startPos="0.00" endPos="25.07" friendlyPos="true">
+        <param key="DHID" value="de:09161:7996:0:3"/>
+    </busStop>
+    <busStop id="42502" name="Universität (Kreuztor)" lane="749560260_1" startPos="12.74" endPos="38.74" friendlyPos="true">
+        <param key="DHID" value="de:09161:7996:0:1"/>
+    </busStop>
+    <busStop id="42601" name="St. Pius / Kroppstraße" lane="23166741#5_2" startPos="21.58" endPos="37.83" friendlyPos="true">
+        <param key="DHID" value="de:09161:7623:0:1"/>
+    </busStop>
+    <busStop id="42701" name="Kurt-Huber-Straße" lane="201789794#1_2" startPos="0.73" endPos="22.20" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:7624:0:1"/>
+    </busStop>
+    <busStop id="42702" name="Kurt-Huber-Straße " lane="149045269#3_1" startPos="6.02" endPos="32.02" friendlyPos="true">
+        <param key="DHID" value="de:09161:7624:0:2"/>
+    </busStop>
+    <busStop id="42704" name="Kurt-Huber-Straße/Goethestraße" lane="-308849647#0_2" startPos="21.69" endPos="31.69">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:1870:0:2"/>
+    </busStop>
+    <busStop id="43001" name="St. Johannes / Ettinger Str." lane="-315358242#0_2" startPos="49.03" endPos="59.03">
+        <param key="DHID" value="de:09161:7546:0:1"/>
+    </busStop>
+    <busStop id="43002" name="St. Johannes / Ettinger Str." lane="315358242#0_2" startPos="56.97" endPos="66.97">
+        <param key="DHID" value="de:09161:7546:0:2"/>
+    </busStop>
+    <busStop id="44302" name="44302" lane="737320747#1_2" startPos="20.45" endPos="30.45" friendlyPos="true">
+        <param key="DHID" value="de:09161:8049:0:2"/>
+    </busStop>
+    <busStop id="44701" name="St. Johannes / Ettinger Str." lane="-40888351#0_1" startPos="73.40" endPos="98.72" friendlyPos="true">
+        <param key="DHID" value="de:09161:7571:0:2"/>
+    </busStop>
+    <busStop id="44702" name="Leharstraße" lane="40888351#0_1" startPos="18.29" endPos="44.29" friendlyPos="true">
+        <param key="DHID" value="de:09161:7571:0:1"/>
+    </busStop>
+    <busStop id="44801" name="Lena-Christ-Straße" lane="153220338#2_1" startPos="1.39" endPos="27.39" friendlyPos="true">
+        <param key="DHID" value="de:09161:8009:0:1"/>
+    </busStop>
+    <busStop id="44802" name="Lena-Christ-Straße" lane="-153220338#4_1" startPos="0.00" endPos="26.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:8009:0:2"/>
+    </busStop>
+    <busStop id="46201" name="Levelingstraße" lane="-24754876#5_2" startPos="17.83" endPos="27.83">
+        <param key="DHID" value="de:09161:8817:0:1"/>
+    </busStop>
+    <busStop id="46202" name="Levelingstraße" lane="24754876#5_2" startPos="14.32" endPos="24.32">
+        <param key="DHID" value="de:09161:8817:0:1"/>
+    </busStop>
+    <busStop id="46501" name="Stargarder Straße" lane="-201953160#3_1" startPos="68.51" endPos="78.51">
+        <param key="DHID" value="de:09161:465:0:1"/>
+    </busStop>
+    <busStop id="46701" name="Lindberghstraße " lane="-201933879#0_1" startPos="22.23" endPos="48.23" friendlyPos="true">
+        <param key="DHID" value="de:09161:7540:0:2"/>
+    </busStop>
+    <busStop id="46702" name="Lindberghstraße " lane="201933879#0_1" startPos="2.27" endPos="28.27" friendlyPos="true">
+        <param key="DHID" value="de:09161:7540:0:1"/>
+    </busStop>
+    <busStop id="46801" name="Linnestraße" lane="173169611#5_1" startPos="3.66" endPos="13.66" friendlyPos="true">
+        <param key="DHID" value="de:09161:468:0:1"/>
+    </busStop>
+    <busStop id="46802" name="Linnestraße" lane="-173169612_1" startPos="22.30" endPos="32.30">
+        <param key="DHID" value="de:09161:468:0:2"/>
+    </busStop>
+    <busStop id="47301" name="Mailing, Schule " lane="146973236#11_1" startPos="16.17" endPos="42.17" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:473:0:1"/>
+    </busStop>
+    <busStop id="47302" name="Mailing, Schule " lane="-146973236#11_1" startPos="0.00" endPos="16.73" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:473:0:2"/>
+    </busStop>
+    <busStop id="5001" name="Am Stadtweg" lane="-51262567#2_2" startPos="81.38" endPos="91.38">
+        <param key="DHID" value="de:09161:7993:0:1"/>
+    </busStop>
+    <busStop id="5002" name="Am Stadtweg" lane="51262567#3_2" startPos="33.96" endPos="43.96">
+        <param key="DHID" value="de:09161:7993:0:2"/>
+    </busStop>
+    <busStop id="501" name="Audi - GVZ" lane="201894096#0_1" startPos="0.00" endPos="14.07" friendlyPos="true">
+        <param key="DHID" value="de:09161:849:0:99"/>
+    </busStop>
+    <busStop id="502" name="Audi - GVZ" lane="-220012723_1" startPos="0.00" endPos="13.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:7528:0:2"/>
+    </busStop>
+    <busStop id="50501" name="Marienplatz" lane="54154971_1" startPos="7.87" endPos="33.87" friendlyPos="true">
+        <param key="DHID" value="de:09161:505:0:1"/>
+    </busStop>
+    <busStop id="50502" name="Marienplatz" lane="-54154969#2_1" startPos="4.36" endPos="30.36" friendlyPos="true">
+        <param key="DHID" value="de:09161:505:0:2"/>
+    </busStop>
+    <busStop id="50899" name="Martin-Hemm-Straße" lane="51890708#1_0" startPos="3.72" endPos="19.22">
+        <param key="DHID" value="de:09161:508:0:99"/>
+    </busStop>
+    <busStop id="51201" name="Maximilianstraße" lane="-306431425#1_1" startPos="2.79" endPos="23.22">
+        <param key="DHID" value="de:09161:512:0:1"/>
+    </busStop>
+    <busStop id="51202" name="Maximilianstraße" lane="306431425#1_1" startPos="58.76" endPos="84.76" friendlyPos="true">
+        <param key="DHID" value="de:09161:512:0:2"/>
+    </busStop>
+    <busStop id="51601" name="Mendlstraße" lane="-51244813#6_2" startPos="9.74" endPos="35.74" friendlyPos="true">
+        <param key="DHID" value="de:09161:8801:0:1"/>
+    </busStop>
+    <busStop id="51602" name="Mendlstraße" lane="51244813#7_2" startPos="4.73" endPos="25.21">
+        <param key="DHID" value="de:09161:8801:0:2"/>
+    </busStop>
+    <busStop id="51901" name="Messerschmittstraße " lane="146973225#1.37_0" startPos="12.08" endPos="38.08" friendlyPos="true">
+        <param key="DHID" value="de:09161:519:0:1"/>
+    </busStop>
+    <busStop id="51902" name="Messerschmittstraße " lane="-146973225#1_0" startPos="9.25" endPos="35.25" friendlyPos="true">
+        <param key="DHID" value="de:09161:519:0:2"/>
+    </busStop>
+    <busStop id="52602" name="St. Pius / Mozartstraße" lane="201201950#4_2" startPos="6.68" endPos="31.37">
+        <param key="DHID" value="de:09161:526:0:2"/>
+    </busStop>
+    <busStop id="53999" name="Niederfeld" lane="38434578_1" startPos="74.81" endPos="100.81" friendlyPos="true">
+        <param key="DHID" value="de:09161:7995:0:1"/>
+    </busStop>
+    <busStop id="54393" name="Nordbahnhof / West Bussteig 3" lane="391606922_0" startPos="3.58" endPos="24.85">
+        <param key="DHID" value="de:09161:8007:2:3"/>
+    </busStop>
+    <busStop id="54395" name="Nordbahnhof / West Bussteig 4" lane="203127052_0" startPos="5.01" endPos="12.33">
+        <param key="DHID" value="de:09161:9009:90"/>
+    </busStop>
+    <busStop id="54396" name="Nordbahnhof / West Bussteig 2" lane="-203127050_0" startPos="1.26" endPos="14.50">
+        <param key="DHID" value="de:09161:9009:96"/>
+    </busStop>
+    <busStop id="54397" name="Nordbahnhof / West  Bussteig 5" lane="203127050_0" startPos="0.00" endPos="13.29">
+        <param key="DHID" value="de:09161:8007:2:5"/>
+    </busStop>
+    <busStop id="54398" name="Nordbahnhof / West Bussteig 1" lane="-203127052_0" startPos="3.27" endPos="10.65">
+        <param key="DHID" value="de:09161:8007:2"/>
+    </busStop>
+    <busStop id="54399" name="Nordbahnhof / West Bussteig 6" lane="306726646_1" startPos="0.00" endPos="20.61" friendlyPos="true">
+        <param key="DHID" value="de:09161:8007:2:5"/>
+    </busStop>
+    <busStop id="54401" name="Nordfriedhof" lane="201950263#5_2" startPos="2.28" endPos="17.32">
+        <param key="DHID" value="de:09161:7569:0:1"/>
+    </busStop>
+    <busStop id="54402" name="Nordfriedhof" lane="-201950263#5_1" startPos="1.70" endPos="16.29">
+        <param key="DHID" value="de:09161:7569:0:1"/>
+    </busStop>
+    <busStop id="54702" name="Nürnberger Straße " lane="266567304#0_2" startPos="17.41" endPos="43.41" friendlyPos="true">
+        <param key="DHID" value="de:09161:8006:0:2"/>
+    </busStop>
+    <busStop id="55101" name="Oberer Grasweg" lane="-274823622#1_1" startPos="8.23" endPos="34.23" friendlyPos="true">
+        <param key="DHID" value="de:09161:8005:0:1"/>
+    </busStop>
+    <busStop id="55102" name="Oberer Grasweg" lane="274823622#0_1" startPos="32.35" endPos="58.35" friendlyPos="true">
+        <param key="DHID" value="de:09161:8005:0:2"/>
+    </busStop>
+    <busStop id="55202" name="Dorfplatz, Oberhaunstadt" lane="-201828014#2_1" startPos="0.08" endPos="26.08" friendlyPos="true">
+        <param key="DHID" value="de:09161:8025:0:1"/>
+    </busStop>
+    <busStop id="56402" name="Osnabrücker Straße" lane="-391029012#0_1" startPos="5.32" endPos="31.32" friendlyPos="true">
+        <param key="DHID" value="de:09161:564:0:2"/>
+    </busStop>
+    <busStop id="57201" name="Parreutstraße" lane="-41139660#0_1" startPos="4.78" endPos="30.78" friendlyPos="true">
+        <param key="DHID" value="de:09161:572:0:1"/>
+    </busStop>
+    <busStop id="57202" name="Parreutstraße" lane="41139660#1_1" startPos="0.00" endPos="18.65" friendlyPos="true">
+        <param key="DHID" value="de:09161:572:0:2"/>
+    </busStop>
+    <busStop id="57301" name="Paul-Wegmann-Halle" lane="-205182378#2_1" startPos="130.77" endPos="156.77" friendlyPos="true">
+        <param key="DHID" value="de:09161:7990:0:1"/>
+    </busStop>
+    <busStop id="57302" name="Paul-Wegmann-Halle" lane="32530108#5_1" startPos="27.53" endPos="53.53" friendlyPos="true">
+        <param key="DHID" value="de:09161:7990:0:10"/>
+    </busStop>
+    <busStop id="57401" name="Peisserstraße" lane="201956816#0_1" startPos="0.00" endPos="14.32" friendlyPos="true">
+        <param key="DHID" value="de:09161:574:0:1"/>
+    </busStop>
+    <busStop id="57402" name="Peisserstraße" lane="-201956816#0_1" startPos="27.82" endPos="53.82" friendlyPos="true">
+        <param key="DHID" value="de:09161:574:0:2"/>
+    </busStop>
+    <busStop id="57701" name="Peringerstraße" lane="-25625950#1_1" startPos="0.00" endPos="13.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:577:0:3"/>
+    </busStop>
+    <busStop id="57702" name="Peringerstraße" lane="25626614#3_1" startPos="126.16" endPos="152.16" friendlyPos="true">
+        <param key="DHID" value="de:09161:8034:0:2"/>
+    </busStop>
+    <busStop id="57703" name="Peringerstraße" lane="-25626614#3_1" startPos="30.40" endPos="54.99">
+        <param key="DHID" value="de:09161:8034:0:2"/>
+    </busStop>
+    <busStop id="57801" name="Permoserstraße" lane="-201963533#1.188_1" startPos="1.29" endPos="27.29" friendlyPos="true">
+        <param key="DHID" value="de:09161:8887:0:1"/>
+    </busStop>
+    <busStop id="57802" name="Permoserstraße" lane="201963533#1_1" startPos="14.67" endPos="40.67" friendlyPos="true">
+        <param key="DHID" value="de:09161:8887:0:2"/>
+    </busStop>
+    <busStop id="57901" name="Pestalozzistraße" lane="305495773#2_2" startPos="5.71" endPos="31.71" friendlyPos="true">
+        <param key="DHID" value="de:09161:7572:0:1"/>
+    </busStop>
+    <busStop id="57902" name="Pestalozzistraße" lane="814691984#0_2" startPos="52.77" endPos="78.82" friendlyPos="true">
+        <param key="DHID" value="de:09161:7572:0:2"/>
+    </busStop>
+    <busStop id="58002" name="Peter-Steuart-Heim" lane="-28319300#2_1" startPos="7.76" endPos="26.18">
+        <param key="DHID" value="de:09161:580:0:2"/>
+    </busStop>
+    <busStop id="58101" name="Pettenkoferstraße " lane="201926269#0_1" startPos="0.00" endPos="20.90" friendlyPos="true">
+        <param key="DHID" value="de:09161:581:0:1"/>
+    </busStop>
+    <busStop id="58102" name="Pettenkoferstraße " lane="-389840423#2_1" startPos="0.00" endPos="16.98" friendlyPos="true">
+        <param key="DHID" value="de:09161:581:0:2"/>
+    </busStop>
+    <busStop id="58401" name="Pfitznerstraße" lane="-26677214#0_1" startPos="1.52" endPos="16.76">
+        <param key="DHID" value="de:09161:7570:0:1"/>
+    </busStop>
+    <busStop id="58402" name="Pfitznerstraße" lane="26677214#3_1" startPos="0.00" endPos="26.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:7570:0:2"/>
+    </busStop>
+    <busStop id="59301" name="Pionierkaserne" lane="-266887593#1_2" startPos="32.71" endPos="58.71" friendlyPos="true">
+        <param key="DHID" value="de:09161:7422:0:1"/>
+    </busStop>
+    <busStop id="59302" name="Pionierkaserne" lane="266887591_2" startPos="19.76" endPos="45.76" friendlyPos="true">
+        <param key="DHID" value="de:09161:7422:0:2"/>
+    </busStop>
+    <busStop id="59601" name="Plunder " lane="38434492#5_0" startPos="0.00" endPos="19.31" friendlyPos="true">
+        <param key="DHID" value="de:09161:7994:0:1"/>
+    </busStop>
+    <busStop id="59602" name="Plunder " lane="-38434492#4_1" startPos="60.90" endPos="86.90" friendlyPos="true">
+        <param key="DHID" value="de:09161:596:0:99"/>
+    </busStop>
+    <busStop id="60601" name="Rankestraße" lane="58295043_2" startPos="0.00" endPos="25.92" friendlyPos="true">
+        <param key="DHID" value="de:09161:7985:0:1"/>
+    </busStop>
+    <busStop id="60602" name="Rankestraße" lane="-58295043_2" startPos="0.00" endPos="13.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:7985:0:2"/>
+    </busStop>
+    <busStop id="60701" name="Ingolstadt, Rathausplatz/Schutterstraße " lane="753083360#1_1" startPos="0.00" endPos="22.61" friendlyPos="true">
+        <param key="DHID" value="de:09161:8000:0:1"/>
+    </busStop>
+    <busStop id="60702" name="Ingolstadt, Rathausplatz/Schutterstraße " lane="-753083360#0_1" startPos="0.00" endPos="26.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:8000:0:3"/>
+    </busStop>
+    <busStop id="60705" name="Rathausplatz Bussteig 1" lane="-32201172#0_1" startPos="0.00" endPos="16.58" friendlyPos="true">
+        <param key="DHID" value="de:09161:8000:0:5"/>
+    </busStop>
+    <busStop id="60706" name="Rathausplatz Bussteig 2" lane="32201172#1_1" startPos="0.00" endPos="17.57" friendlyPos="true">
+        <param key="DHID" value="de:09161:8000:0:6"/>
+    </busStop>
+    <busStop id="61201" name="Rechbergstraße" lane="24537982#2_1" startPos="3.90" endPos="13.90">
+        <param key="DHID" value="de:09161:8008:0:2"/>
+    </busStop>
+    <busStop id="61202" name="Rechbergstraße" lane="-24537982#2_1" startPos="3.44" endPos="13.44">
+        <param key="DHID" value="de:09161:8008:0:2"/>
+    </busStop>
+    <busStop id="61301" name="Regensburger Straße " lane="201789799#1_1" startPos="8.45" endPos="34.45" friendlyPos="true">
+        <param key="DHID" value="de:09161:613:0:2"/>
+    </busStop>
+    <busStop id="61302" name="Regensburger Straße " lane="-201789799#1_1" startPos="34.20" endPos="60.20" friendlyPos="true">
+        <param key="DHID" value="de:09161:613:0:1"/>
+    </busStop>
+    <busStop id="62601" name="Richard-Strauss-Straße" lane="24634510#5_1" startPos="3.17" endPos="29.17" friendlyPos="true">
+        <param key="DHID" value="de:09161:8667:0:1"/>
+    </busStop>
+    <busStop id="62901" name="Richard-Wagner-Straße" lane="201201953#11_2" startPos="121.41" endPos="145.77">
+        <param key="DHID" value="de:09161:7621:0:1"/>
+    </busStop>
+    <busStop id="62902" name="Richard-Wagner-Straße" lane="176550249#4_2" startPos="23.19" endPos="47.68">
+        <param key="DHID" value="de:09161:7621:0:2"/>
+    </busStop>
+    <busStop id="63301" name="Rothenturm" lane="201400763#0_1" startPos="36.22" endPos="62.22" friendlyPos="true">
+        <param key="DHID" value="de:09161:7998:0:1"/>
+    </busStop>
+    <busStop id="63302" name="Rothenturm" lane="-201400763#1_1" startPos="3.06" endPos="16.06" friendlyPos="true">
+        <param key="DHID" value="de:09161:7998:0:2"/>
+    </busStop>
+    <busStop id="63401" name="Rothenturmer Straße " lane="541286865#2_1" startPos="3.04" endPos="29.04" friendlyPos="true">
+        <param key="DHID" value="de:09161:8580:0:1"/>
+    </busStop>
+    <busStop id="63402" name="Rothenturmer Straße " lane="-541286865#2_1" startPos="252.30" endPos="278.30" friendlyPos="true">
+        <param key="DHID" value="de:09161:8580:0:2"/>
+    </busStop>
+    <busStop id="63403" name="Rothenturmer Straße " lane="305496617#0_1" startPos="27.67" endPos="53.67" friendlyPos="true">
+        <param key="DHID" value="de:09161:8580:0:3"/>
+    </busStop>
+    <busStop id="64001" name="Schatzgerstraße " lane="-201201935#7_1" startPos="0.00" endPos="13.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:8781:0:1"/>
+    </busStop>
+    <busStop id="64002" name="Schatzgerstraße " lane="393420106#0_1" startPos="0.00" endPos="21.49" friendlyPos="true">
+        <param key="DHID" value="de:09161:8781:0:1"/>
+    </busStop>
+    <busStop id="6401" name="Asamstraße" lane="-746483006#3_1" startPos="11.85" endPos="37.85" friendlyPos="true">
+        <param key="DHID" value="de:09161:7988:0:1"/>
+    </busStop>
+    <busStop id="6402" name="Asamstraße" lane="746483006#2_1" startPos="5.52" endPos="31.52" friendlyPos="true">
+        <param key="DHID" value="de:09161:7988:0:2"/>
+    </busStop>
+    <busStop id="64301" name="Schellingstraße " lane="202070435#11_1" startPos="105.08" endPos="131.08" friendlyPos="true">
+        <param key="DHID" value="de:09161:643:0:1"/>
+    </busStop>
+    <busStop id="64302" name="Schellingstraße " lane="-202070435#11_1" startPos="117.02" endPos="143.02" friendlyPos="true">
+        <param key="DHID" value="de:09161:643:0:2"/>
+    </busStop>
+    <busStop id="64501" name="Scherzerstraße" lane="315358248#1_2" startPos="9.40" endPos="19.40" friendlyPos="true">
+        <param key="DHID" value="de:09161:7521:0:1"/>
+    </busStop>
+    <busStop id="64502" name="Scherzerstraße" lane="-315358248#1_2" startPos="14.31" endPos="24.31" friendlyPos="true">
+        <param key="DHID" value="de:09161:7521:0:2"/>
+    </busStop>
+    <busStop id="64801" name="Schneiderbauerstraße" lane="266607802#1_2" startPos="41.21" endPos="58.01">
+        <param key="DHID" value="de:09161:7566:0:1"/>
+    </busStop>
+    <busStop id="64802" name="Schneiderbauerstraße" lane="-266607795#1_2" startPos="2.42" endPos="18.62">
+        <param key="DHID" value="de:09161:7566:0:2"/>
+    </busStop>
+    <busStop id="64901" name="Schölnhammerstraße" lane="-542650762_1" startPos="26.92" endPos="36.92">
+        <param key="DHID" value="de:09161:8062:0:1"/>
+    </busStop>
+    <busStop id="64999" name="Schölnhammerstraße" lane="25626614#0_1" startPos="0.00" endPos="13.86" friendlyPos="true">
+        <param key="DHID" value="de:09161:8062:0:2"/>
+    </busStop>
+    <busStop id="6501" name="Audi - Forum " lane="-315358250_0" startPos="3.63" endPos="23.63" friendlyPos="true">
+        <param key="DHID" value="de:09161:7545:0:1"/>
+    </busStop>
+    <busStop id="6502" name="Audi - Forum" lane="379897807#0_0" startPos="14.06" endPos="24.06">
+        <param key="DHID" value="de:09161:7545:0:2"/>
+    </busStop>
+    <busStop id="65501" name="Schröplerstraße " lane="-20314044#0_1" startPos="93.68" endPos="119.68" friendlyPos="true">
+        <param key="DHID" value="de:09161:7329:0:2"/>
+    </busStop>
+    <busStop id="65502" name="Schröplerstraße " lane="20314044#0_1" startPos="30.10" endPos="56.10" friendlyPos="true">
+        <param key="DHID" value="de:09161:7329:0:1"/>
+    </busStop>
+    <busStop id="65901" name="Schultheißstraße" lane="-24754837#8_1" startPos="0.00" endPos="21.54" friendlyPos="true">
+        <param key="DHID" value="de:09161:8779:0:1"/>
+    </busStop>
+    <busStop id="65902" name="Schultheißstraße" lane="24754837#7_1" startPos="23.48" endPos="49.48" friendlyPos="true">
+        <param key="DHID" value="de:09161:8779:0:2"/>
+    </busStop>
+    <busStop id="67101" name="Seidelbaststraße" lane="146973236#5_1" startPos="2.11" endPos="28.11" friendlyPos="true">
+        <param key="DHID" value="de:09161:671:0:1"/>
+    </busStop>
+    <busStop id="67102" name="Seidelbaststraße" lane="-146973236#5_1" startPos="21.61" endPos="47.61" friendlyPos="true">
+        <param key="DHID" value="de:09161:671:0:2"/>
+    </busStop>
+    <busStop id="67201" name="Semmerseeweg " lane="27196044#3_1" startPos="9.82" endPos="35.82" friendlyPos="true">
+        <param key="DHID" value="de:09161:672:0:1"/>
+    </busStop>
+    <busStop id="67202" name="Semmerseeweg " lane="-27196044#3_1" startPos="1.97" endPos="27.97" friendlyPos="true">
+        <param key="DHID" value="de:09161:672:0:2"/>
+    </busStop>
+    <busStop id="67301" name="Audi - Senefelderstraße " lane="-129379922_2" startPos="0.00" endPos="21.71" friendlyPos="true">
+        <param key="DHID" value="de:09161:8052:0:1"/>
+    </busStop>
+    <busStop id="67302" name="Audi - Senefelderstraße " lane="129379922_2" startPos="0.00" endPos="20.25" friendlyPos="true">
+        <param key="DHID" value="de:09161:8052:0:2"/>
+    </busStop>
+    <busStop id="67701" name="Spitzlmühle" lane="107431496#4_1" startPos="8.80" endPos="34.80" friendlyPos="true">
+        <param key="DHID" value="de:09161:8621:0:2"/>
+    </busStop>
+    <busStop id="67702" name="Spitzlmühle" lane="-107431496#4_1" startPos="55.56" endPos="81.56" friendlyPos="true">
+        <param key="DHID" value="de:09161:8621:0:2"/>
+    </busStop>
+    <busStop id="68801" name="Stadttheater" lane="32350852#1_2" startPos="39.23" endPos="49.23">
+        <param key="DHID" value="de:09161:688:0:3"/>
+    </busStop>
+    <busStop id="68802" name="Stadttheater " lane="-32350852#1.43_2" startPos="30.53" endPos="40.53">
+        <param key="DHID" value="de:09161:688:0:3"/>
+    </busStop>
+    <busStop id="69101" name="Stadtwerke / Continental" lane="54169280#1_2" startPos="12.00" endPos="22.00">
+        <param key="DHID" value="de:09161:8046:0:1"/>
+    </busStop>
+    <busStop id="69102" name="Stadtwerke / Continental" lane="28639688#2_2" startPos="3.07" endPos="13.07">
+        <param key="DHID" value="de:09161:8046:0:2"/>
+    </busStop>
+    <busStop id="69103" name="Stadtwerke / Continental" lane="-138002149#3_2" startPos="40.18" endPos="56.79">
+        <param key="DHID" value="de:09161:8046:0:3"/>
+    </busStop>
+    <busStop id="69104" name="Stadtwerke / Continental" lane="138002149#3_2" startPos="39.61" endPos="58.18">
+        <param key="DHID" value="de:09161:8046:0:3"/>
+    </busStop>
+    <busStop id="70401" name="Südfriedhof" lane="-155847374#2_1" startPos="130.59" endPos="140.59">
+        <param key="DHID" value="de:09161:8898:0:2"/>
+    </busStop>
+    <busStop id="70402" name="Südfriedhof" lane="155847374#2_1" startPos="10.05" endPos="20.05">
+        <param key="DHID" value="de:09161:8898:0:1"/>
+    </busStop>
+    <busStop id="70701" name="Sutrisstraße" lane="441810448#0_2" startPos="13.80" endPos="25.30">
+        <param key="DHID" value="de:09161:8032:0:2"/>
+    </busStop>
+    <busStop id="70702" name="Sustrisstraße" lane="-441810448#0_2" startPos="89.09" endPos="99.09">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:8032:0:2"/>
+    </busStop>
+    <busStop id="70801" name="Taschenturm" lane="-51856496#5_2" startPos="14.37" endPos="24.37">
+        <param key="DHID" value="de:09161:8026:0:1"/>
+    </busStop>
+    <busStop id="70802" name="Taschenturm" lane="51856496#4_2" startPos="12.67" endPos="22.67">
+        <param key="DHID" value="de:09161:8026:0:2"/>
+    </busStop>
+    <busStop id="70901" name="Tassilostraße" lane="20266195#3_1" startPos="0.54" endPos="26.54" friendlyPos="true">
+        <param key="DHID" value="de:09161:709:0:1"/>
+    </busStop>
+    <busStop id="70902" name="Tassilostraße" lane="-20266195#3_1" startPos="0.00" endPos="24.11" friendlyPos="true">
+        <param key="DHID" value="de:09161:709:0:1"/>
+    </busStop>
+    <busStop id="71801" name="Telemannstraße" lane="315392062#0_2" startPos="19.82" endPos="43.68">
+        <param key="DHID" value="de:09161:718:0:1"/>
+    </busStop>
+    <busStop id="71802" name="Telemannstraße" lane="-24693977#1_2" startPos="6.11" endPos="30.01">
+        <param key="DHID" value="de:09161:718:0:2"/>
+    </busStop>
+    <busStop id="72001" name="Theodor-Heuss-Brücke" lane="31342349#3_2" startPos="19.76" endPos="29.76">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:720:0:1"/>
+    </busStop>
+    <busStop id="72002" name="Theodor-Heuss-Brücke" lane="31342347_2" startPos="23.64" endPos="33.64">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:720:0:2"/>
+    </busStop>
+    <busStop id="72101" name="Theodor-Heuss-Straße" lane="4942575#3_2" startPos="40.02" endPos="60.05">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:7630:0:1"/>
+    </busStop>
+    <busStop id="72102" name="Theodor-Heuss-Straße" lane="31342350#0_2" startPos="80.66" endPos="102.48">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:7630:0:1"/>
+    </busStop>
+    <busStop id="72201" name="Uhlandstraße " lane="202070427#3_2" startPos="49.47" endPos="75.47" friendlyPos="true">
+        <param key="DHID" value="de:09161:8061:0:1"/>
+    </busStop>
+    <busStop id="72202" name="Uhlandstraße " lane="33280102#0_2" startPos="5.62" endPos="31.62" friendlyPos="true">
+        <param key="DHID" value="de:09161:8061:0:2"/>
+    </busStop>
+    <busStop id="72301" name="Ungernederstraße" lane="201201945#3_2" startPos="92.13" endPos="102.13">
+        <param key="DHID" value="de:09161:723:0:1"/>
+    </busStop>
+    <busStop id="72302" name="Ungernederstraße" lane="-201201945#1_2" startPos="8.25" endPos="28.47">
+        <param key="DHID" value="de:09161:723:0:2"/>
+    </busStop>
+    <busStop id="72801" name="Unterer Grasweg" lane="137463478#1.19_2" startPos="39.57" endPos="49.57">
+        <param key="DHID" value="de:09161:8004:0:1"/>
+    </busStop>
+    <busStop id="72802" name="Unterer Grasweg" lane="-137463478#2_2" startPos="69.35" endPos="79.35">
+        <param key="DHID" value="de:09161:8004:0:2"/>
+    </busStop>
+    <busStop id="72901" name="Unterhaunstädter Weg" lane="97304242#2_2" startPos="14.47" endPos="24.47">
+        <param key="DHID" value="de:09161:8798:0:1"/>
+    </busStop>
+    <busStop id="72902" name="Unterhaunstädter Weg" lane="-97304242#2_2" startPos="35.06" endPos="45.06">
+        <param key="DHID" value="de:09161:8798:0:1"/>
+    </busStop>
+    <busStop id="73801" name="Aubürgerstraße" lane="-200908887_1" startPos="30.92" endPos="40.92">
+        <param key="DHID" value="de:09161:4492:0:2"/>
+    </busStop>
+    <busStop id="73802" name="Aubürgerstraße" lane="200908887_1" startPos="10.04" endPos="20.04">
+        <param key="DHID" value="de:09161:4492:0:1"/>
+    </busStop>
+    <busStop id="7401" name="Audi - Tor 10" lane="-32061997_2" startPos="12.99" endPos="38.99" friendlyPos="true">
+        <param key="DHID" value="de:09161:7544:0:1"/>
+    </busStop>
+    <busStop id="7402" name="Audi - Tor 10" lane="32061997.96_0" startPos="0.00" endPos="18.19" friendlyPos="true">
+        <param key="DHID" value="de:09161:7544:0:2"/>
+    </busStop>
+    <busStop id="7403" name="Audi - Tor 10" lane="-164078531#0.144_1" startPos="0.62" endPos="22.20">
+        <param key="DHID" value="de:09161:7544:0:3"/>
+    </busStop>
+    <busStop id="7404" name="Audi - Tor 10" lane="164078531#0_0" startPos="45.25" endPos="71.25" friendlyPos="true">
+        <param key="DHID" value="de:09161:7544:0:4"/>
+    </busStop>
+    <busStop id="74101" name="Waldeysenstraße" lane="201950263#11_2" startPos="9.24" endPos="26.77">
+        <param key="DHID" value="de:09161:7568:0:2"/>
+    </busStop>
+    <busStop id="74102" name="Waldeysenstraße" lane="-201950263#11_1" startPos="20.00" endPos="36.94">
+        <param key="DHID" value="de:09161:7568:0:2"/>
+    </busStop>
+    <busStop id="74401" name="Wallensteinstraße" lane="-391029004#0_1" startPos="42.82" endPos="64.69">
+        <param key="DHID" value="de:09161:8899:0:2"/>
+    </busStop>
+    <busStop id="74402" name="Wallensteinstraße" lane="391029004#0_1" startPos="17.63" endPos="43.63" friendlyPos="true">
+        <param key="DHID" value="de:09161:8899:0:1"/>
+    </busStop>
+    <busStop id="74801" name="Weckenweg " lane="29459182#1_1" startPos="19.04" endPos="45.04" friendlyPos="true">
+        <param key="DHID" value="de:09161:8013:0:1"/>
+    </busStop>
+    <busStop id="74802" name="Weckenweg " lane="-29459182#1_1" startPos="38.05" endPos="64.05" friendlyPos="true">
+        <param key="DHID" value="de:09161:8013:0:1"/>
+    </busStop>
+    <busStop id="75601" name="Wennigstraße" lane="37282688#3_2" startPos="19.43" endPos="29.43">
+        <param key="DHID" value="de:09161:7987:0:1"/>
+    </busStop>
+    <busStop id="75602" name="Weningstraße" lane="-37282688#2_2" startPos="17.33" endPos="27.33">
+        <param key="DHID" value="de:09161:7987:0:2"/>
+    </busStop>
+    <busStop id="75701" name="Werdenfelser Straße" lane="-24754837#2_1" startPos="10.69" endPos="20.69" friendlyPos="true">
+        <param key="DHID" value="de:09161:8778:0:1"/>
+    </busStop>
+    <busStop id="75702" name="Werdenfelser Straße " lane="24754837#1_1" startPos="167.02" endPos="193.02" friendlyPos="true">
+        <param key="DHID" value="de:09161:8778:0:2"/>
+    </busStop>
+    <busStop id="7601" name="Auf der Schanz" lane="-389840420#0_1" startPos="7.53" endPos="17.53">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:7999:0:1"/>
+    </busStop>
+    <busStop id="7602" name="Auf der Schanz" lane="389840420#0_1" startPos="10.18" endPos="20.18">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:7999:0:1"/>
+    </busStop>
+    <busStop id="76901" name="Am Westpark/Audi-Ring " lane="138002148_1" startPos="22.15" endPos="48.15" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:769:0:1"/>
+    </busStop>
+    <busStop id="76902" name="Am Westpark/Audi-Ring " lane="128361109#0_1" startPos="3.36" endPos="29.36" friendlyPos="true">
+        <param key="DHID" value="de:09161:769:0:2"/>
+    </busStop>
+    <busStop id="7701" name="Audi - August-Horch-Straße" lane="-126909938_2" startPos="143.36" endPos="169.36" friendlyPos="true">
+        <param key="DHID" value="de:09161:8054:0:1"/>
+    </busStop>
+    <busStop id="7702" name="Audi - August-Horch-Straße" lane="25508272#1_2" startPos="7.67" endPos="33.67" friendlyPos="true">
+        <param key="DHID" value="de:09161:8054:0:2"/>
+    </busStop>
+    <busStop id="78801" name="Ingolstadt, ZOB  Bussteig 01 " lane="-29238015_0" startPos="1.13" endPos="30.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:8576:0:2"/>
+    </busStop>
+    <busStop id="78802" name="Ingolstadt, ZOB  Bussteig 02" lane="29238015_0" startPos="1.87" endPos="35.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:8576:0:1"/>
+    </busStop>
+    <busStop id="78803" name="Ingolstadt, ZOB  Bussteig 03" lane="-378738156_0" startPos="0.41" endPos="30.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:8576:0:4"/>
+    </busStop>
+    <busStop id="78804" name="Ingolstadt, ZOB  Bussteig 04" lane="378738156_0" startPos="0.00" endPos="18.31" friendlyPos="true">
+        <param key="DHID" value="de:09161:8576:0:3"/>
+    </busStop>
+    <busStop id="78805" name="Ingolstadt, ZOB  Bussteig 05" lane="-379514690_0" startPos="1.48" endPos="30.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:8576:0:6"/>
+    </busStop>
+    <busStop id="78806" name="Ingolstadt, ZOB  Bussteig 06" lane="379514690_0" startPos="1.89" endPos="35.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:8576:0:5"/>
+    </busStop>
+    <busStop id="78807" name="Ingolstadt, ZOB  Bussteig 07" lane="-379514685_0" startPos="1.97" endPos="35.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:8576:0:8"/>
+    </busStop>
+    <busStop id="78808" name="Ingolstadt, ZOB  Bussteig 08" lane="379514685_0" startPos="1.68" endPos="30.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:8576:0:7"/>
+    </busStop>
+    <busStop id="78809" name="Ingolstadt, ZOB  Bussteig 09" lane="-379514688_0" startPos="1.31" endPos="30.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:8576:0:10"/>
+    </busStop>
+    <busStop id="78810" name="Ingolstadt, ZOB  Bussteig 02" lane="379514688_0" startPos="1.34" endPos="35.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:8576:0:9"/>
+    </busStop>
+    <busStop id="78811" name="Ingolstadt, ZOB  Bussteig 11" lane="-749560256#4_0" startPos="2.42" endPos="25.67">
+        <param key="DHID" value="de:09161:8576:0:12"/>
+    </busStop>
+    <busStop id="78812" name="Ingolstadt, ZOB Bussteig 12" lane="749560256#4_0" startPos="5.85" endPos="33.75">
+        <param key="DHID" value="de:09161:8576:0:11"/>
+    </busStop>
+    <busStop id="78813" name="Ingolstadt, ZOB  Bussteig 13" lane="-80369257#1_0" startPos="3.22" endPos="17.21">
+        <param key="DHID" value="de:09161:8576:0:14"/>
+    </busStop>
+    <busStop id="78814" name="Ingolstadt, ZOB  Bussteig 14" lane="-29238022_0" startPos="0.00" endPos="19.17">
+        <param key="DHID" value="de:09161:8576:0:15"/>
+    </busStop>
+    <busStop id="78815" name="Ingolstadt, ZOB  Bussteig 15" lane="29238022_0" startPos="0.73" endPos="19.36">
+        <param key="DHID" value="de:09161:8576:0:14"/>
+    </busStop>
+    <busStop id="78816" name="Ingolstadt, ZOB  Bussteig 16" lane="-29238023_0" startPos="0.00" endPos="20.00">
+        <param key="DHID" value="de:09161:788:2:17"/>
+    </busStop>
+    <busStop id="78817" name="Ingolstadt, ZOB  Bussteig 17" lane="29238023_0" startPos="0.68" endPos="29.76" friendlyPos="true">
+        <param key="DHID" value="de:09161:8576:0:16"/>
+    </busStop>
+    <busStop id="78818" name="Ingolstadt, ZOB  Bussteig 18" lane="-29238024_0" startPos="1.41" endPos="25.50" friendlyPos="true">
+        <param key="DHID" value="de:09161:788:2:19"/>
+    </busStop>
+    <busStop id="78819" name="Ingolstadt, ZOB  Bussteig 19" lane="29238024_0" startPos="0.00" endPos="27.74" friendlyPos="true">
+        <param key="DHID" value="de:09161:788:2:18"/>
+    </busStop>
+    <busStop id="78820" name="Ingolstadt, ZOB  Bussteig 20" lane="-51856500_0" startPos="2.17" endPos="40.55" friendlyPos="true">
+        <param key="DHID" value="de:09161:788:2:19"/>
+    </busStop>
+    <busStop id="78831" name="Ingolstadt, ZOB Harderstraße" lane="-29458096#1_1" startPos="5.68" endPos="31.68" friendlyPos="true">
+        <param key="DHID" value="de:09161:8576:0:1"/>
+    </busStop>
+    <busStop id="78832" name="Ingolstadt, ZOB Harderstraße" lane="51856495#1_2" startPos="2.21" endPos="28.21" friendlyPos="true">
+        <param key="DHID" value="de:09161:8576:0:1"/>
+    </busStop>
+    <busStop id="78833" name="Ingolstadt, ZOB  Bussteig A" lane="-29238044#0_0" startPos="0.00" endPos="13.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:8576:0:4"/>
+    </busStop>
+    <busStop id="78834" name="Ingolstadt, ZOB  Bussteig B" lane="-29238044#1_0" startPos="0.10" endPos="12.80" friendlyPos="true">
+        <param key="DHID" value="de:09161:8576:0:6"/>
+    </busStop>
+    <busStop id="78835" name="Ingolstadt, ZOB  Bussteig C" lane="-29238044#2_0" startPos="0.00" endPos="13.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:8576:0:8"/>
+    </busStop>
+    <busStop id="78901" name="Linnestraße" lane="-18813598#8_2" startPos="28.81" endPos="38.81">
+        <param key="DHID" value="de:09161:8029:0:1"/>
+    </busStop>
+    <busStop id="78902" name="Zoo Wasserstern" lane="18813598#8_2" startPos="146.86" endPos="156.86">
+        <param key="DHID" value="de:09161:8029:0:2"/>
+    </busStop>
+    <busStop id="7901" name="Aventinstraße" lane="201933877#2_1" startPos="0.00" endPos="18.26" friendlyPos="true">
+        <param key="DHID" value="de:09161:79:0:1"/>
+    </busStop>
+    <busStop id="79599" name="Am Westpark 2" lane="35744155#2_1" startPos="32.18" endPos="58.18" friendlyPos="true">
+        <param key="DHID" value="de:09161:795:0:99"/>
+    </busStop>
+    <busStop id="79699" name="Am Westpark 3" lane="201201938#1_1" startPos="31.00" endPos="57.00" friendlyPos="true">
+        <param key="DHID" value="de:09161:796:0:99"/>
+    </busStop>
+    <busStop id="80301" name="Ingolstadt, Hauptbahnhof Stadtauswärts" lane="379721536#1_0" startPos="26.61" endPos="36.61">
+        <param key="DHID" value="de:09161:1845:0:99"/>
+    </busStop>
+    <busStop id="80302" name="Ingolstadt, Hauptbahnhof Stadteinwärts" lane="379723622#1_1" startPos="25.72" endPos="35.72" friendlyPos="true">
+        <param key="DHID" value="de:09161:1845:0:99"/>
+    </busStop>
+    <busStop id="80303" name="Ingolstadt, Hauptbahnhof Stadtauswärts" lane="379721536#1_0" startPos="1.56" endPos="11.56">
+        <param key="DHID" value="de:09161:1845:0:99"/>
+    </busStop>
+    <busStop id="80304" name="Ingolstadt, Hauptbahnhof Stadteinwärts" lane="379723622#1_1" startPos="0.95" endPos="10.95">
+        <param key="DHID" value="de:09161:1845:0:99"/>
+    </busStop>
+    <busStop id="80701" name="Mariengarten " lane="150746347#0_1" startPos="40.93" endPos="66.93" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:8011:0:1"/>
+    </busStop>
+    <busStop id="80702" name="Mariengarten " lane="-150746347#1_1" startPos="0.00" endPos="23.40" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:8011:0:2"/>
+    </busStop>
+    <busStop id="83501" name="Westfriedhof" lane="25149219#2_0" startPos="93.32" endPos="114.16">
+        <param key="DHID" value="de:09161:8027:0:2"/>
+    </busStop>
+    <busStop id="83502" name="Westfriedhof " lane="124812857#0_2" startPos="25.44" endPos="45.59" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:8027:0:2"/>
+    </busStop>
+    <busStop id="84401" name="Westfriedhof / Brodmühlweg" lane="201956819#1.66_2" startPos="3.02" endPos="13.02">
+        <param key="DHID" value="de:09161:844:0:1"/>
+    </busStop>
+    <busStop id="84999" name="Audi - Parkplatz" lane="320733917#2_0" startPos="26.15" endPos="51.01">
+        <param key="DHID" value="de:09161:7528:0:2"/>
+    </busStop>
+    <busStop id="85001" name="Johann-Michael-Sailer-Straße" lane="201201940#0_1" startPos="80.74" endPos="106.74" friendlyPos="true">
+        <param key="DHID" value="de:09161:7596:0:1"/>
+    </busStop>
+    <busStop id="85002" name="Johann-Michael-Sailer-Straße" lane="-201201940#0_1" startPos="7.55" endPos="33.55" friendlyPos="true">
+        <param key="DHID" value="de:09161:7596:0:2"/>
+    </busStop>
+    <busStop id="8801" name="Bei der Hollerstaude" lane="201201936#12_1" startPos="0.00" endPos="15.10" friendlyPos="true">
+        <param key="DHID" value="de:09161:8780:0:1"/>
+    </busStop>
+    <busStop id="8802" name="Bei der Hollerstaude" lane="-201201936#12_1" startPos="18.31" endPos="44.31" friendlyPos="true">
+        <param key="DHID" value="de:09161:8780:0:1"/>
+    </busStop>
+    <busStop id="8901" name="Beilngrieser Straße " lane="201828014#0_1" startPos="0.00" endPos="15.15" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+        <param key="DHID" value="de:09161:8014:0:2"/>
+    </busStop>
+    <busStop id="8902" name="Beilngrieser Straße " lane="-144655547#3_1" startPos="2.71" endPos="28.71" friendlyPos="true">
+        <param key="DHID" value="de:09161:8014:0:1"/>
+    </busStop>
+    <busStop id="9601" name="Blücherstraße" lane="-71809618#4_2" startPos="31.29" endPos="41.29">
+        <param key="DHID" value="de:09161:96:0:2"/>
+    </busStop>
+    <busStop id="9602" name="Blücherstraße" lane="71809618#4_1" startPos="28.97" endPos="38.97">
+        <param key="DHID" value="de:09161:96:0:2"/>
+    </busStop>
+    <trainStop id="GAIM_2" name="GAimersheim Gleis 2" lane="42738696#0_0" startPos="226.09" endPos="384.56"/>
+    <trainStop id="GAIM_3" name="Gaimersheim Gleis 3" lane="42738703#0_0" startPos="260.61" endPos="420.61"/>
+    <trainStop id="IN_Audi_1" name="In Audi Gleis 1" lane="571435361_0" startPos="145.74" endPos="378.50"/>
+    <trainStop id="IN_Audi_2" name="IN Audi Gleis 2" lane="33280882#1_0" startPos="659.65" endPos="894.65"/>
+    <trainStop id="IN_Hbf_1" name="IN Hbf Gleis 1" lane="-137627150_0" startPos="112.80" endPos="262.80"/>
+    <trainStop id="IN_Hbf_2" name="IN Hbf Gleis 2" lane="137627148_0" startPos="158.89" endPos="308.01"/>
+    <trainStop id="IN_Hbf_3" name="IN Hbf Gleis 3 B" lane="137627152#0_0" startPos="0.00" endPos="72.00"/>
+    <trainStop id="IN_Hbf_4" name="IN Hbf Gleis 4 " lane="-137627144_0" startPos="183.49" endPos="330.49"/>
+    <trainStop id="IN_Hbf_5" name="IN Hbf Gleis 5" lane="762504587#1_0" startPos="191.82" endPos="341.66"/>
+    <trainStop id="IN_Hbf_6a" name="IN Hbf Gleis 6 A" lane="98599820#0_0" startPos="0.00" endPos="85.00"/>
+    <trainStop id="IN_Hbf_6b" name="IN Hbf Gleis 6 B" lane="137627155_0" startPos="567.72" endPos="632.72" friendlyPos="true"/>
+    <trainStop id="IN_Hbf_7" name="IN Hbf Gleis 7" lane="38243841#2_0" startPos="352.04" endPos="501.03"/>
+    <trainStop id="IN_Nord_3" name="IN Nord Gleis 3" lane="-329029018#4_0" startPos="69.40" endPos="399.48" personCapacity="60"/>
+    <trainStop id="IN_Nord_4" name="IN Nord Gleis 4" lane="9636193#1_0" startPos="21.39" endPos="201.39"/>
+    <trainStop id="IN_Nord_5" name="In Nord Gleis 5" lane="134536456#1_0" startPos="132.49" endPos="312.49"/>
+    <trainStop id="IN_Nord_6" name="IN Nord Gleis 6" lane="-39023740_0" startPos="80.19" endPos="328.87" friendlyPos="true"/>
+    <trainStop id="IN_Nord_7" name="IN Nord Gleis 7" lane="48088387#1_0" startPos="146.84" endPos="374.67"/>
+    <!-- Shapes -->
+    <poly id="001" color="red" fill="1" layer="2.00" shape="7055.272713,6803.108001 7035.272713,6823.108001 7075.272713,6823.108001 7055.272713,6843.108001"/>
+    <poi id="101" type="BusStop" color="blue" layer="202.00" x="6725.39" y="1738.24"/>
+    <poi id="102" type="BusStop" color="blue" layer="202.00" x="6741.39" y="1722.28"/>
+    <poi id="103401" type="BusStop" color="blue" layer="202.00" x="9629.51" y="3325.86"/>
+    <poi id="103402" type="BusStop" color="blue" layer="202.00" x="9632.08" y="3352.91"/>
+    <poi id="104201" type="BusStop" color="blue" layer="202.00" x="3729.41" y="5264.85"/>
+    <poi id="104203" type="BusStop" color="blue" layer="202.00" x="3692.79" y="5277.27"/>
+    <poi id="10599" type="BusStop" color="blue" layer="202.00" x="9164.72" y="2014.43"/>
+    <poi id="10801" type="BusStop" color="blue" layer="202.00" x="7515.29" y="4364.88"/>
+    <poi id="10802" type="BusStop" color="blue" layer="202.00" x="7499.46" y="4213.11"/>
+    <poi id="10902" type="BusStop" color="blue" layer="202.00" x="4795.29" y="4307.59"/>
+    <poi id="11001" type="BusStop" color="blue" layer="202.00" x="6194.69" y="3951.15"/>
+    <poi id="11002" type="BusStop" color="blue" layer="202.00" x="6207.86" y="3957.54"/>
+    <poi id="11301" type="BusStop" color="blue" layer="202.00" x="7409.96" y="3139.20"/>
+    <poi id="11302" type="BusStop" color="blue" layer="202.00" x="7424.21" y="3134.83"/>
+    <poi id="11499" type="BusStop" color="blue" layer="202.00" x="9415.29" y="2047.90"/>
+    <poi id="118201" type="BusStop" color="blue" layer="202.00" x="7846.48" y="8378.10"/>
+    <poi id="118202" type="BusStop" color="blue" layer="202.00" x="7855.12" y="8405.87"/>
+    <poi id="12601" type="BusStop" color="blue" layer="202.00" x="4471.69" y="4898.93"/>
+    <poi id="12602" type="BusStop" color="blue" layer="202.00" x="4463.90" y="4891.48"/>
+    <poi id="12701" type="BusStop" color="blue" layer="202.00" x="7441.03" y="1604.96"/>
+    <poi id="12702" type="BusStop" color="blue" layer="202.00" x="7435.87" y="1581.57"/>
+    <poi id="12901" type="BusStop" color="blue" layer="202.00" x="5611.87" y="4013.41"/>
+    <poi id="12902" type="BusStop" color="blue" layer="202.00" x="5632.87" y="3995.09"/>
+    <poi id="13201" type="BusStop" color="blue" layer="202.00" x="3653.81" y="4394.94"/>
+    <poi id="13202" type="BusStop" color="blue" layer="202.00" x="3607.35" y="4372.62"/>
+    <poi id="13401" type="BusStop" color="blue" layer="202.00" x="9554.20" y="7994.55"/>
+    <poi id="13402" type="BusStop" color="blue" layer="202.00" x="9525.63" y="7988.94"/>
+    <poi id="13501" type="BusStop" color="blue" layer="202.00" x="7480.17" y="6871.73"/>
+    <poi id="13502" type="BusStop" color="blue" layer="202.00" x="7461.65" y="6862.43"/>
+    <poi id="13702" type="BusStop" color="blue" layer="202.00" x="6535.02" y="1414.33"/>
+    <poi id="145901" type="BusStop" color="blue" layer="202.00" x="3897.69" y="6494.94"/>
+    <poi id="145902" type="BusStop" color="blue" layer="202.00" x="3859.45" y="6513.66"/>
+    <poi id="146701" type="BusStop" color="blue" layer="202.00" x="6281.47" y="4723.32"/>
+    <poi id="146702" type="BusStop" color="blue" layer="202.00" x="6280.67" y="4715.35"/>
+    <poi id="147301" type="BusStop" color="blue" layer="202.00" x="6440.59" y="5906.91"/>
+    <poi id="147302" type="BusStop" color="blue" layer="202.00" x="6443.12" y="5897.30"/>
+    <poi id="14798" type="BusStop" color="blue" layer="202.00" x="2462.72" y="4581.89"/>
+    <poi id="14799" type="BusStop" color="blue" layer="202.00" x="2469.31" y="4608.33"/>
+    <poi id="148199" type="BusStop" color="blue" layer="202.00" x="9410.66" y="6544.35"/>
+    <poi id="148301" type="BusStop" color="blue" layer="202.00" x="4113.48" y="6350.88"/>
+    <poi id="148302" type="BusStop" color="blue" layer="202.00" x="4104.10" y="6353.10"/>
+    <poi id="14899" type="BusStop" color="blue" layer="202.00" x="8032.69" y="4236.39"/>
+    <poi id="149299" type="BusStop" color="blue" layer="202.00" x="3606.42" y="6693.18"/>
+    <poi id="156198" type="BusStop" color="blue" layer="202.00" x="6803.10" y="3554.46"/>
+    <poi id="156199" type="BusStop" color="blue" layer="202.00" x="6796.55" y="3569.78"/>
+    <poi id="156301" type="BusStop" color="blue" layer="202.00" x="7070.41" y="7234.31"/>
+    <poi id="156302" type="BusStop" color="blue" layer="202.00" x="6962.49" y="7256.77"/>
+    <poi id="156401" type="BusStop" color="blue" layer="202.00" x="7343.48" y="6997.00"/>
+    <poi id="156402" type="BusStop" color="blue" layer="202.00" x="7341.58" y="6985.91"/>
+    <poi id="156501" type="BusStop" color="blue" layer="202.00" x="6943.58" y="6772.73"/>
+    <poi id="156502" type="BusStop" color="blue" layer="202.00" x="7061.72" y="6826.89"/>
+    <poi id="157401" type="BusStop" color="blue" layer="202.00" x="6379.17" y="3049.15"/>
+    <poi id="157402" type="BusStop" color="blue" layer="202.00" x="6406.85" y="3020.56"/>
+    <poi id="159401" type="BusStop" color="blue" layer="202.00" x="3752.73" y="6694.00"/>
+    <poi id="159402" type="BusStop" color="blue" layer="202.00" x="3718.19" y="6768.30"/>
+    <poi id="162401" type="BusStop" color="blue" layer="202.00" x="6898.47" y="4429.94"/>
+    <poi id="162402" type="BusStop" color="blue" layer="202.00" x="6925.96" y="4431.62"/>
+    <poi id="162598" type="BusStop" color="blue" layer="202.00" x="6840.20" y="3838.71"/>
+    <poi id="162599" type="BusStop" color="blue" layer="202.00" x="6896.37" y="3905.55"/>
+    <poi id="162601" type="BusStop" color="blue" layer="202.00" x="7232.23" y="4360.10"/>
+    <poi id="162602" type="BusStop" color="blue" layer="202.00" x="7196.42" y="4325.61"/>
+    <poi id="162603" type="BusStop" color="blue" layer="202.00" x="7200.70" y="4354.75"/>
+    <poi id="164801" type="BusStop" color="blue" layer="202.00" x="6486.18" y="2627.23"/>
+    <poi id="164802" type="BusStop" color="blue" layer="202.00" x="6572.34" y="2549.06"/>
+    <poi id="164803" type="BusStop" color="blue" layer="202.00" x="6510.72" y="2614.51"/>
+    <poi id="16501" type="BusStop" color="blue" layer="202.00" x="6038.98" y="3082.85"/>
+    <poi id="16502" type="BusStop" color="blue" layer="202.00" x="6090.82" y="3094.96"/>
+    <poi id="167301" type="BusStop" color="blue" layer="202.00" x="6414.90" y="5484.34"/>
+    <poi id="167302" type="BusStop" color="blue" layer="202.00" x="6407.61" y="5495.62"/>
+    <poi id="167799" type="BusStop" color="blue" layer="202.00" x="9759.43" y="6829.06"/>
+    <poi id="168101" type="BusStop" color="blue" layer="202.00" x="6704.85" y="4713.29"/>
+    <poi id="168102" type="BusStop" color="blue" layer="202.00" x="6707.67" y="4677.03"/>
+    <poi id="173101" type="BusStop" color="blue" layer="202.00" x="5929.22" y="1867.16"/>
+    <poi id="173102" type="BusStop" color="blue" layer="202.00" x="5947.66" y="1809.89"/>
+    <poi id="17901" type="BusStop" color="blue" layer="202.00" x="9220.40" y="2800.93"/>
+    <poi id="17902" type="BusStop" color="blue" layer="202.00" x="9188.49" y="2800.06"/>
+    <poi id="18001" type="BusStop" color="blue" layer="202.00" x="7610.77" y="2011.85"/>
+    <poi id="18002" type="BusStop" color="blue" layer="202.00" x="7565.73" y="1999.85"/>
+    <poi id="180301" type="BusStop" color="blue" layer="202.00" x="2647.35" y="5572.72"/>
+    <poi id="180302" type="BusStop" color="blue" layer="202.00" x="2701.27" y="5520.49"/>
+    <poi id="180801" type="BusStop" color="blue" layer="202.00" x="2164.49" y="7105.04"/>
+    <poi id="180802" type="BusStop" color="blue" layer="202.00" x="2182.58" y="7246.89"/>
+    <poi id="181101" type="BusStop" color="blue" layer="202.00" x="6781.23" y="1852.20"/>
+    <poi id="181102" type="BusStop" color="blue" layer="202.00" x="6770.99" y="1843.88"/>
+    <poi id="18301" type="BusStop" color="blue" layer="202.00" x="5159.21" y="5807.80"/>
+    <poi id="18302" type="BusStop" color="blue" layer="202.00" x="5161.48" y="5749.78"/>
+    <poi id="18303" type="BusStop" color="blue" layer="202.00" x="5153.07" y="5651.59"/>
+    <poi id="18304" type="BusStop" color="blue" layer="202.00" x="5210.51" y="5621.70"/>
+    <poi id="184096" type="BusStop" color="blue" layer="202.00" x="10118.18" y="2554.17"/>
+    <poi id="184097" type="BusStop" color="blue" layer="202.00" x="10096.75" y="2546.38"/>
+    <poi id="184099" type="BusStop" color="blue" layer="202.00" x="10092.78" y="2511.88"/>
+    <poi id="184599" type="BusStop" color="blue" layer="202.00" x="6939.19" y="2297.35"/>
+    <poi id="184601" type="BusStop" color="blue" layer="202.00" x="2435.02" y="6885.12"/>
+    <poi id="184602" type="BusStop" color="blue" layer="202.00" x="2482.10" y="6865.33"/>
+    <poi id="184901" type="BusStop" color="blue" layer="202.00" x="1682.47" y="8186.68"/>
+    <poi id="184902" type="BusStop" color="blue" layer="202.00" x="1676.32" y="8185.85"/>
+    <poi id="185001" type="BusStop" color="blue" layer="202.00" x="5633.41" y="6398.18"/>
+    <poi id="185002" type="BusStop" color="blue" layer="202.00" x="5624.84" y="6405.26"/>
+    <poi id="18501" type="BusStop" color="blue" layer="202.00" x="6482.63" y="1723.89"/>
+    <poi id="18502" type="BusStop" color="blue" layer="202.00" x="6458.74" y="1714.59"/>
+    <poi id="185101" type="BusStop" color="blue" layer="202.00" x="5244.07" y="6587.61"/>
+    <poi id="185102" type="BusStop" color="blue" layer="202.00" x="5241.90" y="6600.41"/>
+    <poi id="185301" type="BusStop" color="blue" layer="202.00" x="4864.11" y="7609.70"/>
+    <poi id="185302" type="BusStop" color="blue" layer="202.00" x="4871.65" y="7609.92"/>
+    <poi id="185699" type="BusStop" color="blue" layer="202.00" x="7610.14" y="7539.26"/>
+    <poi id="18601" type="BusStop" color="blue" layer="202.00" x="7238.99" y="6055.72"/>
+    <poi id="18602" type="BusStop" color="blue" layer="202.00" x="7236.94" y="6043.75"/>
+    <poi id="186301" type="BusStop" color="blue" layer="202.00" x="8559.41" y="1187.29"/>
+    <poi id="186302" type="BusStop" color="blue" layer="202.00" x="8668.08" y="1264.28"/>
+    <poi id="186501" type="BusStop" color="blue" layer="202.00" x="8767.83" y="1394.70"/>
+    <poi id="186502" type="BusStop" color="blue" layer="202.00" x="8730.01" y="1416.53"/>
+    <poi id="186601" type="BusStop" color="blue" layer="202.00" x="8296.14" y="1637.29"/>
+    <poi id="186602" type="BusStop" color="blue" layer="202.00" x="8327.22" y="1629.78"/>
+    <poi id="18701" type="BusStop" color="blue" layer="202.00" x="7010.18" y="3373.76"/>
+    <poi id="18702" type="BusStop" color="blue" layer="202.00" x="7028.10" y="3367.13"/>
+    <poi id="187401" type="BusStop" color="blue" layer="202.00" x="2713.45" y="6754.76"/>
+    <poi id="187402" type="BusStop" color="blue" layer="202.00" x="2708.66" y="6751.47"/>
+    <poi id="188401" type="BusStop" color="blue" layer="202.00" x="4482.64" y="7566.98"/>
+    <poi id="188402" type="BusStop" color="blue" layer="202.00" x="4482.15" y="7574.10"/>
+    <poi id="188501" type="BusStop" color="blue" layer="202.00" x="4531.71" y="7692.27"/>
+    <poi id="188502" type="BusStop" color="blue" layer="202.00" x="4531.03" y="7682.37"/>
+    <poi id="188601" type="BusStop" color="blue" layer="202.00" x="4532.34" y="7229.89"/>
+    <poi id="188602" type="BusStop" color="blue" layer="202.00" x="4524.51" y="7231.06"/>
+    <poi id="189199" type="BusStop" color="blue" layer="202.00" x="1656.88" y="5862.70"/>
+    <poi id="189299" type="BusStop" color="blue" layer="202.00" x="1644.43" y="5489.24"/>
+    <poi id="189799" type="BusStop" color="blue" layer="202.00" x="9471.37" y="6718.05"/>
+    <poi id="190101" type="BusStop" color="blue" layer="202.00" x="7288.65" y="7990.09"/>
+    <poi id="190102" type="BusStop" color="blue" layer="202.00" x="7182.31" y="7957.42"/>
+    <poi id="190601" type="BusStop" color="blue" layer="202.00" x="4309.12" y="7487.31"/>
+    <poi id="190602" type="BusStop" color="blue" layer="202.00" x="4328.00" y="7477.43"/>
+    <poi id="190603" type="BusStop" color="blue" layer="202.00" x="4345.19" y="7468.15"/>
+    <poi id="190604" type="BusStop" color="blue" layer="202.00" x="4360.71" y="7459.76"/>
+    <poi id="190605" type="BusStop" color="blue" layer="202.00" x="4365.50" y="7434.25"/>
+    <poi id="190606" type="BusStop" color="blue" layer="202.00" x="4347.12" y="7443.41"/>
+    <poi id="190607" type="BusStop" color="blue" layer="202.00" x="4329.36" y="7452.26"/>
+    <poi id="190608" type="BusStop" color="blue" layer="202.00" x="4313.54" y="7460.15"/>
+    <poi id="19701" type="BusStop" color="blue" layer="202.00" x="7058.16" y="2882.20"/>
+    <poi id="19702" type="BusStop" color="blue" layer="202.00" x="7032.79" y="2983.39"/>
+    <poi id="20101" type="BusStop" color="blue" layer="202.00" x="6758.62" y="5089.02"/>
+    <poi id="20102" type="BusStop" color="blue" layer="202.00" x="6763.66" y="5118.12"/>
+    <poi id="20201" type="BusStop" color="blue" layer="202.00" x="7374.55" y="1251.55"/>
+    <poi id="20202" type="BusStop" color="blue" layer="202.00" x="7382.50" y="1269.76"/>
+    <poi id="20401" type="BusStop" color="blue" layer="202.00" x="4710.24" y="5474.87"/>
+    <poi id="20402" type="BusStop" color="blue" layer="202.00" x="4712.42" y="5464.89"/>
+    <poi id="21401" type="BusStop" color="blue" layer="202.00" x="2195.28" y="7652.40"/>
+    <poi id="21402" type="BusStop" color="blue" layer="202.00" x="2163.70" y="7662.09"/>
+    <poi id="21601" type="BusStop" color="blue" layer="202.00" x="2158.09" y="6338.42"/>
+    <poi id="21602" type="BusStop" color="blue" layer="202.00" x="2152.69" y="6419.81"/>
+    <poi id="23101" type="BusStop" color="blue" layer="202.00" x="4147.85" y="6009.56"/>
+    <poi id="23102" type="BusStop" color="blue" layer="202.00" x="4172.34" y="6000.88"/>
+    <poi id="23201" type="BusStop" color="blue" layer="202.00" x="7560.19" y="4917.25"/>
+    <poi id="23202" type="BusStop" color="blue" layer="202.00" x="7584.67" y="4923.28"/>
+    <poi id="23301" type="BusStop" color="blue" layer="202.00" x="7415.25" y="5368.19"/>
+    <poi id="23302" type="BusStop" color="blue" layer="202.00" x="7424.72" y="5378.26"/>
+    <poi id="2399" type="BusStop" color="blue" layer="202.00" x="3031.87" y="5435.03"/>
+    <poi id="24101" type="BusStop" color="blue" layer="202.00" x="7727.33" y="1899.01"/>
+    <poi id="24102" type="BusStop" color="blue" layer="202.00" x="7707.13" y="1909.72"/>
+    <poi id="24701" type="BusStop" color="blue" layer="202.00" x="7625.83" y="6962.49"/>
+    <poi id="24702" type="BusStop" color="blue" layer="202.00" x="7620.99" y="6946.69"/>
+    <poi id="25999" type="BusStop" color="blue" layer="202.00" x="7913.52" y="6184.96"/>
+    <poi id="26299" type="BusStop" color="blue" layer="202.00" x="8101.05" y="5357.61"/>
+    <poi id="26601" type="BusStop" color="blue" layer="202.00" x="10174.08" y="5564.96"/>
+    <poi id="26602" type="BusStop" color="blue" layer="202.00" x="10130.63" y="5560.01"/>
+    <poi id="27801" type="BusStop" color="blue" layer="202.00" x="4058.18" y="4856.18"/>
+    <poi id="27802" type="BusStop" color="blue" layer="202.00" x="3979.93" y="4851.81"/>
+    <poi id="28201" type="BusStop" color="blue" layer="202.00" x="7306.19" y="2204.98"/>
+    <poi id="28202" type="BusStop" color="blue" layer="202.00" x="7346.30" y="2153.75"/>
+    <poi id="28401" type="BusStop" color="blue" layer="202.00" x="5671.30" y="4615.49"/>
+    <poi id="28402" type="BusStop" color="blue" layer="202.00" x="5656.54" y="4637.08"/>
+    <poi id="28601" type="BusStop" color="blue" layer="202.00" x="3044.49" y="4285.97"/>
+    <poi id="28602" type="BusStop" color="blue" layer="202.00" x="3137.89" y="4260.83"/>
+    <poi id="28701" type="BusStop" color="blue" layer="202.00" x="6183.78" y="3363.73"/>
+    <poi id="28702" type="BusStop" color="blue" layer="202.00" x="6186.69" y="3354.14"/>
+    <poi id="29101" type="BusStop" color="blue" layer="202.00" x="4489.49" y="4597.44"/>
+    <poi id="29102" type="BusStop" color="blue" layer="202.00" x="4553.32" y="4601.61"/>
+    <poi id="30499" type="BusStop" color="blue" layer="202.00" x="4037.21" y="5684.65"/>
+    <poi id="30701" type="BusStop" color="blue" layer="202.00" x="6408.08" y="5038.89"/>
+    <poi id="30801" type="BusStop" color="blue" layer="202.00" x="7181.02" y="4829.36"/>
+    <poi id="30802" type="BusStop" color="blue" layer="202.00" x="7184.27" y="4833.82"/>
+    <poi id="30901" type="BusStop" color="blue" layer="202.00" x="5416.75" y="5662.95"/>
+    <poi id="31301" type="BusStop" color="blue" layer="202.00" x="7382.48" y="6431.11"/>
+    <poi id="31302" type="BusStop" color="blue" layer="202.00" x="7383.73" y="6415.99"/>
+    <poi id="3202" type="BusStop" color="blue" layer="202.00" x="4413.12" y="5509.90"/>
+    <poi id="32501" type="BusStop" color="blue" layer="202.00" x="4659.42" y="5349.14"/>
+    <poi id="34002" type="BusStop" color="blue" layer="202.00" x="1989.03" y="5545.03"/>
+    <poi id="34098" type="BusStop" color="blue" layer="202.00" x="2015.73" y="5603.86"/>
+    <poi id="34099" type="BusStop" color="blue" layer="202.00" x="2025.61" y="5579.67"/>
+    <poi id="34101" type="BusStop" color="blue" layer="202.00" x="9691.58" y="2967.39"/>
+    <poi id="34102" type="BusStop" color="blue" layer="202.00" x="9693.39" y="2971.37"/>
+    <poi id="3501" type="BusStop" color="blue" layer="202.00" x="6747.74" y="6800.99"/>
+    <poi id="3502" type="BusStop" color="blue" layer="202.00" x="6768.95" y="6796.55"/>
+    <poi id="3801" type="BusStop" color="blue" layer="202.00" x="8545.11" y="3559.96"/>
+    <poi id="3802" type="BusStop" color="blue" layer="202.00" x="8583.19" y="3561.88"/>
+    <poi id="38201" type="BusStop" color="blue" layer="202.00" x="4356.01" y="5513.01"/>
+    <poi id="39001" type="BusStop" color="blue" layer="202.00" x="2510.99" y="5040.55"/>
+    <poi id="39002" type="BusStop" color="blue" layer="202.00" x="2507.76" y="5015.61"/>
+    <poi id="3901" type="BusStop" color="blue" layer="202.00" x="2201.28" y="5700.23"/>
+    <poi id="3902" type="BusStop" color="blue" layer="202.00" x="2194.57" y="5718.91"/>
+    <poi id="39099" type="BusStop" color="blue" layer="202.00" x="2504.56" y="4981.45"/>
+    <poi id="39601" type="BusStop" color="blue" layer="202.00" x="7049.19" y="5487.33"/>
+    <poi id="39602" type="BusStop" color="blue" layer="202.00" x="7053.95" y="5519.13"/>
+    <poi id="4001" type="BusStop" color="blue" layer="202.00" x="9557.83" y="3535.56"/>
+    <poi id="4002" type="BusStop" color="blue" layer="202.00" x="9564.70" y="3538.65"/>
+    <poi id="41801" type="BusStop" color="blue" layer="202.00" x="9825.63" y="7718.04"/>
+    <poi id="42501" type="BusStop" color="blue" layer="202.00" x="5178.43" y="4569.68"/>
+    <poi id="42502" type="BusStop" color="blue" layer="202.00" x="5179.53" y="4552.05"/>
+    <poi id="42601" type="BusStop" color="blue" layer="202.00" x="4779.77" y="5673.63"/>
+    <poi id="42701" type="BusStop" color="blue" layer="202.00" x="7773.01" y="5387.99"/>
+    <poi id="42702" type="BusStop" color="blue" layer="202.00" x="7765.78" y="5336.95"/>
+    <poi id="42704" type="BusStop" color="blue" layer="202.00" x="7917.75" y="5407.98"/>
+    <poi id="43001" type="BusStop" color="blue" layer="202.00" x="5088.26" y="6065.68"/>
+    <poi id="43002" type="BusStop" color="blue" layer="202.00" x="5089.58" y="6033.07"/>
+    <poi id="44302" type="BusStop" color="blue" layer="202.00" x="5464.65" y="5633.50"/>
+    <poi id="44701" type="BusStop" color="blue" layer="202.00" x="4880.46" y="6045.22"/>
+    <poi id="44702" type="BusStop" color="blue" layer="202.00" x="4859.24" y="6030.77"/>
+    <poi id="44801" type="BusStop" color="blue" layer="202.00" x="6710.20" y="6242.71"/>
+    <poi id="44802" type="BusStop" color="blue" layer="202.00" x="6615.55" y="6269.57"/>
+    <poi id="46201" type="BusStop" color="blue" layer="202.00" x="2246.91" y="5180.95"/>
+    <poi id="46202" type="BusStop" color="blue" layer="202.00" x="2243.23" y="5174.62"/>
+    <poi id="46501" type="BusStop" color="blue" layer="202.00" x="7061.29" y="4091.05"/>
+    <poi id="46701" type="BusStop" color="blue" layer="202.00" x="6097.02" y="2614.02"/>
+    <poi id="46702" type="BusStop" color="blue" layer="202.00" x="6105.63" y="2593.79"/>
+    <poi id="46801" type="BusStop" color="blue" layer="202.00" x="4687.69" y="3976.20"/>
+    <poi id="46802" type="BusStop" color="blue" layer="202.00" x="4668.36" y="3936.83"/>
+    <poi id="47301" type="BusStop" color="blue" layer="202.00" x="9871.50" y="5498.90"/>
+    <poi id="47302" type="BusStop" color="blue" layer="202.00" x="9898.76" y="5514.16"/>
+    <poi id="5001" type="BusStop" color="blue" layer="202.00" x="8009.89" y="1769.56"/>
+    <poi id="5002" type="BusStop" color="blue" layer="202.00" x="7901.72" y="1832.64"/>
+    <poi id="501" type="BusStop" color="blue" layer="202.00" x="4451.18" y="6748.08"/>
+    <poi id="502" type="BusStop" color="blue" layer="202.00" x="4494.09" y="6790.98"/>
+    <poi id="50501" type="BusStop" color="blue" layer="202.00" x="9146.24" y="5159.91"/>
+    <poi id="50502" type="BusStop" color="blue" layer="202.00" x="9232.90" y="5181.53"/>
+    <poi id="50899" type="BusStop" color="blue" layer="202.00" x="7203.35" y="1173.49"/>
+    <poi id="51201" type="BusStop" color="blue" layer="202.00" x="6084.39" y="2109.41"/>
+    <poi id="51202" type="BusStop" color="blue" layer="202.00" x="6031.99" y="2107.67"/>
+    <poi id="51601" type="BusStop" color="blue" layer="202.00" x="5786.33" y="2994.67"/>
+    <poi id="51602" type="BusStop" color="blue" layer="202.00" x="5813.70" y="3000.74"/>
+    <poi id="51901" type="BusStop" color="blue" layer="202.00" x="8757.96" y="2707.26"/>
+    <poi id="51902" type="BusStop" color="blue" layer="202.00" x="8788.09" y="2705.00"/>
+    <poi id="52602" type="BusStop" color="blue" layer="202.00" x="4865.34" y="5645.98"/>
+    <poi id="53999" type="BusStop" color="blue" layer="202.00" x="9933.99" y="1263.12"/>
+    <poi id="54393" type="BusStop" color="blue" layer="202.00" x="6257.37" y="5432.31"/>
+    <poi id="54395" type="BusStop" color="blue" layer="202.00" x="6289.23" y="5441.34"/>
+    <poi id="54396" type="BusStop" color="blue" layer="202.00" x="6311.81" y="5412.61"/>
+    <poi id="54397" type="BusStop" color="blue" layer="202.00" x="6301.45" y="5422.61"/>
+    <poi id="54398" type="BusStop" color="blue" layer="202.00" x="6302.17" y="5427.36"/>
+    <poi id="54399" type="BusStop" color="blue" layer="202.00" x="6297.84" y="5395.11"/>
+    <poi id="54401" type="BusStop" color="blue" layer="202.00" x="4414.55" y="6282.98"/>
+    <poi id="54402" type="BusStop" color="blue" layer="202.00" x="4424.98" y="6293.76"/>
+    <poi id="54702" type="BusStop" color="blue" layer="202.00" x="6585.10" y="5261.82"/>
+    <poi id="55101" type="BusStop" color="blue" layer="202.00" x="6742.48" y="5979.38"/>
+    <poi id="55102" type="BusStop" color="blue" layer="202.00" x="6766.17" y="6090.35"/>
+    <poi id="55202" type="BusStop" color="blue" layer="202.00" x="6963.82" y="7801.07"/>
+    <poi id="56402" type="BusStop" color="blue" layer="202.00" x="6321.33" y="1333.43"/>
+    <poi id="57201" type="BusStop" color="blue" layer="202.00" x="2045.37" y="5331.96"/>
+    <poi id="57202" type="BusStop" color="blue" layer="202.00" x="2041.70" y="5321.88"/>
+    <poi id="57301" type="BusStop" color="blue" layer="202.00" x="7192.81" y="2519.19"/>
+    <poi id="57302" type="BusStop" color="blue" layer="202.00" x="7236.32" y="2390.64"/>
+    <poi id="57401" type="BusStop" color="blue" layer="202.00" x="7815.12" y="4194.29"/>
+    <poi id="57402" type="BusStop" color="blue" layer="202.00" x="7826.09" y="4191.16"/>
+    <poi id="57701" type="BusStop" color="blue" layer="202.00" x="7625.44" y="6026.85"/>
+    <poi id="57702" type="BusStop" color="blue" layer="202.00" x="7682.76" y="6022.21"/>
+    <poi id="57703" type="BusStop" color="blue" layer="202.00" x="7661.39" y="6018.14"/>
+    <poi id="57801" type="BusStop" color="blue" layer="202.00" x="3631.63" y="4964.41"/>
+    <poi id="57802" type="BusStop" color="blue" layer="202.00" x="3580.19" y="4966.83"/>
+    <poi id="57901" type="BusStop" color="blue" layer="202.00" x="6852.57" y="5328.57"/>
+    <poi id="57902" type="BusStop" color="blue" layer="202.00" x="6910.31" y="5362.75"/>
+    <poi id="58002" type="BusStop" color="blue" layer="202.00" x="4046.04" y="5845.40"/>
+    <poi id="58101" type="BusStop" color="blue" layer="202.00" x="7203.77" y="3540.21"/>
+    <poi id="58102" type="BusStop" color="blue" layer="202.00" x="7198.98" y="3538.41"/>
+    <poi id="58401" type="BusStop" color="blue" layer="202.00" x="4545.20" y="6031.85"/>
+    <poi id="58402" type="BusStop" color="blue" layer="202.00" x="4579.30" y="6056.19"/>
+    <poi id="59301" type="BusStop" color="blue" layer="202.00" x="7613.74" y="3420.61"/>
+    <poi id="59302" type="BusStop" color="blue" layer="202.00" x="7676.88" y="3394.80"/>
+    <poi id="59601" type="BusStop" color="blue" layer="202.00" x="9681.21" y="1166.27"/>
+    <poi id="59602" type="BusStop" color="blue" layer="202.00" x="9606.78" y="1152.19"/>
+    <poi id="60601" type="BusStop" color="blue" layer="202.00" x="6273.30" y="3386.51"/>
+    <poi id="60602" type="BusStop" color="blue" layer="202.00" x="6285.53" y="3379.34"/>
+    <poi id="60701" type="BusStop" color="blue" layer="202.00" x="5874.82" y="4248.59"/>
+    <poi id="60702" type="BusStop" color="blue" layer="202.00" x="5882.25" y="4249.24"/>
+    <poi id="60705" type="BusStop" color="blue" layer="202.00" x="5824.69" y="4238.50"/>
+    <poi id="60706" type="BusStop" color="blue" layer="202.00" x="5826.45" y="4248.56"/>
+    <poi id="61201" type="BusStop" color="blue" layer="202.00" x="6114.47" y="5091.36"/>
+    <poi id="61202" type="BusStop" color="blue" layer="202.00" x="6116.30" y="5101.41"/>
+    <poi id="61301" type="BusStop" color="blue" layer="202.00" x="7877.48" y="5008.51"/>
+    <poi id="61302" type="BusStop" color="blue" layer="202.00" x="7887.14" y="5016.31"/>
+    <poi id="62601" type="BusStop" color="blue" layer="202.00" x="4369.59" y="5309.42"/>
+    <poi id="62901" type="BusStop" color="blue" layer="202.00" x="3832.46" y="5425.70"/>
+    <poi id="62902" type="BusStop" color="blue" layer="202.00" x="4095.40" y="5417.90"/>
+    <poi id="63301" type="BusStop" color="blue" layer="202.00" x="8405.27" y="1381.29"/>
+    <poi id="63302" type="BusStop" color="blue" layer="202.00" x="8357.51" y="1353.13"/>
+    <poi id="63401" type="BusStop" color="blue" layer="202.00" x="9293.59" y="1461.53"/>
+    <poi id="63402" type="BusStop" color="blue" layer="202.00" x="9305.48" y="1445.02"/>
+    <poi id="63403" type="BusStop" color="blue" layer="202.00" x="9350.78" y="1557.43"/>
+    <poi id="64001" type="BusStop" color="blue" layer="202.00" x="3312.34" y="4785.27"/>
+    <poi id="64002" type="BusStop" color="blue" layer="202.00" x="3315.55" y="4781.27"/>
+    <poi id="6401" type="BusStop" color="blue" layer="202.00" x="6944.74" y="3280.01"/>
+    <poi id="6402" type="BusStop" color="blue" layer="202.00" x="6964.08" y="3224.48"/>
+    <poi id="64301" type="BusStop" color="blue" layer="202.00" x="8700.55" y="5087.33"/>
+    <poi id="64302" type="BusStop" color="blue" layer="202.00" x="8622.13" y="5074.05"/>
+    <poi id="64501" type="BusStop" color="blue" layer="202.00" x="5190.20" y="5437.36"/>
+    <poi id="64502" type="BusStop" color="blue" layer="202.00" x="5195.33" y="5414.73"/>
+    <poi id="64801" type="BusStop" color="blue" layer="202.00" x="6882.84" y="1365.39"/>
+    <poi id="64802" type="BusStop" color="blue" layer="202.00" x="6925.64" y="1299.54"/>
+    <poi id="64901" type="BusStop" color="blue" layer="202.00" x="7994.11" y="5996.67"/>
+    <poi id="64999" type="BusStop" color="blue" layer="202.00" x="7968.05" y="6032.52"/>
+    <poi id="6501" type="BusStop" color="blue" layer="202.00" x="4822.22" y="6572.19"/>
+    <poi id="6502" type="BusStop" color="blue" layer="202.00" x="4821.01" y="6590.49"/>
+    <poi id="65501" type="BusStop" color="blue" layer="202.00" x="7488.58" y="2737.10"/>
+    <poi id="65502" type="BusStop" color="blue" layer="202.00" x="7493.02" y="2717.24"/>
+    <poi id="65901" type="BusStop" color="blue" layer="202.00" x="2490.67" y="5326.64"/>
+    <poi id="65902" type="BusStop" color="blue" layer="202.00" x="2451.33" y="5353.74"/>
+    <poi id="67101" type="BusStop" color="blue" layer="202.00" x="9576.62" y="5325.22"/>
+    <poi id="67102" type="BusStop" color="blue" layer="202.00" x="9617.34" y="5343.09"/>
+    <poi id="67201" type="BusStop" color="blue" layer="202.00" x="7921.19" y="7089.30"/>
+    <poi id="67202" type="BusStop" color="blue" layer="202.00" x="7907.50" y="7082.12"/>
+    <poi id="67301" type="BusStop" color="blue" layer="202.00" x="4983.64" y="6293.73"/>
+    <poi id="67302" type="BusStop" color="blue" layer="202.00" x="4956.31" y="6320.23"/>
+    <poi id="67701" type="BusStop" color="blue" layer="202.00" x="2144.37" y="4037.70"/>
+    <poi id="67702" type="BusStop" color="blue" layer="202.00" x="2122.77" y="4024.19"/>
+    <poi id="68801" type="BusStop" color="blue" layer="202.00" x="6234.86" y="4350.15"/>
+    <poi id="68802" type="BusStop" color="blue" layer="202.00" x="6225.74" y="4355.51"/>
+    <poi id="69101" type="BusStop" color="blue" layer="202.00" x="5729.10" y="5661.21"/>
+    <poi id="69102" type="BusStop" color="blue" layer="202.00" x="5813.49" y="5683.98"/>
+    <poi id="69103" type="BusStop" color="blue" layer="202.00" x="5750.23" y="5836.05"/>
+    <poi id="69104" type="BusStop" color="blue" layer="202.00" x="5746.91" y="5837.19"/>
+    <poi id="70401" type="BusStop" color="blue" layer="202.00" x="5848.12" y="1538.67"/>
+    <poi id="70402" type="BusStop" color="blue" layer="202.00" x="5840.19" y="1532.23"/>
+    <poi id="70701" type="BusStop" color="blue" layer="202.00" x="2596.44" y="4320.46"/>
+    <poi id="70702" type="BusStop" color="blue" layer="202.00" x="2587.11" y="4317.92"/>
+    <poi id="70801" type="BusStop" color="blue" layer="202.00" x="5381.67" y="4182.38"/>
+    <poi id="70802" type="BusStop" color="blue" layer="202.00" x="5424.68" y="4152.72"/>
+    <poi id="70901" type="BusStop" color="blue" layer="202.00" x="7863.34" y="2489.93"/>
+    <poi id="70902" type="BusStop" color="blue" layer="202.00" x="7871.43" y="2485.80"/>
+    <poi id="71801" type="BusStop" color="blue" layer="202.00" x="4943.28" y="5196.43"/>
+    <poi id="71802" type="BusStop" color="blue" layer="202.00" x="4953.32" y="5157.76"/>
+    <poi id="72001" type="BusStop" color="blue" layer="202.00" x="6508.05" y="6166.71"/>
+    <poi id="72002" type="BusStop" color="blue" layer="202.00" x="6490.42" y="6147.29"/>
+    <poi id="72101" type="BusStop" color="blue" layer="202.00" x="6880.39" y="6140.54"/>
+    <poi id="72102" type="BusStop" color="blue" layer="202.00" x="6867.85" y="6129.77"/>
+    <poi id="72201" type="BusStop" color="blue" layer="202.00" x="7187.29" y="5722.71"/>
+    <poi id="72202" type="BusStop" color="blue" layer="202.00" x="7189.26" y="5748.31"/>
+    <poi id="72301" type="BusStop" color="blue" layer="202.00" x="4447.89" y="5804.62"/>
+    <poi id="72302" type="BusStop" color="blue" layer="202.00" x="4549.17" y="5735.67"/>
+    <poi id="72801" type="BusStop" color="blue" layer="202.00" x="6687.22" y="5511.20"/>
+    <poi id="72802" type="BusStop" color="blue" layer="202.00" x="6665.38" y="5580.67"/>
+    <poi id="72901" type="BusStop" color="blue" layer="202.00" x="7318.31" y="6094.81"/>
+    <poi id="72902" type="BusStop" color="blue" layer="202.00" x="7314.56" y="6121.49"/>
+    <poi id="73801" type="BusStop" color="blue" layer="202.00" x="7121.20" y="798.51"/>
+    <poi id="73802" type="BusStop" color="blue" layer="202.00" x="7123.77" y="788.24"/>
+    <poi id="7401" type="BusStop" color="blue" layer="202.00" x="4428.38" y="6887.95"/>
+    <poi id="7402" type="BusStop" color="blue" layer="202.00" x="4390.71" y="6907.85"/>
+    <poi id="7403" type="BusStop" color="blue" layer="202.00" x="4585.23" y="6803.70"/>
+    <poi id="7404" type="BusStop" color="blue" layer="202.00" x="4558.82" y="6802.91"/>
+    <poi id="74101" type="BusStop" color="blue" layer="202.00" x="4566.17" y="6383.08"/>
+    <poi id="74102" type="BusStop" color="blue" layer="202.00" x="4578.42" y="6394.98"/>
+    <poi id="74401" type="BusStop" color="blue" layer="202.00" x="6149.53" y="1646.44"/>
+    <poi id="74402" type="BusStop" color="blue" layer="202.00" x="6125.21" y="1635.75"/>
+    <poi id="74801" type="BusStop" color="blue" layer="202.00" x="6691.51" y="7364.10"/>
+    <poi id="74802" type="BusStop" color="blue" layer="202.00" x="6690.41" y="7361.08"/>
+    <poi id="75601" type="BusStop" color="blue" layer="202.00" x="6790.99" y="3452.66"/>
+    <poi id="75602" type="BusStop" color="blue" layer="202.00" x="6743.65" y="3456.70"/>
+    <poi id="75701" type="BusStop" color="blue" layer="202.00" x="2280.71" y="5532.95"/>
+    <poi id="75702" type="BusStop" color="blue" layer="202.00" x="2235.98" y="5558.70"/>
+    <poi id="7601" type="BusStop" color="blue" layer="202.00" x="5327.01" y="4934.02"/>
+    <poi id="7602" type="BusStop" color="blue" layer="202.00" x="5314.06" y="4917.39"/>
+    <poi id="76901" type="BusStop" color="blue" layer="202.00" x="3139.45" y="5271.16"/>
+    <poi id="76902" type="BusStop" color="blue" layer="202.00" x="3187.14" y="5270.52"/>
+    <poi id="7701" type="BusStop" color="blue" layer="202.00" x="4040.69" y="7682.22"/>
+    <poi id="7702" type="BusStop" color="blue" layer="202.00" x="4062.23" y="7894.30"/>
+    <poi id="78801" type="BusStop" color="blue" layer="202.00" x="5613.21" y="4920.79"/>
+    <poi id="78802" type="BusStop" color="blue" layer="202.00" x="5598.21" y="4898.78"/>
+    <poi id="78803" type="BusStop" color="blue" layer="202.00" x="5622.56" y="4914.59"/>
+    <poi id="78804" type="BusStop" color="blue" layer="202.00" x="5613.65" y="4898.67"/>
+    <poi id="78805" type="BusStop" color="blue" layer="202.00" x="5636.70" y="4914.81"/>
+    <poi id="78806" type="BusStop" color="blue" layer="202.00" x="5629.94" y="4901.76"/>
+    <poi id="78807" type="BusStop" color="blue" layer="202.00" x="5651.27" y="4915.45"/>
+    <poi id="78808" type="BusStop" color="blue" layer="202.00" x="5645.22" y="4902.99"/>
+    <poi id="78809" type="BusStop" color="blue" layer="202.00" x="5666.67" y="4916.86"/>
+    <poi id="78810" type="BusStop" color="blue" layer="202.00" x="5660.43" y="4904.10"/>
+    <poi id="78811" type="BusStop" color="blue" layer="202.00" x="5682.20" y="4917.08"/>
+    <poi id="78812" type="BusStop" color="blue" layer="202.00" x="5668.12" y="4896.32"/>
+    <poi id="78813" type="BusStop" color="blue" layer="202.00" x="5753.54" y="4903.45"/>
+    <poi id="78814" type="BusStop" color="blue" layer="202.00" x="5743.77" y="4922.55"/>
+    <poi id="78815" type="BusStop" color="blue" layer="202.00" x="5760.29" y="4912.19"/>
+    <poi id="78816" type="BusStop" color="blue" layer="202.00" x="5758.77" y="4923.48"/>
+    <poi id="78817" type="BusStop" color="blue" layer="202.00" x="5775.54" y="4913.04"/>
+    <poi id="78818" type="BusStop" color="blue" layer="202.00" x="5775.04" y="4923.49"/>
+    <poi id="78819" type="BusStop" color="blue" layer="202.00" x="5791.28" y="4913.48"/>
+    <poi id="78820" type="BusStop" color="blue" layer="202.00" x="5780.20" y="4932.64"/>
+    <poi id="78831" type="BusStop" color="blue" layer="202.00" x="5584.66" y="4846.57"/>
+    <poi id="78832" type="BusStop" color="blue" layer="202.00" x="5549.11" y="4910.14"/>
+    <poi id="78833" type="BusStop" color="blue" layer="202.00" x="5619.78" y="4923.42"/>
+    <poi id="78834" type="BusStop" color="blue" layer="202.00" x="5635.89" y="4924.66"/>
+    <poi id="78835" type="BusStop" color="blue" layer="202.00" x="5650.65" y="4925.54"/>
+    <poi id="78901" type="BusStop" color="blue" layer="202.00" x="4124.44" y="4539.24"/>
+    <poi id="78902" type="BusStop" color="blue" layer="202.00" x="4136.04" y="4536.11"/>
+    <poi id="7901" type="BusStop" color="blue" layer="202.00" x="6051.49" y="2970.69"/>
+    <poi id="79599" type="BusStop" color="blue" layer="202.00" x="3027.91" y="5567.23"/>
+    <poi id="79699" type="BusStop" color="blue" layer="202.00" x="3003.47" y="5564.18"/>
+    <poi id="80301" type="BusStop" color="blue" layer="202.00" x="6696.49" y="2312.23"/>
+    <poi id="80302" type="BusStop" color="blue" layer="202.00" x="6679.49" y="2323.24"/>
+    <poi id="80303" type="BusStop" color="blue" layer="202.00" x="6689.35" y="2336.23"/>
+    <poi id="80304" type="BusStop" color="blue" layer="202.00" x="6686.24" y="2299.40"/>
+    <poi id="80701" type="BusStop" color="blue" layer="202.00" x="6509.92" y="6897.19"/>
+    <poi id="80702" type="BusStop" color="blue" layer="202.00" x="6491.23" y="7091.02"/>
+    <poi id="83501" type="BusStop" color="blue" layer="202.00" x="4776.05" y="4602.51"/>
+    <poi id="83502" type="BusStop" color="blue" layer="202.00" x="4797.57" y="4612.44"/>
+    <poi id="84401" type="BusStop" color="blue" layer="202.00" x="4842.41" y="4397.70"/>
+    <poi id="84999" type="BusStop" color="blue" layer="202.00" x="4493.42" y="6767.83"/>
+    <poi id="85001" type="BusStop" color="blue" layer="202.00" x="2960.45" y="4952.05"/>
+    <poi id="85002" type="BusStop" color="blue" layer="202.00" x="2961.86" y="4973.21"/>
+    <poi id="8801" type="BusStop" color="blue" layer="202.00" x="2899.79" y="4873.75"/>
+    <poi id="8802" type="BusStop" color="blue" layer="202.00" x="2911.60" y="4874.40"/>
+    <poi id="8901" type="BusStop" color="blue" layer="202.00" x="6891.75" y="7753.54"/>
+    <poi id="8902" type="BusStop" color="blue" layer="202.00" x="6769.56" y="7617.75"/>
+    <poi id="9601" type="BusStop" color="blue" layer="202.00" x="6419.69" y="2206.23"/>
+    <poi id="9602" type="BusStop" color="blue" layer="202.00" x="6428.69" y="2204.49"/>
+    <poi id="de:09161:1034:0:1" type="BusStop" color="red" layer="202.00" x="9635.71" y="3337.74"/>
+    <poi id="de:09161:1034:0:2" type="BusStop" color="red" layer="202.00" x="9488.13" y="3328.49"/>
+    <poi id="de:09161:109:0:2" type="BusStop" color="red" layer="202.00" x="4790.12" y="4300.41"/>
+    <poi id="de:09161:113:0:1" type="BusStop" color="red" layer="202.00" x="7425.64" y="3131.67"/>
+    <poi id="de:09161:113:0:2" type="BusStop" color="red" layer="202.00" x="7415.14" y="3138.01"/>
+    <poi id="de:09161:114:0:10" type="BusStop" color="red" layer="202.00" x="9423.00" y="2049.06"/>
+    <poi id="de:09161:127:0:1" type="BusStop" color="red" layer="202.00" x="7432.45" y="1590.91"/>
+    <poi id="de:09161:127:0:10" type="BusStop" color="red" layer="202.00" x="7414.42" y="1533.59"/>
+    <poi id="de:09161:127:0:2" type="BusStop" color="red" layer="202.00" x="7440.39" y="1595.62"/>
+    <poi id="de:09161:127:0:20" type="BusStop" color="red" layer="202.00" x="7416.71" y="1508.07"/>
+    <poi id="de:09161:128:0:1" type="BusStop" color="red" layer="202.00" x="5383.51" y="1618.96"/>
+    <poi id="de:09161:128:0:2" type="BusStop" color="red" layer="202.00" x="5319.18" y="1559.06"/>
+    <poi id="de:09161:137:0:2" type="BusStop" color="red" layer="202.00" x="6534.24" y="1418.62"/>
+    <poi id="de:09161:1489:0:99" type="BusStop" color="red" layer="202.00" x="-86.53" y="3853.29"/>
+    <poi id="de:09161:148:0:99" type="BusStop" color="red" layer="202.00" x="7967.18" y="4271.73"/>
+    <poi id="de:09161:1492:0:1" type="BusStop" color="red" layer="202.00" x="3584.76" y="6678.90"/>
+    <poi id="de:09161:1492:0:2" type="BusStop" color="red" layer="202.00" x="3583.32" y="6677.74"/>
+    <poi id="de:09161:1492:0:99" type="BusStop" color="red" layer="202.00" x="3591.54" y="6696.91"/>
+    <poi id="de:09161:1521:0:1" type="BusStop" color="red" layer="202.00" x="762.01" y="5003.16"/>
+    <poi id="de:09161:1521:0:2" type="BusStop" color="red" layer="202.00" x="760.99" y="4988.66"/>
+    <poi id="de:09161:1561:0:98" type="BusStop" color="red" layer="202.00" x="6809.72" y="3549.18"/>
+    <poi id="de:09161:1561:0:99" type="BusStop" color="red" layer="202.00" x="6781.32" y="3586.10"/>
+    <poi id="de:09161:1567:0:1" type="BusStop" color="red" layer="202.00" x="398.90" y="3878.27"/>
+    <poi id="de:09161:1567:0:2" type="BusStop" color="red" layer="202.00" x="387.26" y="3850.10"/>
+    <poi id="de:09161:1588:0:1" type="BusStop" color="red" layer="202.00" x="7048.40" y="415.92"/>
+    <poi id="de:09161:1605:0:1" type="BusStop" color="red" layer="202.00" x="3747.87" y="-1362.13"/>
+    <poi id="de:09161:1605:0:2" type="BusStop" color="red" layer="202.00" x="3744.41" y="-1368.92"/>
+    <poi id="de:09161:1608:0:99" type="BusStop" color="red" layer="202.00" x="10671.90" y="5734.82"/>
+    <poi id="de:09161:1624:0:1" type="BusStop" color="red" layer="202.00" x="6916.14" y="4429.33"/>
+    <poi id="de:09161:1624:0:2" type="BusStop" color="red" layer="202.00" x="6916.77" y="4432.68"/>
+    <poi id="de:09161:1625:0:98" type="BusStop" color="red" layer="202.00" x="6830.92" y="3829.12"/>
+    <poi id="de:09161:1625:0:99" type="BusStop" color="red" layer="202.00" x="6905.30" y="3918.29"/>
+    <poi id="de:09161:1626:0:20" type="BusStop" color="red" layer="202.00" x="7180.57" y="4372.16"/>
+    <poi id="de:09161:1626:0:3" type="BusStop" color="red" layer="202.00" x="7188.89" y="4319.02"/>
+    <poi id="de:09161:1648:0:3" type="BusStop" color="red" layer="202.00" x="6508.36" y="2597.15"/>
+    <poi id="de:09161:166:0:1" type="BusStop" color="red" layer="202.00" x="5158.84" y="720.64"/>
+    <poi id="de:09161:166:0:2" type="BusStop" color="red" layer="202.00" x="5223.01" y="786.09"/>
+    <poi id="de:09161:1672:0:99" type="BusStop" color="red" layer="202.00" x="2271.30" y="-665.15"/>
+    <poi id="de:09161:1675:0:1" type="BusStop" color="red" layer="202.00" x="4158.30" y="-1442.68"/>
+    <poi id="de:09161:1675:0:2" type="BusStop" color="red" layer="202.00" x="4150.46" y="-1450.71"/>
+    <poi id="de:09161:1676:0:10" type="BusStop" color="red" layer="202.00" x="4620.03" y="-1514.90"/>
+    <poi id="de:09161:1676:0:20" type="BusStop" color="red" layer="202.00" x="4643.99" y="-1527.49"/>
+    <poi id="de:09161:1676:0:99" type="BusStop" color="red" layer="202.00" x="4612.40" y="-1669.79"/>
+    <poi id="de:09161:1677:0:99" type="BusStop" color="red" layer="202.00" x="9761.07" y="6829.97"/>
+    <poi id="de:09161:1681:0:10" type="BusStop" color="red" layer="202.00" x="6590.43" y="4540.17"/>
+    <poi id="de:09161:1681:0:20" type="BusStop" color="red" layer="202.00" x="6614.21" y="4555.40"/>
+    <poi id="de:09161:1681:0:30" type="BusStop" color="red" layer="202.00" x="6742.00" y="4745.29"/>
+    <poi id="de:09161:1681:0:40" type="BusStop" color="red" layer="202.00" x="6736.68" y="4750.69"/>
+    <poi id="de:09161:1681:0:50" type="BusStop" color="red" layer="202.00" x="6738.33" y="4745.18"/>
+    <poi id="de:09161:1685:0:99" type="BusStop" color="red" layer="202.00" x="6028.41" y="-2111.10"/>
+    <poi id="de:09161:1710:0:99" type="BusStop" color="red" layer="202.00" x="3810.80" y="5828.21"/>
+    <poi id="de:09161:1711:0:99" type="BusStop" color="red" layer="202.00" x="4718.31" y="5662.17"/>
+    <poi id="de:09161:1714:0:99" type="BusStop" color="red" layer="202.00" x="3631.07" y="5277.39"/>
+    <poi id="de:09161:1731:0:1" type="BusStop" color="red" layer="202.00" x="5934.81" y="1846.76"/>
+    <poi id="de:09161:1731:0:10" type="BusStop" color="red" layer="202.00" x="5942.06" y="1826.97"/>
+    <poi id="de:09161:1731:0:2" type="BusStop" color="red" layer="202.00" x="5943.08" y="1818.10"/>
+    <poi id="de:09161:1731:0:20" type="BusStop" color="red" layer="202.00" x="6127.57" y="1894.07"/>
+    <poi id="de:09161:1750:1" type="BusStop" color="red" layer="202.00" x="4353.62" y="7451.92"/>
+    <poi id="de:09161:1750:1:1" type="BusStop" color="red" layer="202.00" x="4319.79" y="7475.33"/>
+    <poi id="de:09161:1750:1:2" type="BusStop" color="red" layer="202.00" x="4342.91" y="7464.94"/>
+    <poi id="de:09161:1750:1:3" type="BusStop" color="red" layer="202.00" x="4366.73" y="7455.68"/>
+    <poi id="de:09161:1750:1:4" type="BusStop" color="red" layer="202.00" x="4390.55" y="7446.42"/>
+    <poi id="de:09161:1750:1:5" type="BusStop" color="red" layer="202.00" x="4386.39" y="7438.50"/>
+    <poi id="de:09161:1750:1:6" type="BusStop" color="red" layer="202.00" x="4364.81" y="7446.71"/>
+    <poi id="de:09161:1750:1:7" type="BusStop" color="red" layer="202.00" x="4339.49" y="7457.04"/>
+    <poi id="de:09161:1750:1:8" type="BusStop" color="red" layer="202.00" x="4314.86" y="7468.50"/>
+    <poi id="de:09161:1750:2" type="BusStop" color="red" layer="202.00" x="4449.35" y="7330.34"/>
+    <poi id="de:09161:1750:2:1" type="BusStop" color="red" layer="202.00" x="4479.71" y="7323.51"/>
+    <poi id="de:09161:1750:2:2" type="BusStop" color="red" layer="202.00" x="4475.58" y="7314.48"/>
+    <poi id="de:09161:1750:91" type="BusStop" color="red" layer="202.00" x="4299.33" y="7518.08"/>
+    <poi id="de:09161:1750:92" type="BusStop" color="red" layer="202.00" x="4522.25" y="7256.99"/>
+    <poi id="de:09161:179:0:1" type="BusStop" color="red" layer="202.00" x="9214.67" y="2800.00"/>
+    <poi id="de:09161:179:0:2" type="BusStop" color="red" layer="202.00" x="9183.80" y="2799.00"/>
+    <poi id="de:09161:180:0:1" type="BusStop" color="red" layer="202.00" x="7595.49" y="2013.38"/>
+    <poi id="de:09161:180:0:10" type="BusStop" color="red" layer="202.00" x="7480.15" y="2007.45"/>
+    <poi id="de:09161:180:0:2" type="BusStop" color="red" layer="202.00" x="7579.46" y="2008.42"/>
+    <poi id="de:09161:180:0:20" type="BusStop" color="red" layer="202.00" x="7482.04" y="2017.53"/>
+    <poi id="de:09161:180:0:40" type="BusStop" color="red" layer="202.00" x="7481.11" y="2046.42"/>
+    <poi id="de:09161:1812:0:1" type="BusStop" color="red" layer="202.00" x="4395.04" y="-77.87"/>
+    <poi id="de:09161:1812:0:2" type="BusStop" color="red" layer="202.00" x="4430.85" y="0.03"/>
+    <poi id="de:09161:1813:0:99" type="BusStop" color="red" layer="202.00" x="4683.74" y="-198.93"/>
+    <poi id="de:09161:1840:0:96" type="BusStop" color="red" layer="202.00" x="10109.94" y="2557.63"/>
+    <poi id="de:09161:1840:0:97" type="BusStop" color="red" layer="202.00" x="10089.20" y="2539.15"/>
+    <poi id="de:09161:1840:0:98" type="BusStop" color="red" layer="202.00" x="10130.57" y="2511.57"/>
+    <poi id="de:09161:1840:0:99" type="BusStop" color="red" layer="202.00" x="10109.88" y="2514.24"/>
+    <poi id="de:09161:1842:0:1" type="BusStop" color="red" layer="202.00" x="1121.46" y="6051.19"/>
+    <poi id="de:09161:1842:0:2" type="BusStop" color="red" layer="202.00" x="1092.59" y="6010.25"/>
+    <poi id="de:09161:1845:0:10" type="BusStop" color="red" layer="202.00" x="7077.30" y="2385.05"/>
+    <poi id="de:09161:1845:0:99" type="BusStop" color="red" layer="202.00" x="6920.27" y="2325.50"/>
+    <poi id="de:09161:1847:0:1" type="BusStop" color="red" layer="202.00" x="5014.85" y="7556.32"/>
+    <poi id="de:09161:1847:0:2" type="BusStop" color="red" layer="202.00" x="5017.06" y="7556.39"/>
+    <poi id="de:09161:1850:0:1" type="BusStop" color="red" layer="202.00" x="5628.53" y="6406.48"/>
+    <poi id="de:09161:1850:0:2" type="BusStop" color="red" layer="202.00" x="5636.80" y="6377.81"/>
+    <poi id="de:09161:1851:0:1" type="BusStop" color="red" layer="202.00" x="5237.99" y="6572.07"/>
+    <poi id="de:09161:1851:0:2" type="BusStop" color="red" layer="202.00" x="5228.37" y="6573.99"/>
+    <poi id="de:09161:1852:0:2" type="BusStop" color="red" layer="202.00" x="5284.72" y="7345.70"/>
+    <poi id="de:09161:1853:0:1" type="BusStop" color="red" layer="202.00" x="4812.07" y="7645.57"/>
+    <poi id="de:09161:1853:0:2" type="BusStop" color="red" layer="202.00" x="4849.32" y="7630.06"/>
+    <poi id="de:09161:1854:0:1" type="BusStop" color="red" layer="202.00" x="5749.49" y="5840.67"/>
+    <poi id="de:09161:1854:0:2" type="BusStop" color="red" layer="202.00" x="5748.31" y="5831.73"/>
+    <poi id="de:09161:1856:0:99" type="BusStop" color="red" layer="202.00" x="7607.41" y="7541.29"/>
+    <poi id="de:09161:1866:0:20" type="BusStop" color="red" layer="202.00" x="8167.77" y="1449.90"/>
+    <poi id="de:09161:1867:0:1" type="BusStop" color="red" layer="202.00" x="4382.03" y="-739.15"/>
+    <poi id="de:09161:1867:0:10" type="BusStop" color="red" layer="202.00" x="4494.57" y="-922.51"/>
+    <poi id="de:09161:1867:0:2" type="BusStop" color="red" layer="202.00" x="4405.53" y="-760.66"/>
+    <poi id="de:09161:1867:0:20" type="BusStop" color="red" layer="202.00" x="4477.97" y="-909.69"/>
+    <poi id="de:09161:1870:0:2" type="BusStop" color="red" layer="202.00" x="7915.10" y="5408.28"/>
+    <poi id="de:09161:187:0:1" type="BusStop" color="red" layer="202.00" x="7031.21" y="3363.79"/>
+    <poi id="de:09161:187:0:2" type="BusStop" color="red" layer="202.00" x="7017.81" y="3368.92"/>
+    <poi id="de:09161:1892:0:99" type="BusStop" color="red" layer="202.00" x="1656.44" y="5493.74"/>
+    <poi id="de:09161:1907:0:99" type="BusStop" color="red" layer="202.00" x="3785.47" y="5908.63"/>
+    <poi id="de:09161:201:0:1" type="BusStop" color="red" layer="202.00" x="6755.51" y="5127.35"/>
+    <poi id="de:09161:201:0:2" type="BusStop" color="red" layer="202.00" x="6751.54" y="5159.49"/>
+    <poi id="de:09161:202:0:1" type="BusStop" color="red" layer="202.00" x="7371.68" y="1237.38"/>
+    <poi id="de:09161:202:0:2" type="BusStop" color="red" layer="202.00" x="7386.35" y="1284.58"/>
+    <poi id="de:09161:204:0:1" type="BusStop" color="red" layer="202.00" x="4698.40" y="5501.33"/>
+    <poi id="de:09161:204:0:2" type="BusStop" color="red" layer="202.00" x="4712.16" y="5461.71"/>
+    <poi id="de:09161:231:0:1" type="BusStop" color="red" layer="202.00" x="4127.61" y="5995.08"/>
+    <poi id="de:09161:231:0:2" type="BusStop" color="red" layer="202.00" x="4192.57" y="5987.11"/>
+    <poi id="de:09161:232:0:1" type="BusStop" color="red" layer="202.00" x="7578.39" y="4924.57"/>
+    <poi id="de:09161:232:0:2" type="BusStop" color="red" layer="202.00" x="7556.38" y="4922.75"/>
+    <poi id="de:09161:244:0:1" type="BusStop" color="red" layer="202.00" x="6339.94" y="-588.04"/>
+    <poi id="de:09161:244:0:10" type="BusStop" color="red" layer="202.00" x="6301.16" y="-456.88"/>
+    <poi id="de:09161:244:0:2" type="BusStop" color="red" layer="202.00" x="6368.39" y="-533.73"/>
+    <poi id="de:09161:244:0:20" type="BusStop" color="red" layer="202.00" x="6300.87" y="-447.99"/>
+    <poi id="de:09161:244:0:3" type="BusStop" color="red" layer="202.00" x="6367.97" y="-543.76"/>
+    <poi id="de:09161:244:0:4" type="BusStop" color="red" layer="202.00" x="6409.78" y="-608.07"/>
+    <poi id="de:09161:259:0:99" type="BusStop" color="red" layer="202.00" x="7916.46" y="6187.16"/>
+    <poi id="de:09161:262:0:99" type="BusStop" color="red" layer="202.00" x="8101.06" y="5343.06"/>
+    <poi id="de:09161:266:0:1" type="BusStop" color="red" layer="202.00" x="10189.00" y="5568.82"/>
+    <poi id="de:09161:266:0:2" type="BusStop" color="red" layer="202.00" x="10115.05" y="5558.62"/>
+    <poi id="de:09161:270:0:1" type="BusStop" color="red" layer="202.00" x="3786.99" y="671.77"/>
+    <poi id="de:09161:270:0:2" type="BusStop" color="red" layer="202.00" x="3795.33" y="687.60"/>
+    <poi id="de:09161:281:0:1" type="BusStop" color="red" layer="202.00" x="5075.48" y="261.84"/>
+    <poi id="de:09161:281:0:2" type="BusStop" color="red" layer="202.00" x="5072.64" y="281.78"/>
+    <poi id="de:09161:2907:0:1" type="BusStop" color="red" layer="202.00" x="9403.20" y="6552.40"/>
+    <poi id="de:09161:304:0:99" type="BusStop" color="red" layer="202.00" x="4038.64" y="5668.51"/>
+    <poi id="de:09161:308:0:1" type="BusStop" color="red" layer="202.00" x="7190.67" y="4836.45"/>
+    <poi id="de:09161:308:0:2" type="BusStop" color="red" layer="202.00" x="7166.64" y="4829.00"/>
+    <poi id="de:09161:313:0:1" type="BusStop" color="red" layer="202.00" x="7384.73" y="6441.52"/>
+    <poi id="de:09161:313:0:2" type="BusStop" color="red" layer="202.00" x="7381.67" y="6422.51"/>
+    <poi id="de:09161:325:0:1" type="BusStop" color="red" layer="202.00" x="4653.47" y="5364.17"/>
+    <poi id="de:09161:325:0:2" type="BusStop" color="red" layer="202.00" x="4655.54" y="5345.32"/>
+    <poi id="de:09161:328:0:99" type="BusStop" color="red" layer="202.00" x="4019.86" y="3605.18"/>
+    <poi id="de:09161:331:0:1" type="BusStop" color="red" layer="202.00" x="4777.92" y="547.26"/>
+    <poi id="de:09161:331:0:2" type="BusStop" color="red" layer="202.00" x="4752.92" y="546.47"/>
+    <poi id="de:09161:340:0:98" type="BusStop" color="red" layer="202.00" x="2027.13" y="5562.03"/>
+    <poi id="de:09161:340:0:99" type="BusStop" color="red" layer="202.00" x="2022.35" y="5597.48"/>
+    <poi id="de:09161:353:0:1" type="BusStop" color="red" layer="202.00" x="5869.31" y="-119.06"/>
+    <poi id="de:09161:353:0:10" type="BusStop" color="red" layer="202.00" x="5613.81" y="-209.51"/>
+    <poi id="de:09161:353:0:2" type="BusStop" color="red" layer="202.00" x="5873.59" y="-114.47"/>
+    <poi id="de:09161:353:0:20" type="BusStop" color="red" layer="202.00" x="5621.55" y="-221.50"/>
+    <poi id="de:09161:3:0:1" type="BusStop" color="red" layer="202.00" x="2042.27" y="-733.47"/>
+    <poi id="de:09161:3:0:2" type="BusStop" color="red" layer="202.00" x="2040.56" y="-725.74"/>
+    <poi id="de:09161:41:0:1" type="BusStop" color="red" layer="202.00" x="4185.52" y="-1628.73"/>
+    <poi id="de:09161:41:0:2" type="BusStop" color="red" layer="202.00" x="4174.80" y="-1662.45"/>
+    <poi id="de:09161:442:0:1" type="BusStop" color="red" layer="202.00" x="5160.56" y="1548.46"/>
+    <poi id="de:09161:442:0:2" type="BusStop" color="red" layer="202.00" x="5170.43" y="1562.13"/>
+    <poi id="de:09161:4438:0:1" type="BusStop" color="red" layer="202.00" x="9475.05" y="6717.19"/>
+    <poi id="de:09161:4438:0:2" type="BusStop" color="red" layer="202.00" x="9498.88" y="6707.95"/>
+    <poi id="de:09161:4492:0:1" type="BusStop" color="red" layer="202.00" x="7122.72" y="784.35"/>
+    <poi id="de:09161:4492:0:2" type="BusStop" color="red" layer="202.00" x="7121.73" y="792.10"/>
+    <poi id="de:09161:45:0:1" type="BusStop" color="red" layer="202.00" x="10522.73" y="5101.29"/>
+    <poi id="de:09161:45:0:2" type="BusStop" color="red" layer="202.00" x="10686.57" y="5106.64"/>
+    <poi id="de:09161:465:0:1" type="BusStop" color="red" layer="202.00" x="7056.30" y="4095.58"/>
+    <poi id="de:09161:468:0:1" type="BusStop" color="red" layer="202.00" x="4682.26" y="3966.55"/>
+    <poi id="de:09161:468:0:2" type="BusStop" color="red" layer="202.00" x="4661.34" y="3930.29"/>
+    <poi id="de:09161:46:0:1" type="BusStop" color="red" layer="202.00" x="5475.01" y="1819.90"/>
+    <poi id="de:09161:46:0:2" type="BusStop" color="red" layer="202.00" x="5487.43" y="1845.89"/>
+    <poi id="de:09161:473:0:1" type="BusStop" color="red" layer="202.00" x="9872.78" y="5500.65"/>
+    <poi id="de:09161:473:0:2" type="BusStop" color="red" layer="202.00" x="9891.41" y="5515.73"/>
+    <poi id="de:09161:4:0:1" type="BusStop" color="red" layer="202.00" x="2127.54" y="-1131.34"/>
+    <poi id="de:09161:4:0:2" type="BusStop" color="red" layer="202.00" x="2096.39" y="-1076.68"/>
+    <poi id="de:09161:505:0:1" type="BusStop" color="red" layer="202.00" x="9160.22" y="5158.15"/>
+    <poi id="de:09161:505:0:2" type="BusStop" color="red" layer="202.00" x="9218.46" y="5176.73"/>
+    <poi id="de:09161:508:0:99" type="BusStop" color="red" layer="202.00" x="7225.05" y="1173.70"/>
+    <poi id="de:09161:50:0:20" type="BusStop" color="red" layer="202.00" x="7852.97" y="1855.88"/>
+    <poi id="de:09161:512:0:1" type="BusStop" color="red" layer="202.00" x="6083.14" y="2110.73"/>
+    <poi id="de:09161:512:0:10" type="BusStop" color="red" layer="202.00" x="5880.52" y="2118.74"/>
+    <poi id="de:09161:512:0:2" type="BusStop" color="red" layer="202.00" x="6044.28" y="2106.15"/>
+    <poi id="de:09161:519:0:1" type="BusStop" color="red" layer="202.00" x="8769.71" y="2703.25"/>
+    <poi id="de:09161:519:0:2" type="BusStop" color="red" layer="202.00" x="8781.11" y="2714.75"/>
+    <poi id="de:09161:51:0:1" type="BusStop" color="red" layer="202.00" x="5917.67" y="-667.14"/>
+    <poi id="de:09161:51:0:10" type="BusStop" color="red" layer="202.00" x="5837.46" y="-760.92"/>
+    <poi id="de:09161:51:0:2" type="BusStop" color="red" layer="202.00" x="5869.84" y="-714.28"/>
+    <poi id="de:09161:51:0:20" type="BusStop" color="red" layer="202.00" x="5842.86" y="-768.54"/>
+    <poi id="de:09161:526:0:2" type="BusStop" color="red" layer="202.00" x="4879.83" y="5647.26"/>
+    <poi id="de:09161:527:0:99" type="BusStop" color="red" layer="202.00" x="10643.26" y="4789.23"/>
+    <poi id="de:09161:555:0:1" type="BusStop" color="red" layer="202.00" x="4918.77" y="2166.08"/>
+    <poi id="de:09161:555:0:2" type="BusStop" color="red" layer="202.00" x="4920.48" y="2158.35"/>
+    <poi id="de:09161:562:0:1" type="BusStop" color="red" layer="202.00" x="4429.06" y="-1553.19"/>
+    <poi id="de:09161:562:0:2" type="BusStop" color="red" layer="202.00" x="4440.94" y="-1556.15"/>
+    <poi id="de:09161:564:0:2" type="BusStop" color="red" layer="202.00" x="6308.39" y="1346.88"/>
+    <poi id="de:09161:572:0:1" type="BusStop" color="red" layer="202.00" x="2042.64" y="5347.78"/>
+    <poi id="de:09161:572:0:2" type="BusStop" color="red" layer="202.00" x="2046.58" y="5315.64"/>
+    <poi id="de:09161:574:0:1" type="BusStop" color="red" layer="202.00" x="7810.09" y="4193.24"/>
+    <poi id="de:09161:574:0:2" type="BusStop" color="red" layer="202.00" x="7827.72" y="4193.81"/>
+    <poi id="de:09161:577:0:20" type="BusStop" color="red" layer="202.00" x="7627.05" y="5972.00"/>
+    <poi id="de:09161:577:0:3" type="BusStop" color="red" layer="202.00" x="7634.33" y="6020.08"/>
+    <poi id="de:09161:580:0:1" type="BusStop" color="red" layer="202.00" x="4040.87" y="5807.65"/>
+    <poi id="de:09161:580:0:2" type="BusStop" color="red" layer="202.00" x="4041.50" y="5834.37"/>
+    <poi id="de:09161:581:0:1" type="BusStop" color="red" layer="202.00" x="7205.53" y="3548.51"/>
+    <poi id="de:09161:581:0:10" type="BusStop" color="red" layer="202.00" x="7226.50" y="3651.55"/>
+    <poi id="de:09161:581:0:2" type="BusStop" color="red" layer="202.00" x="7195.63" y="3535.96"/>
+    <poi id="de:09161:581:0:20" type="BusStop" color="red" layer="202.00" x="7321.85" y="3614.55"/>
+    <poi id="de:09161:596:0:99" type="BusStop" color="red" layer="202.00" x="9591.89" y="1154.42"/>
+    <poi id="de:09161:613:0:1" type="BusStop" color="red" layer="202.00" x="7890.35" y="5012.49"/>
+    <poi id="de:09161:613:0:10" type="BusStop" color="red" layer="202.00" x="7805.60" y="4971.93"/>
+    <poi id="de:09161:613:0:2" type="BusStop" color="red" layer="202.00" x="7869.07" y="5010.70"/>
+    <poi id="de:09161:613:0:20" type="BusStop" color="red" layer="202.00" x="7841.08" y="5012.02"/>
+    <poi id="de:09161:633:0:10" type="BusStop" color="red" layer="202.00" x="8499.94" y="1419.46"/>
+    <poi id="de:09161:633:0:20" type="BusStop" color="red" layer="202.00" x="8499.94" y="1419.46"/>
+    <poi id="de:09161:633:0:40" type="BusStop" color="red" layer="202.00" x="8333.85" y="1366.25"/>
+    <poi id="de:09161:634:0:99" type="BusStop" color="red" layer="202.00" x="9332.32" y="1509.82"/>
+    <poi id="de:09161:643:0:1" type="BusStop" color="red" layer="202.00" x="8708.67" y="5088.99"/>
+    <poi id="de:09161:643:0:2" type="BusStop" color="red" layer="202.00" x="8606.98" y="5072.35"/>
+    <poi id="de:09161:644:0:1" type="BusStop" color="red" layer="202.00" x="4263.37" y="-221.09"/>
+    <poi id="de:09161:644:0:2" type="BusStop" color="red" layer="202.00" x="4256.61" y="-216.86"/>
+    <poi id="de:09161:652:0:1" type="BusStop" color="red" layer="202.00" x="5104.35" y="1882.69"/>
+    <poi id="de:09161:652:0:2" type="BusStop" color="red" layer="202.00" x="5174.81" y="1911.62"/>
+    <poi id="de:09161:652:0:3" type="BusStop" color="red" layer="202.00" x="4998.60" y="1829.27"/>
+    <poi id="de:09161:652:0:4" type="BusStop" color="red" layer="202.00" x="5021.11" y="1838.88"/>
+    <poi id="de:09161:655:0:10" type="BusStop" color="red" layer="202.00" x="7514.25" y="2709.50"/>
+    <poi id="de:09161:660:0:10" type="BusStop" color="red" layer="202.00" x="5810.67" y="2278.95"/>
+    <poi id="de:09161:660:0:12" type="BusStop" color="red" layer="202.00" x="5804.89" y="2298.79"/>
+    <poi id="de:09161:660:0:14" type="BusStop" color="red" layer="202.00" x="5800.51" y="2320.91"/>
+    <poi id="de:09161:660:0:16" type="BusStop" color="red" layer="202.00" x="5796.23" y="2339.69"/>
+    <poi id="de:09161:660:0:18" type="BusStop" color="red" layer="202.00" x="5841.62" y="2162.00"/>
+    <poi id="de:09161:660:0:20" type="BusStop" color="red" layer="202.00" x="5768.71" y="2464.53"/>
+    <poi id="de:09161:660:0:4" type="BusStop" color="red" layer="202.00" x="5822.80" y="2221.48"/>
+    <poi id="de:09161:660:0:6" type="BusStop" color="red" layer="202.00" x="5817.90" y="2236.90"/>
+    <poi id="de:09161:660:0:8" type="BusStop" color="red" layer="202.00" x="5811.34" y="2257.83"/>
+    <poi id="de:09161:668:0:1" type="BusStop" color="red" layer="202.00" x="5767.05" y="-1070.24"/>
+    <poi id="de:09161:668:0:10" type="BusStop" color="red" layer="202.00" x="5707.84" y="-1129.97"/>
+    <poi id="de:09161:668:0:2" type="BusStop" color="red" layer="202.00" x="5804.78" y="-983.37"/>
+    <poi id="de:09161:668:0:20" type="BusStop" color="red" layer="202.00" x="5886.85" y="-1133.18"/>
+    <poi id="de:09161:671:0:1" type="BusStop" color="red" layer="202.00" x="9584.82" y="5332.17"/>
+    <poi id="de:09161:671:0:2" type="BusStop" color="red" layer="202.00" x="9605.21" y="5338.40"/>
+    <poi id="de:09161:672:0:1" type="BusStop" color="red" layer="202.00" x="7922.58" y="7091.93"/>
+    <poi id="de:09161:672:0:2" type="BusStop" color="red" layer="202.00" x="7905.09" y="7086.91"/>
+    <poi id="de:09161:674:0:1" type="BusStop" color="red" layer="202.00" x="4074.07" y="600.70"/>
+    <poi id="de:09161:674:0:2" type="BusStop" color="red" layer="202.00" x="4064.05" y="591.48"/>
+    <poi id="de:09161:675:0:1" type="BusStop" color="red" layer="202.00" x="5499.80" y="2405.92"/>
+    <poi id="de:09161:675:0:2" type="BusStop" color="red" layer="202.00" x="5483.04" y="2400.93"/>
+    <poi id="de:09161:676:0:1" type="BusStop" color="red" layer="202.00" x="4752.08" y="200.43"/>
+    <poi id="de:09161:676:0:2" type="BusStop" color="red" layer="202.00" x="4713.99" y="194.77"/>
+    <poi id="de:09161:680:0:10" type="BusStop" color="red" layer="202.00" x="10456.73" y="5635.43"/>
+    <poi id="de:09161:680:0:2" type="BusStop" color="red" layer="202.00" x="10470.75" y="5521.28"/>
+    <poi id="de:09161:680:0:20" type="BusStop" color="red" layer="202.00" x="10386.75" y="5638.71"/>
+    <poi id="de:09161:680:0:4" type="BusStop" color="red" layer="202.00" x="10451.24" y="5510.63"/>
+    <poi id="de:09161:688:0:3" type="BusStop" color="red" layer="202.00" x="6228.65" y="4352.82"/>
+    <poi id="de:09161:688:0:4" type="BusStop" color="red" layer="202.00" x="6245.09" y="4367.81"/>
+    <poi id="de:09161:691:0:20" type="BusStop" color="red" layer="202.00" x="5787.92" y="5627.16"/>
+    <poi id="de:09161:709:0:1" type="BusStop" color="red" layer="202.00" x="7861.24" y="2490.35"/>
+    <poi id="de:09161:709:0:2" type="BusStop" color="red" layer="202.00" x="7861.76" y="2497.04"/>
+    <poi id="de:09161:718:0:1" type="BusStop" color="red" layer="202.00" x="4930.23" y="5217.17"/>
+    <poi id="de:09161:718:0:2" type="BusStop" color="red" layer="202.00" x="4964.81" y="5147.06"/>
+    <poi id="de:09161:720:0:1" type="BusStop" color="red" layer="202.00" x="6504.65" y="6164.07"/>
+    <poi id="de:09161:720:0:2" type="BusStop" color="red" layer="202.00" x="6497.80" y="6148.28"/>
+    <poi id="de:09161:723:0:1" type="BusStop" color="red" layer="202.00" x="4458.06" y="5799.69"/>
+    <poi id="de:09161:723:0:2" type="BusStop" color="red" layer="202.00" x="4572.60" y="5712.08"/>
+    <poi id="de:09161:725:0:1" type="BusStop" color="red" layer="202.00" x="6869.96" y="-287.40"/>
+    <poi id="de:09161:725:0:2" type="BusStop" color="red" layer="202.00" x="6769.48" y="-345.13"/>
+    <poi id="de:09161:7329:0:1" type="BusStop" color="red" layer="202.00" x="7490.38" y="2719.86"/>
+    <poi id="de:09161:7329:0:2" type="BusStop" color="red" layer="202.00" x="7488.48" y="2733.15"/>
+    <poi id="de:09161:7329:0:20" type="BusStop" color="red" layer="202.00" x="7521.71" y="2706.40"/>
+    <poi id="de:09161:738:0:10" type="BusStop" color="red" layer="202.00" x="7103.31" y="930.59"/>
+    <poi id="de:09161:738:0:20" type="BusStop" color="red" layer="202.00" x="7102.95" y="941.70"/>
+    <poi id="de:09161:7416:0:1" type="BusStop" color="red" layer="202.00" x="8240.77" y="4592.10"/>
+    <poi id="de:09161:7417:0:1" type="BusStop" color="red" layer="202.00" x="4065.41" y="8780.16"/>
+    <poi id="de:09161:7418:0:1" type="BusStop" color="red" layer="202.00" x="6828.51" y="7323.78"/>
+    <poi id="de:09161:7419:0:1" type="BusStop" color="red" layer="202.00" x="7152.76" y="2395.26"/>
+    <poi id="de:09161:7420:0:1" type="BusStop" color="red" layer="202.00" x="6090.06" y="3901.13"/>
+    <poi id="de:09161:7422:0:1" type="BusStop" color="red" layer="202.00" x="7623.97" y="3416.20"/>
+    <poi id="de:09161:7422:0:2" type="BusStop" color="red" layer="202.00" x="7661.32" y="3398.49"/>
+    <poi id="de:09161:7423:0:1" type="BusStop" color="red" layer="202.00" x="9846.82" y="7064.20"/>
+    <poi id="de:09161:7427:0:1" type="BusStop" color="red" layer="202.00" x="8284.69" y="5942.03"/>
+    <poi id="de:09161:7428:0:1" type="BusStop" color="red" layer="202.00" x="6706.15" y="4716.33"/>
+    <poi id="de:09161:7428:0:2" type="BusStop" color="red" layer="202.00" x="6708.94" y="4675.25"/>
+    <poi id="de:09161:7429:0:1" type="BusStop" color="red" layer="202.00" x="5904.61" y="4134.43"/>
+    <poi id="de:09161:7439:0:1" type="BusStop" color="red" layer="202.00" x="7419.84" y="5372.31"/>
+    <poi id="de:09161:7439:0:10" type="BusStop" color="red" layer="202.00" x="7299.80" y="5331.73"/>
+    <poi id="de:09161:7439:0:2" type="BusStop" color="red" layer="202.00" x="7418.12" y="5380.04"/>
+    <poi id="de:09161:7439:0:20" type="BusStop" color="red" layer="202.00" x="7217.15" y="5409.19"/>
+    <poi id="de:09161:7484:0:1" type="BusStop" color="red" layer="202.00" x="7620.56" y="7155.63"/>
+    <poi id="de:09161:7484:0:2" type="BusStop" color="red" layer="202.00" x="7615.15" y="7140.99"/>
+    <poi id="de:09161:7485:0:1" type="BusStop" color="red" layer="202.00" x="7297.95" y="7997.52"/>
+    <poi id="de:09161:7485:0:2" type="BusStop" color="red" layer="202.00" x="7175.13" y="7953.52"/>
+    <poi id="de:09161:7510:0:1" type="BusStop" color="red" layer="202.00" x="-1766.82" y="5720.91"/>
+    <poi id="de:09161:7510:0:10" type="BusStop" color="red" layer="202.00" x="-1995.61" y="5700.58"/>
+    <poi id="de:09161:7510:0:2" type="BusStop" color="red" layer="202.00" x="-1698.13" y="5710.77"/>
+    <poi id="de:09161:7510:0:20" type="BusStop" color="red" layer="202.00" x="-2010.30" y="5700.13"/>
+    <poi id="de:09161:7515:0:1" type="BusStop" color="red" layer="202.00" x="-76.08" y="3322.93"/>
+    <poi id="de:09161:7515:0:2" type="BusStop" color="red" layer="202.00" x="-79.35" y="3309.48"/>
+    <poi id="de:09161:7516:0:1" type="BusStop" color="red" layer="202.00" x="-153.53" y="2875.53"/>
+    <poi id="de:09161:7517:0:1" type="BusStop" color="red" layer="202.00" x="-73.14" y="3131.66"/>
+    <poi id="de:09161:7517:0:2" type="BusStop" color="red" layer="202.00" x="-47.21" y="3125.79"/>
+    <poi id="de:09161:7518:0:1" type="BusStop" color="red" layer="202.00" x="86.55" y="3129.91"/>
+    <poi id="de:09161:7518:0:2" type="BusStop" color="red" layer="202.00" x="156.22" y="3113.14"/>
+    <poi id="de:09161:7519:0:1" type="BusStop" color="red" layer="202.00" x="221.66" y="3280.93"/>
+    <poi id="de:09161:7519:0:2" type="BusStop" color="red" layer="202.00" x="231.06" y="3357.98"/>
+    <poi id="de:09161:7519:0:20" type="BusStop" color="red" layer="202.00" x="254.35" y="3508.89"/>
+    <poi id="de:09161:7519:0:40" type="BusStop" color="red" layer="202.00" x="227.81" y="3320.06"/>
+    <poi id="de:09161:7520:0:1" type="BusStop" color="red" layer="202.00" x="26.29" y="3701.01"/>
+    <poi id="de:09161:7520:0:2" type="BusStop" color="red" layer="202.00" x="21.62" y="3685.29"/>
+    <poi id="de:09161:7521:0:1" type="BusStop" color="red" layer="202.00" x="5194.98" y="5425.84"/>
+    <poi id="de:09161:7521:0:2" type="BusStop" color="red" layer="202.00" x="5195.54" y="5408.06"/>
+    <poi id="de:09161:7525:0:1" type="BusStop" color="red" layer="202.00" x="3755.93" y="6683.17"/>
+    <poi id="de:09161:7525:0:2" type="BusStop" color="red" layer="202.00" x="3713.22" y="6778.62"/>
+    <poi id="de:09161:7526:0:1" type="BusStop" color="red" layer="202.00" x="3869.29" y="6515.41"/>
+    <poi id="de:09161:7526:0:2" type="BusStop" color="red" layer="202.00" x="3857.50" y="6516.15"/>
+    <poi id="de:09161:7527:0:1" type="BusStop" color="red" layer="202.00" x="4096.93" y="6361.26"/>
+    <poi id="de:09161:7527:0:2" type="BusStop" color="red" layer="202.00" x="4061.71" y="6382.40"/>
+    <poi id="de:09161:7528:0:1" type="BusStop" color="red" layer="202.00" x="4414.17" y="6699.50"/>
+    <poi id="de:09161:7528:0:2" type="BusStop" color="red" layer="202.00" x="4489.87" y="6793.13"/>
+    <poi id="de:09161:7531:0:1" type="BusStop" color="red" layer="202.00" x="6222.98" y="4345.96"/>
+    <poi id="de:09161:7531:0:2" type="BusStop" color="red" layer="202.00" x="6234.28" y="4360.79"/>
+    <poi id="de:09161:7533:0:1" type="BusStop" color="red" layer="202.00" x="6279.77" y="4732.74"/>
+    <poi id="de:09161:7533:0:2" type="BusStop" color="red" layer="202.00" x="6287.66" y="4692.94"/>
+    <poi id="de:09161:7533:0:4" type="BusStop" color="red" layer="202.00" x="6281.91" y="4711.67"/>
+    <poi id="de:09161:7534:0:1" type="BusStop" color="red" layer="202.00" x="6414.49" y="5488.06"/>
+    <poi id="de:09161:7534:0:2" type="BusStop" color="red" layer="202.00" x="6407.15" y="5487.82"/>
+    <poi id="de:09161:7535:0:1" type="BusStop" color="red" layer="202.00" x="6440.46" y="5894.99"/>
+    <poi id="de:09161:7535:0:2" type="BusStop" color="red" layer="202.00" x="6447.03" y="5896.31"/>
+    <poi id="de:09161:7536:0:1" type="BusStop" color="red" layer="202.00" x="6957.90" y="6773.84"/>
+    <poi id="de:09161:7536:0:2" type="BusStop" color="red" layer="202.00" x="7046.04" y="6822.29"/>
+    <poi id="de:09161:7537:0:1" type="BusStop" color="red" layer="202.00" x="7340.03" y="7008.64"/>
+    <poi id="de:09161:7537:0:2" type="BusStop" color="red" layer="202.00" x="7342.32" y="6983.12"/>
+    <poi id="de:09161:7538:0:1" type="BusStop" color="red" layer="202.00" x="7050.26" y="7240.77"/>
+    <poi id="de:09161:7538:0:2" type="BusStop" color="red" layer="202.00" x="6968.02" y="7260.38"/>
+    <poi id="de:09161:7539:0:1" type="BusStop" color="red" layer="202.00" x="7032.34" y="7867.71"/>
+    <poi id="de:09161:7539:0:20" type="BusStop" color="red" layer="202.00" x="7026.51" y="7957.65"/>
+    <poi id="de:09161:7540:0:1" type="BusStop" color="red" layer="202.00" x="6095.34" y="2605.11"/>
+    <poi id="de:09161:7540:0:2" type="BusStop" color="red" layer="202.00" x="6100.38" y="2608.61"/>
+    <poi id="de:09161:7541:0:2" type="BusStop" color="red" layer="202.00" x="5825.61" y="2202.66"/>
+    <poi id="de:09161:7544:0:1" type="BusStop" color="red" layer="202.00" x="4418.96" y="6896.58"/>
+    <poi id="de:09161:7544:0:2" type="BusStop" color="red" layer="202.00" x="4397.31" y="6907.02"/>
+    <poi id="de:09161:7544:0:3" type="BusStop" color="red" layer="202.00" x="4592.00" y="6795.25"/>
+    <poi id="de:09161:7544:0:4" type="BusStop" color="red" layer="202.00" x="4570.63" y="6796.79"/>
+    <poi id="de:09161:7545:0:1" type="BusStop" color="red" layer="202.00" x="4819.53" y="6575.48"/>
+    <poi id="de:09161:7545:0:10" type="BusStop" color="red" layer="202.00" x="4872.08" y="6494.82"/>
+    <poi id="de:09161:7545:0:2" type="BusStop" color="red" layer="202.00" x="4808.09" y="6588.47"/>
+    <poi id="de:09161:7545:0:20" type="BusStop" color="red" layer="202.00" x="4773.84" y="6625.21"/>
+    <poi id="de:09161:7545:0:3" type="BusStop" color="red" layer="202.00" x="4745.99" y="6506.40"/>
+    <poi id="de:09161:7546:0:1" type="BusStop" color="red" layer="202.00" x="5082.48" y="6074.25"/>
+    <poi id="de:09161:7546:0:2" type="BusStop" color="red" layer="202.00" x="5100.72" y="6009.19"/>
+    <poi id="de:09161:7548:0:1" type="BusStop" color="red" layer="202.00" x="-497.55" y="4854.17"/>
+    <poi id="de:09161:7548:0:2" type="BusStop" color="red" layer="202.00" x="-479.90" y="4830.24"/>
+    <poi id="de:09161:754:0:1" type="BusStop" color="red" layer="202.00" x="4638.78" y="-1152.72"/>
+    <poi id="de:09161:754:0:10" type="BusStop" color="red" layer="202.00" x="4743.19" y="-1171.67"/>
+    <poi id="de:09161:754:0:2" type="BusStop" color="red" layer="202.00" x="4568.27" y="-1134.92"/>
+    <poi id="de:09161:754:0:20" type="BusStop" color="red" layer="202.00" x="4743.19" y="-1171.67"/>
+    <poi id="de:09161:755:0:99" type="BusStop" color="red" layer="202.00" x="3706.24" y="3683.20"/>
+    <poi id="de:09161:7564:0:1" type="BusStop" color="red" layer="202.00" x="7025.98" y="-240.13"/>
+    <poi id="de:09161:7564:0:2" type="BusStop" color="red" layer="202.00" x="7027.29" y="-257.89"/>
+    <poi id="de:09161:7565:0:1" type="BusStop" color="red" layer="202.00" x="7108.66" y="235.38"/>
+    <poi id="de:09161:7566:0:1" type="BusStop" color="red" layer="202.00" x="6891.76" y="1354.39"/>
+    <poi id="de:09161:7566:0:2" type="BusStop" color="red" layer="202.00" x="6920.01" y="1299.67"/>
+    <poi id="de:09161:7567:0:1" type="BusStop" color="red" layer="202.00" x="6725.59" y="1740.72"/>
+    <poi id="de:09161:7567:0:2" type="BusStop" color="red" layer="202.00" x="6735.57" y="1727.68"/>
+    <poi id="de:09161:7568:0:1" type="BusStop" color="red" layer="202.00" x="4595.57" y="6403.73"/>
+    <poi id="de:09161:7568:0:2" type="BusStop" color="red" layer="202.00" x="4578.96" y="6394.30"/>
+    <poi id="de:09161:7569:0:1" type="BusStop" color="red" layer="202.00" x="4424.20" y="6289.27"/>
+    <poi id="de:09161:7569:0:2" type="BusStop" color="red" layer="202.00" x="4397.23" y="6281.74"/>
+    <poi id="de:09161:7570:0:1" type="BusStop" color="red" layer="202.00" x="4536.28" y="6023.57"/>
+    <poi id="de:09161:7570:0:2" type="BusStop" color="red" layer="202.00" x="4573.53" y="6054.79"/>
+    <poi id="de:09161:7571:0:1" type="BusStop" color="red" layer="202.00" x="4854.07" y="6042.53"/>
+    <poi id="de:09161:7571:0:2" type="BusStop" color="red" layer="202.00" x="4875.58" y="6036.54"/>
+    <poi id="de:09161:7572:0:1" type="BusStop" color="red" layer="202.00" x="6860.88" y="5327.66"/>
+    <poi id="de:09161:7572:0:2" type="BusStop" color="red" layer="202.00" x="6898.82" y="5360.03"/>
+    <poi id="de:09161:7596:0:1" type="BusStop" color="red" layer="202.00" x="2958.53" y="4961.43"/>
+    <poi id="de:09161:7596:0:2" type="BusStop" color="red" layer="202.00" x="2959.72" y="4970.37"/>
+    <poi id="de:09161:75:0:1" type="BusStop" color="red" layer="202.00" x="5530.94" y="2815.23"/>
+    <poi id="de:09161:75:0:2" type="BusStop" color="red" layer="202.00" x="5525.38" y="2805.04"/>
+    <poi id="de:09161:7613:0:1" type="BusStop" color="red" layer="202.00" x="3031.81" y="5438.80"/>
+    <poi id="de:09161:7621:0:1" type="BusStop" color="red" layer="202.00" x="3834.43" y="5428.42"/>
+    <poi id="de:09161:7621:0:2" type="BusStop" color="red" layer="202.00" x="4102.33" y="5421.30"/>
+    <poi id="de:09161:7622:0:1" type="BusStop" color="red" layer="202.00" x="4340.00" y="5510.02"/>
+    <poi id="de:09161:7623:0:1" type="BusStop" color="red" layer="202.00" x="4792.82" y="5677.88"/>
+    <poi id="de:09161:7624:0:1" type="BusStop" color="red" layer="202.00" x="7807.64" y="5388.12"/>
+    <poi id="de:09161:7624:0:2" type="BusStop" color="red" layer="202.00" x="7764.70" y="5351.14"/>
+    <poi id="de:09161:7624:0:4" type="BusStop" color="red" layer="202.00" x="7915.10" y="5408.28"/>
+    <poi id="de:09161:7626:0:2" type="BusStop" color="red" layer="202.00" x="4433.86" y="5518.55"/>
+    <poi id="de:09161:7627:0:1" type="BusStop" color="red" layer="202.00" x="9435.39" y="2120.67"/>
+    <poi id="de:09161:7627:0:2" type="BusStop" color="red" layer="202.00" x="9413.73" y="2039.86"/>
+    <poi id="de:09161:7630:0:1" type="BusStop" color="red" layer="202.00" x="6865.51" y="6146.70"/>
+    <poi id="de:09161:7630:0:2" type="BusStop" color="red" layer="202.00" x="6885.36" y="6123.97"/>
+    <poi id="de:09161:7635:0:1" type="BusStop" color="red" layer="202.00" x="4460.75" y="7551.00"/>
+    <poi id="de:09161:7635:0:2" type="BusStop" color="red" layer="202.00" x="4451.83" y="7577.42"/>
+    <poi id="de:09161:7668:0:1" type="BusStop" color="red" layer="202.00" x="4540.62" y="7721.53"/>
+    <poi id="de:09161:7668:0:2" type="BusStop" color="red" layer="202.00" x="4544.58" y="7712.75"/>
+    <poi id="de:09161:7678:0:1" type="BusStop" color="red" layer="202.00" x="4527.60" y="7250.48"/>
+    <poi id="de:09161:7678:0:2" type="BusStop" color="red" layer="202.00" x="4525.33" y="7229.27"/>
+    <poi id="de:09161:7688:0:1" type="BusStop" color="red" layer="202.00" x="4463.05" y="4897.53"/>
+    <poi id="de:09161:7688:0:2" type="BusStop" color="red" layer="202.00" x="4471.10" y="4898.90"/>
+    <poi id="de:09161:769:0:1" type="BusStop" color="red" layer="202.00" x="3127.47" y="5272.69"/>
+    <poi id="de:09161:769:0:2" type="BusStop" color="red" layer="202.00" x="3187.85" y="5270.13"/>
+    <poi id="de:09161:769:0:20" type="BusStop" color="red" layer="202.00" x="3198.09" y="5131.38"/>
+    <poi id="de:09161:773:0:99" type="BusStop" color="red" layer="202.00" x="3358.20" y="-2483.59"/>
+    <poi id="de:09161:777:0:1" type="BusStop" color="red" layer="202.00" x="4298.91" y="1545.69"/>
+    <poi id="de:09161:777:0:2" type="BusStop" color="red" layer="202.00" x="4313.34" y="1555.05"/>
+    <poi id="de:09161:7837:0:1" type="BusStop" color="red" layer="202.00" x="4090.22" y="8343.69"/>
+    <poi id="de:09161:7837:0:2" type="BusStop" color="red" layer="202.00" x="4091.82" y="8362.65"/>
+    <poi id="de:09161:7854:0:1" type="BusStop" color="red" layer="202.00" x="3786.74" y="9366.60"/>
+    <poi id="de:09161:7854:0:2" type="BusStop" color="red" layer="202.00" x="3755.18" y="9365.60"/>
+    <poi id="de:09161:785:0:1" type="BusStop" color="red" layer="202.00" x="5121.24" y="2301.56"/>
+    <poi id="de:09161:785:0:2" type="BusStop" color="red" layer="202.00" x="5121.48" y="2293.77"/>
+    <poi id="de:09161:790:0:98" type="BusStop" color="red" layer="202.00" x="4865.24" y="-1073.24"/>
+    <poi id="de:09161:790:0:99" type="BusStop" color="red" layer="202.00" x="4870.28" y="-1069.74"/>
+    <poi id="de:09161:791:0:1" type="BusStop" color="red" layer="202.00" x="4212.42" y="-589.85"/>
+    <poi id="de:09161:791:0:2" type="BusStop" color="red" layer="202.00" x="4192.49" y="-564.89"/>
+    <poi id="de:09161:795:0:99" type="BusStop" color="red" layer="202.00" x="3021.47" y="5580.88"/>
+    <poi id="de:09161:796:0:99" type="BusStop" color="red" layer="202.00" x="3004.01" y="5551.41"/>
+    <poi id="de:09161:7980:0:1" type="BusStop" color="red" layer="202.00" x="5619.71" y="4002.97"/>
+    <poi id="de:09161:7980:0:2" type="BusStop" color="red" layer="202.00" x="5627.06" y="4003.20"/>
+    <poi id="de:09161:7980:0:3" type="BusStop" color="red" layer="202.00" x="5632.87" y="4005.61"/>
+    <poi id="de:09161:7981:0:1" type="BusStop" color="red" layer="202.00" x="4126.55" y="8798.78"/>
+    <poi id="de:09161:7981:0:2" type="BusStop" color="red" layer="202.00" x="4152.71" y="8785.14"/>
+    <poi id="de:09161:7981:0:3" type="BusStop" color="red" layer="202.00" x="4119.11" y="8801.88"/>
+    <poi id="de:09161:7983:0:1" type="BusStop" color="red" layer="202.00" x="6449.51" y="2619.75"/>
+    <poi id="de:09161:7983:0:2" type="BusStop" color="red" layer="202.00" x="6567.67" y="2560.11"/>
+    <poi id="de:09161:7984:0:1" type="BusStop" color="red" layer="202.00" x="6390.59" y="3036.21"/>
+    <poi id="de:09161:7984:0:2" type="BusStop" color="red" layer="202.00" x="6394.45" y="3030.77"/>
+    <poi id="de:09161:7984:0:3" type="BusStop" color="red" layer="202.00" x="6384.67" y="3060.50"/>
+    <poi id="de:09161:7984:0:4" type="BusStop" color="red" layer="202.00" x="6406.92" y="3008.92"/>
+    <poi id="de:09161:7984:0:5" type="BusStop" color="red" layer="202.00" x="6446.28" y="3043.55"/>
+    <poi id="de:09161:7985:0:1" type="BusStop" color="red" layer="202.00" x="6282.41" y="3359.86"/>
+    <poi id="de:09161:7985:0:2" type="BusStop" color="red" layer="202.00" x="6289.66" y="3363.43"/>
+    <poi id="de:09161:7986:0:1" type="BusStop" color="red" layer="202.00" x="7058.44" y="5496.44"/>
+    <poi id="de:09161:7986:0:2" type="BusStop" color="red" layer="202.00" x="7044.16" y="5506.00"/>
+    <poi id="de:09161:7987:0:1" type="BusStop" color="red" layer="202.00" x="6808.34" y="3454.56"/>
+    <poi id="de:09161:7987:0:2" type="BusStop" color="red" layer="202.00" x="6747.79" y="3461.52"/>
+    <poi id="de:09161:7988:0:1" type="BusStop" color="red" layer="202.00" x="6945.87" y="3272.05"/>
+    <poi id="de:09161:7988:0:2" type="BusStop" color="red" layer="202.00" x="6957.26" y="3237.92"/>
+    <poi id="de:09161:7989:0:1" type="BusStop" color="red" layer="202.00" x="7062.57" y="2867.46"/>
+    <poi id="de:09161:7989:0:10" type="BusStop" color="red" layer="202.00" x="7028.98" y="2974.30"/>
+    <poi id="de:09161:7989:0:2" type="BusStop" color="red" layer="202.00" x="7024.31" y="3005.31"/>
+    <poi id="de:09161:7990:0:1" type="BusStop" color="red" layer="202.00" x="7199.32" y="2503.57"/>
+    <poi id="de:09161:7990:0:10" type="BusStop" color="red" layer="202.00" x="7226.55" y="2388.73"/>
+    <poi id="de:09161:7990:0:2" type="BusStop" color="red" layer="202.00" x="7232.04" y="2401.14"/>
+    <poi id="de:09161:7991:0:1" type="BusStop" color="red" layer="202.00" x="7315.23" y="2193.53"/>
+    <poi id="de:09161:7991:0:2" type="BusStop" color="red" layer="202.00" x="7336.71" y="2166.40"/>
+    <poi id="de:09161:7992:0:1" type="BusStop" color="red" layer="202.00" x="7743.54" y="1894.64"/>
+    <poi id="de:09161:7992:0:2" type="BusStop" color="red" layer="202.00" x="7692.14" y="1914.13"/>
+    <poi id="de:09161:7993:0:1" type="BusStop" color="red" layer="202.00" x="7995.15" y="1782.58"/>
+    <poi id="de:09161:7993:0:2" type="BusStop" color="red" layer="202.00" x="7896.18" y="1839.47"/>
+    <poi id="de:09161:7994:0:1" type="BusStop" color="red" layer="202.00" x="9691.93" y="1178.81"/>
+    <poi id="de:09161:7994:0:2" type="BusStop" color="red" layer="202.00" x="9591.89" y="1154.42"/>
+    <poi id="de:09161:7995:0:1" type="BusStop" color="red" layer="202.00" x="9948.30" y="1261.70"/>
+    <poi id="de:09161:7996:0:1" type="BusStop" color="red" layer="202.00" x="5173.97" y="4558.46"/>
+    <poi id="de:09161:7996:0:2" type="BusStop" color="red" layer="202.00" x="5184.28" y="4604.40"/>
+    <poi id="de:09161:7996:0:3" type="BusStop" color="red" layer="202.00" x="5178.44" y="4579.74"/>
+    <poi id="de:09161:7996:0:4" type="BusStop" color="red" layer="202.00" x="5185.62" y="4585.53"/>
+    <poi id="de:09161:7997:0:1" type="BusStop" color="red" layer="202.00" x="6206.39" y="3943.78"/>
+    <poi id="de:09161:7997:0:2" type="BusStop" color="red" layer="202.00" x="6196.97" y="3962.39"/>
+    <poi id="de:09161:7998:0:1" type="BusStop" color="red" layer="202.00" x="8375.72" y="1368.72"/>
+    <poi id="de:09161:7998:0:2" type="BusStop" color="red" layer="202.00" x="8366.38" y="1361.74"/>
+    <poi id="de:09161:7999:0:1" type="BusStop" color="red" layer="202.00" x="5304.63" y="4914.19"/>
+    <poi id="de:09161:7999:0:2" type="BusStop" color="red" layer="202.00" x="5307.11" y="4905.37"/>
+    <poi id="de:09161:79:0:1" type="BusStop" color="red" layer="202.00" x="6051.30" y="2970.87"/>
+    <poi id="de:09161:8000:0:1" type="BusStop" color="red" layer="202.00" x="5859.78" y="4248.71"/>
+    <poi id="de:09161:8000:0:2" type="BusStop" color="red" layer="202.00" x="5894.94" y="4253.17"/>
+    <poi id="de:09161:8000:0:20" type="BusStop" color="red" layer="202.00" x="5917.75" y="4276.15"/>
+    <poi id="de:09161:8000:0:3" type="BusStop" color="red" layer="202.00" x="5885.14" y="4260.64"/>
+    <poi id="de:09161:8000:0:4" type="BusStop" color="red" layer="202.00" x="5891.72" y="4261.97"/>
+    <poi id="de:09161:8000:0:5" type="BusStop" color="red" layer="202.00" x="5827.10" y="4235.43"/>
+    <poi id="de:09161:8000:0:6" type="BusStop" color="red" layer="202.00" x="5822.12" y="4253.07"/>
+    <poi id="de:09161:8001:0:1" type="BusStop" color="red" layer="202.00" x="5671.39" y="4621.00"/>
+    <poi id="de:09161:8001:0:2" type="BusStop" color="red" layer="202.00" x="5665.03" y="4613.01"/>
+    <poi id="de:09161:8003:0:1" type="BusStop" color="red" layer="202.00" x="6423.91" y="5055.55"/>
+    <poi id="de:09161:8003:0:2" type="BusStop" color="red" layer="202.00" x="6356.37" y="5005.55"/>
+    <poi id="de:09161:8004:0:1" type="BusStop" color="red" layer="202.00" x="6684.21" y="5516.71"/>
+    <poi id="de:09161:8004:0:2" type="BusStop" color="red" layer="202.00" x="6663.42" y="5591.70"/>
+    <poi id="de:09161:8005:0:1" type="BusStop" color="red" layer="202.00" x="6743.94" y="5993.71"/>
+    <poi id="de:09161:8005:0:2" type="BusStop" color="red" layer="202.00" x="6763.38" y="6075.56"/>
+    <poi id="de:09161:8006:0:2" type="BusStop" color="red" layer="202.00" x="6577.99" y="5250.73"/>
+    <poi id="de:09161:8007:2" type="BusStop" color="red" layer="202.00" x="6305.55" y="5422.27"/>
+    <poi id="de:09161:8007:2:1" type="BusStop" color="red" layer="202.00" x="6298.51" y="5435.39"/>
+    <poi id="de:09161:8007:2:2" type="BusStop" color="red" layer="202.00" x="6307.02" y="5422.32"/>
+    <poi id="de:09161:8007:2:3" type="BusStop" color="red" layer="202.00" x="6279.97" y="5440.37"/>
+    <poi id="de:09161:8007:2:4" type="BusStop" color="red" layer="202.00" x="6294.95" y="5431.94"/>
+    <poi id="de:09161:8007:2:5" type="BusStop" color="red" layer="202.00" x="6301.95" y="5419.93"/>
+    <poi id="de:09161:8008:0:1" type="BusStop" color="red" layer="202.00" x="6122.12" y="5109.33"/>
+    <poi id="de:09161:8008:0:2" type="BusStop" color="red" layer="202.00" x="6112.12" y="5100.11"/>
+    <poi id="de:09161:8009:0:1" type="BusStop" color="red" layer="202.00" x="6694.69" y="6245.81"/>
+    <poi id="de:09161:8009:0:2" type="BusStop" color="red" layer="202.00" x="6636.86" y="6260.65"/>
+    <poi id="de:09161:8010:0:1" type="BusStop" color="red" layer="202.00" x="6763.03" y="6797.64"/>
+    <poi id="de:09161:8010:0:10" type="BusStop" color="red" layer="202.00" x="6737.77" y="6874.71"/>
+    <poi id="de:09161:8010:0:2" type="BusStop" color="red" layer="202.00" x="6753.24" y="6805.11"/>
+    <poi id="de:09161:8010:0:20" type="BusStop" color="red" layer="202.00" x="6717.96" y="6850.71"/>
+    <poi id="de:09161:8011:0:1" type="BusStop" color="red" layer="202.00" x="6506.43" y="6912.92"/>
+    <poi id="de:09161:8011:0:2" type="BusStop" color="red" layer="202.00" x="6493.53" y="7086.07"/>
+    <poi id="de:09161:8013:0:1" type="BusStop" color="red" layer="202.00" x="6681.50" y="7369.13"/>
+    <poi id="de:09161:8013:0:2" type="BusStop" color="red" layer="202.00" x="6704.73" y="7355.41"/>
+    <poi id="de:09161:8014:0:1" type="BusStop" color="red" layer="202.00" x="6763.65" y="7604.31"/>
+    <poi id="de:09161:8014:0:2" type="BusStop" color="red" layer="202.00" x="6889.59" y="7757.43"/>
+    <poi id="de:09161:8025:0:1" type="BusStop" color="red" layer="202.00" x="6950.94" y="7792.78"/>
+    <poi id="de:09161:8026:0:1" type="BusStop" color="red" layer="202.00" x="5386.61" y="4185.81"/>
+    <poi id="de:09161:8026:0:2" type="BusStop" color="red" layer="202.00" x="5411.38" y="4169.91"/>
+    <poi id="de:09161:8027:0:1" type="BusStop" color="red" layer="202.00" x="4770.99" y="4625.79"/>
+    <poi id="de:09161:8027:0:2" type="BusStop" color="red" layer="202.00" x="4796.29" y="4593.21"/>
+    <poi id="de:09161:8028:0:1" type="BusStop" color="red" layer="202.00" x="4503.33" y="4600.63"/>
+    <poi id="de:09161:8028:0:2" type="BusStop" color="red" layer="202.00" x="4625.72" y="4614.52"/>
+    <poi id="de:09161:8029:0:1" type="BusStop" color="red" layer="202.00" x="4117.69" y="4538.39"/>
+    <poi id="de:09161:8029:0:2" type="BusStop" color="red" layer="202.00" x="4147.15" y="4537.09"/>
+    <poi id="de:09161:8030:0:1" type="BusStop" color="red" layer="202.00" x="3650.79" y="4393.50"/>
+    <poi id="de:09161:8030:0:2" type="BusStop" color="red" layer="202.00" x="3625.46" y="4380.47"/>
+    <poi id="de:09161:8031:0:1" type="BusStop" color="red" layer="202.00" x="3037.72" y="4288.58"/>
+    <poi id="de:09161:8031:0:2" type="BusStop" color="red" layer="202.00" x="3148.11" y="4263.12"/>
+    <poi id="de:09161:8032:0:1" type="BusStop" color="red" layer="202.00" x="2605.67" y="4321.78"/>
+    <poi id="de:09161:8032:0:2" type="BusStop" color="red" layer="202.00" x="2593.28" y="4318.05"/>
+    <poi id="de:09161:8033:0:1" type="BusStop" color="red" layer="202.00" x="2526.21" y="5004.64"/>
+    <poi id="de:09161:8033:0:2" type="BusStop" color="red" layer="202.00" x="2504.87" y="5005.08"/>
+    <poi id="de:09161:8033:0:3" type="BusStop" color="red" layer="202.00" x="2500.74" y="4972.69"/>
+    <poi id="de:09161:8034:0:1" type="BusStop" color="red" layer="202.00" x="7626.88" y="6068.79"/>
+    <poi id="de:09161:8034:0:2" type="BusStop" color="red" layer="202.00" x="7666.58" y="6023.34"/>
+    <poi id="de:09161:8035:0:1" type="BusStop" color="red" layer="202.00" x="2199.60" y="5714.26"/>
+    <poi id="de:09161:8035:0:2" type="BusStop" color="red" layer="202.00" x="2191.21" y="5724.02"/>
+    <poi id="de:09161:8035:0:3" type="BusStop" color="red" layer="202.00" x="2103.27" y="5737.96"/>
+    <poi id="de:09161:8035:0:99" type="BusStop" color="red" layer="202.00" x="2103.27" y="5737.96"/>
+    <poi id="de:09161:8036:0:1" type="BusStop" color="red" layer="202.00" x="1658.52" y="6135.75"/>
+    <poi id="de:09161:8036:0:2" type="BusStop" color="red" layer="202.00" x="1645.37" y="6133.12"/>
+    <poi id="de:09161:8040:0:1" type="BusStop" color="red" layer="202.00" x="5269.74" y="7169.44"/>
+    <poi id="de:09161:8046:0:1" type="BusStop" color="red" layer="202.00" x="5719.16" y="5661.69"/>
+    <poi id="de:09161:8046:0:2" type="BusStop" color="red" layer="202.00" x="5827.81" y="5690.74"/>
+    <poi id="de:09161:8046:0:3" type="BusStop" color="red" layer="202.00" x="5748.10" y="5838.40"/>
+    <poi id="de:09161:8046:0:4" type="BusStop" color="red" layer="202.00" x="5749.04" y="5831.76"/>
+    <poi id="de:09161:8047:0:1" type="BusStop" color="red" layer="202.00" x="5398.33" y="5668.17"/>
+    <poi id="de:09161:8049:0:2" type="BusStop" color="red" layer="202.00" x="5457.47" y="5635.56"/>
+    <poi id="de:09161:8050:0:1" type="BusStop" color="red" layer="202.00" x="5159.51" y="5801.88"/>
+    <poi id="de:09161:8050:0:2" type="BusStop" color="red" layer="202.00" x="5162.15" y="5741.89"/>
+    <poi id="de:09161:8050:0:3" type="BusStop" color="red" layer="202.00" x="5138.45" y="5654.35"/>
+    <poi id="de:09161:8050:0:4" type="BusStop" color="red" layer="202.00" x="5228.47" y="5621.61"/>
+    <poi id="de:09161:8052:0:1" type="BusStop" color="red" layer="202.00" x="4978.29" y="6299.03"/>
+    <poi id="de:09161:8052:0:2" type="BusStop" color="red" layer="202.00" x="4961.63" y="6314.08"/>
+    <poi id="de:09161:8053:0:1" type="BusStop" color="red" layer="202.00" x="5332.16" y="6200.12"/>
+    <poi id="de:09161:8054:0:1" type="BusStop" color="red" layer="202.00" x="4042.28" y="7696.87"/>
+    <poi id="de:09161:8054:0:10" type="BusStop" color="red" layer="202.00" x="4081.34" y="8043.01"/>
+    <poi id="de:09161:8054:0:2" type="BusStop" color="red" layer="202.00" x="4053.49" y="7854.10"/>
+    <poi id="de:09161:8055:0:1" type="BusStop" color="red" layer="202.00" x="3690.91" y="9003.10"/>
+    <poi id="de:09161:8055:0:10" type="BusStop" color="red" layer="202.00" x="3645.21" y="9077.31"/>
+    <poi id="de:09161:8055:0:2" type="BusStop" color="red" layer="202.00" x="3741.43" y="8962.41"/>
+    <poi id="de:09161:8056:0:1" type="BusStop" color="red" layer="202.00" x="4270.57" y="9171.60"/>
+    <poi id="de:09161:8056:0:2" type="BusStop" color="red" layer="202.00" x="4248.24" y="9110.81"/>
+    <poi id="de:09161:8061:0:1" type="BusStop" color="red" layer="202.00" x="7193.36" y="5737.76"/>
+    <poi id="de:09161:8061:0:2" type="BusStop" color="red" layer="202.00" x="7183.70" y="5740.79"/>
+    <poi id="de:09161:8062:0:1" type="BusStop" color="red" layer="202.00" x="7989.42" y="5977.00"/>
+    <poi id="de:09161:8062:0:2" type="BusStop" color="red" layer="202.00" x="7967.69" y="6035.27"/>
+    <poi id="de:09161:808:0:1" type="BusStop" color="red" layer="202.00" x="5679.96" y="2085.65"/>
+    <poi id="de:09161:808:0:10" type="BusStop" color="red" layer="202.00" x="5888.65" y="2117.88"/>
+    <poi id="de:09161:808:0:2" type="BusStop" color="red" layer="202.00" x="5695.29" y="2089.48"/>
+    <poi id="de:09161:8092:0:1" type="BusStop" color="red" layer="202.00" x="5197.23" y="-1652.40"/>
+    <poi id="de:09161:8092:0:2" type="BusStop" color="red" layer="202.00" x="5190.53" y="-1627.02"/>
+    <poi id="de:09161:8092:0:99" type="BusStop" color="red" layer="202.00" x="5115.59" y="-1771.81"/>
+    <poi id="de:09161:8095:0:1" type="BusStop" color="red" layer="202.00" x="4048.00" y="4858.84"/>
+    <poi id="de:09161:8095:0:2" type="BusStop" color="red" layer="202.00" x="3987.90" y="4852.49"/>
+    <poi id="de:09161:80:0:1" type="BusStop" color="red" layer="202.00" x="1645.62" y="5865.00"/>
+    <poi id="de:09161:8143:0:1" type="BusStop" color="red" layer="202.00" x="5458.84" y="1378.80"/>
+    <poi id="de:09161:8143:0:2" type="BusStop" color="red" layer="202.00" x="5501.62" y="1399.07"/>
+    <poi id="de:09161:844:0:1" type="BusStop" color="red" layer="202.00" x="4840.52" y="4404.36"/>
+    <poi id="de:09161:8484:0:1" type="BusStop" color="red" layer="202.00" x="-5229.73" y="4239.08"/>
+    <poi id="de:09161:8484:0:2" type="BusStop" color="red" layer="202.00" x="-5228.67" y="4227.98"/>
+    <poi id="de:09161:8485:0:1" type="BusStop" color="red" layer="202.00" x="-1438.93" y="5674.18"/>
+    <poi id="de:09161:8485:0:2" type="BusStop" color="red" layer="202.00" x="-1469.25" y="5679.93"/>
+    <poi id="de:09161:8491:0:1" type="BusStop" color="red" layer="202.00" x="4486.18" y="-1333.32"/>
+    <poi id="de:09161:8491:0:2" type="BusStop" color="red" layer="202.00" x="4544.12" y="-1349.29"/>
+    <poi id="de:09161:849:0:98" type="BusStop" color="red" layer="202.00" x="4516.78" y="6732.79"/>
+    <poi id="de:09161:849:0:99" type="BusStop" color="red" layer="202.00" x="4475.72" y="6729.26"/>
+    <poi id="de:09161:8505:0:1" type="BusStop" color="red" layer="202.00" x="7208.55" y="310.90"/>
+    <poi id="de:09161:8512:0:1" type="BusStop" color="red" layer="202.00" x="4307.24" y="9592.21"/>
+    <poi id="de:09161:8512:0:2" type="BusStop" color="red" layer="202.00" x="4300.08" y="9563.05"/>
+    <poi id="de:09161:8580:0:1" type="BusStop" color="red" layer="202.00" x="9297.85" y="1460.86"/>
+    <poi id="de:09161:8580:0:10" type="BusStop" color="red" layer="202.00" x="9324.31" y="1620.83"/>
+    <poi id="de:09161:8580:0:2" type="BusStop" color="red" layer="202.00" x="9298.03" y="1455.30"/>
+    <poi id="de:09161:8580:0:3" type="BusStop" color="red" layer="202.00" x="9351.62" y="1572.76"/>
+    <poi id="de:09161:85:0:1" type="BusStop" color="red" layer="202.00" x="5259.28" y="-1356.71"/>
+    <poi id="de:09161:85:0:2" type="BusStop" color="red" layer="202.00" x="5272.34" y="-1350.74"/>
+    <poi id="de:09161:8611:0:1" type="BusStop" color="red" layer="202.00" x="-4843.32" y="4793.53"/>
+    <poi id="de:09161:8611:0:10" type="BusStop" color="red" layer="202.00" x="-4875.40" y="4882.68"/>
+    <poi id="de:09161:8611:0:2" type="BusStop" color="red" layer="202.00" x="-4846.02" y="4785.66"/>
+    <poi id="de:09161:8611:0:20" type="BusStop" color="red" layer="202.00" x="-4876.87" y="4882.64"/>
+    <poi id="de:09161:8612:0:1" type="BusStop" color="red" layer="202.00" x="-5235.28" y="4424.70"/>
+    <poi id="de:09161:8612:0:2" type="BusStop" color="red" layer="202.00" x="-5218.43" y="4500.85"/>
+    <poi id="de:09161:8613:0:1" type="BusStop" color="red" layer="202.00" x="-4511.68" y="5504.34"/>
+    <poi id="de:09161:8613:0:2" type="BusStop" color="red" layer="202.00" x="-4466.06" y="5479.01"/>
+    <poi id="de:09161:8613:0:99" type="BusStop" color="red" layer="202.00" x="-4500.46" y="5546.95"/>
+    <poi id="de:09161:8614:0:1" type="BusStop" color="red" layer="202.00" x="-4167.41" y="5548.06"/>
+    <poi id="de:09161:8614:0:2" type="BusStop" color="red" layer="202.00" x="-4096.15" y="5550.20"/>
+    <poi id="de:09161:8614:0:99" type="BusStop" color="red" layer="202.00" x="-4126.41" y="5700.59"/>
+    <poi id="de:09161:8615:0:1" type="BusStop" color="red" layer="202.00" x="-3064.48" y="5669.23"/>
+    <poi id="de:09161:8615:0:2" type="BusStop" color="red" layer="202.00" x="-3116.77" y="5647.62"/>
+    <poi id="de:09161:8616:0:1" type="BusStop" color="red" layer="202.00" x="-2812.22" y="5691.34"/>
+    <poi id="de:09161:8616:0:2" type="BusStop" color="red" layer="202.00" x="-2885.68" y="5689.11"/>
+    <poi id="de:09161:8617:0:1" type="BusStop" color="red" layer="202.00" x="-1191.40" y="5562.71"/>
+    <poi id="de:09161:8617:0:2" type="BusStop" color="red" layer="202.00" x="-1226.42" y="5601.69"/>
+    <poi id="de:09161:8618:0:1" type="BusStop" color="red" layer="202.00" x="208.85" y="3600.94"/>
+    <poi id="de:09161:8618:0:2" type="BusStop" color="red" layer="202.00" x="221.58" y="3593.55"/>
+    <poi id="de:09161:8619:0:1" type="BusStop" color="red" layer="202.00" x="593.04" y="3522.69"/>
+    <poi id="de:09161:8619:0:10" type="BusStop" color="red" layer="202.00" x="595.54" y="3489.39"/>
+    <poi id="de:09161:8619:0:2" type="BusStop" color="red" layer="202.00" x="664.03" y="3510.42"/>
+    <poi id="de:09161:8620:0:1" type="BusStop" color="red" layer="202.00" x="1416.08" y="3786.28"/>
+    <poi id="de:09161:8620:0:2" type="BusStop" color="red" layer="202.00" x="1436.41" y="3794.70"/>
+    <poi id="de:09161:8621:0:1" type="BusStop" color="red" layer="202.00" x="2129.80" y="4038.79"/>
+    <poi id="de:09161:8621:0:2" type="BusStop" color="red" layer="202.00" x="2136.02" y="4027.86"/>
+    <poi id="de:09161:8665:0:1" type="BusStop" color="red" layer="202.00" x="6818.70" y="6276.49"/>
+    <poi id="de:09161:8666:0:1" type="BusStop" color="red" layer="202.00" x="9572.62" y="3535.96"/>
+    <poi id="de:09161:8666:0:10" type="BusStop" color="red" layer="202.00" x="9482.65" y="3316.07"/>
+    <poi id="de:09161:8666:0:2" type="BusStop" color="red" layer="202.00" x="9514.20" y="3545.19"/>
+    <poi id="de:09161:8666:0:20" type="BusStop" color="red" layer="202.00" x="9471.94" y="3419.20"/>
+    <poi id="de:09161:8667:0:1" type="BusStop" color="red" layer="202.00" x="4345.62" y="5308.82"/>
+    <poi id="de:09161:8667:0:2" type="BusStop" color="red" layer="202.00" x="4309.03" y="5303.21"/>
+    <poi id="de:09161:8770:0:95" type="BusStop" color="red" layer="202.00" x="4317.09" y="7537.55"/>
+    <poi id="de:09161:8770:0:96" type="BusStop" color="red" layer="202.00" x="4315.45" y="7519.70"/>
+    <poi id="de:09161:8770:0:97" type="BusStop" color="red" layer="202.00" x="4304.92" y="7527.15"/>
+    <poi id="de:09161:8770:0:98" type="BusStop" color="red" layer="202.00" x="4301.67" y="7537.06"/>
+    <poi id="de:09161:8770:0:99" type="BusStop" color="red" layer="202.00" x="4299.22" y="7544.77"/>
+    <poi id="de:09161:8777:0:2" type="BusStop" color="red" layer="202.00" x="1981.76" y="5555.05"/>
+    <poi id="de:09161:8778:0:1" type="BusStop" color="red" layer="202.00" x="2295.12" y="5528.11"/>
+    <poi id="de:09161:8778:0:2" type="BusStop" color="red" layer="202.00" x="2248.15" y="5548.90"/>
+    <poi id="de:09161:8779:0:1" type="BusStop" color="red" layer="202.00" x="2489.62" y="5328.36"/>
+    <poi id="de:09161:8779:0:2" type="BusStop" color="red" layer="202.00" x="2467.09" y="5343.24"/>
+    <poi id="de:09161:8780:0:1" type="BusStop" color="red" layer="202.00" x="2900.30" y="4871.71"/>
+    <poi id="de:09161:8780:0:2" type="BusStop" color="red" layer="202.00" x="2902.08" y="4885.12"/>
+    <poi id="de:09161:8781:0:1" type="BusStop" color="red" layer="202.00" x="3314.11" y="4785.67"/>
+    <poi id="de:09161:8781:0:2" type="BusStop" color="red" layer="202.00" x="3323.14" y="4779.28"/>
+    <poi id="de:09161:8782:0:1" type="BusStop" color="red" layer="202.00" x="2464.12" y="4567.68"/>
+    <poi id="de:09161:8782:0:2" type="BusStop" color="red" layer="202.00" x="2470.43" y="4624.62"/>
+    <poi id="de:09161:8784:0:1" type="BusStop" color="red" layer="202.00" x="7240.55" y="4359.62"/>
+    <poi id="de:09161:8784:0:2" type="BusStop" color="red" layer="202.00" x="7197.77" y="4340.45"/>
+    <poi id="de:09161:8785:0:1" type="BusStop" color="red" layer="202.00" x="7519.95" y="4363.04"/>
+    <poi id="de:09161:8785:0:2" type="BusStop" color="red" layer="202.00" x="7495.49" y="4208.71"/>
+    <poi id="de:09161:8785:0:20" type="BusStop" color="red" layer="202.00" x="7581.51" y="4347.21"/>
+    <poi id="de:09161:8787:0:1" type="BusStop" color="red" layer="202.00" x="8548.41" y="3562.84"/>
+    <poi id="de:09161:8787:0:2" type="BusStop" color="red" layer="202.00" x="8569.72" y="3563.53"/>
+    <poi id="de:09161:8789:0:1" type="BusStop" color="red" layer="202.00" x="9705.74" y="2971.73"/>
+    <poi id="de:09161:8789:0:10" type="BusStop" color="red" layer="202.00" x="9539.13" y="2914.02"/>
+    <poi id="de:09161:8789:0:2" type="BusStop" color="red" layer="202.00" x="9687.29" y="2973.35"/>
+    <poi id="de:09161:8789:0:20" type="BusStop" color="red" layer="202.00" x="9527.99" y="2916.99"/>
+    <poi id="de:09161:8789:0:3" type="BusStop" color="red" layer="202.00" x="9639.09" y="2985.14"/>
+    <poi id="de:09161:8789:0:4" type="BusStop" color="red" layer="202.00" x="9636.09" y="3009.52"/>
+    <poi id="de:09161:8789:0:5" type="BusStop" color="red" layer="202.00" x="9565.24" y="2880.37"/>
+    <poi id="de:09161:8789:0:6" type="BusStop" color="red" layer="202.00" x="9570.86" y="2888.34"/>
+    <poi id="de:09161:8789:0:99" type="BusStop" color="red" layer="202.00" x="9575.19" y="2936.33"/>
+    <poi id="de:09161:8795:0:1" type="BusStop" color="red" layer="202.00" x="7628.08" y="6967.84"/>
+    <poi id="de:09161:8795:0:2" type="BusStop" color="red" layer="202.00" x="7621.66" y="6938.70"/>
+    <poi id="de:09161:8796:0:1" type="BusStop" color="red" layer="202.00" x="7525.25" y="6873.29"/>
+    <poi id="de:09161:8796:0:10" type="BusStop" color="red" layer="202.00" x="7461.65" y="6838.98"/>
+    <poi id="de:09161:8796:0:2" type="BusStop" color="red" layer="202.00" x="7462.55" y="6856.81"/>
+    <poi id="de:09161:8796:0:20" type="BusStop" color="red" layer="202.00" x="7411.64" y="6885.21"/>
+    <poi id="de:09161:8796:0:3" type="BusStop" color="red" layer="202.00" x="7461.69" y="6837.87"/>
+    <poi id="de:09161:8798:0:1" type="BusStop" color="red" layer="202.00" x="7318.70" y="6116.74"/>
+    <poi id="de:09161:8798:0:2" type="BusStop" color="red" layer="202.00" x="7319.11" y="6126.77"/>
+    <poi id="de:09161:8799:0:1" type="BusStop" color="red" layer="202.00" x="6185.16" y="3341.18"/>
+    <poi id="de:09161:8799:0:2" type="BusStop" color="red" layer="202.00" x="6183.58" y="3367.83"/>
+    <poi id="de:09161:8800:0:1" type="BusStop" color="red" layer="202.00" x="6024.98" y="3081.29"/>
+    <poi id="de:09161:8800:0:2" type="BusStop" color="red" layer="202.00" x="6098.75" y="3098.10"/>
+    <poi id="de:09161:8801:0:1" type="BusStop" color="red" layer="202.00" x="5773.30" y="2990.94"/>
+    <poi id="de:09161:8801:0:2" type="BusStop" color="red" layer="202.00" x="5827.12" y="3010.45"/>
+    <poi id="de:09161:8807:0:1" type="BusStop" color="red" layer="202.00" x="4614.07" y="1725.87"/>
+    <poi id="de:09161:8807:0:10" type="BusStop" color="red" layer="202.00" x="4440.57" y="1767.12"/>
+    <poi id="de:09161:8807:0:2" type="BusStop" color="red" layer="202.00" x="4626.25" y="1712.90"/>
+    <poi id="de:09161:8807:0:20" type="BusStop" color="red" layer="202.00" x="4480.41" y="1810.65"/>
+    <poi id="de:09161:8809:0:1" type="BusStop" color="red" layer="202.00" x="4013.85" y="1087.22"/>
+    <poi id="de:09161:8809:0:2" type="BusStop" color="red" layer="202.00" x="4005.90" y="1082.52"/>
+    <poi id="de:09161:8810:0:1" type="BusStop" color="red" layer="202.00" x="4182.25" y="857.77"/>
+    <poi id="de:09161:8810:0:2" type="BusStop" color="red" layer="202.00" x="4190.80" y="866.94"/>
+    <poi id="de:09161:8812:0:1" type="BusStop" color="red" layer="202.00" x="3658.51" y="404.05"/>
+    <poi id="de:09161:8812:0:98" type="BusStop" color="red" layer="202.00" x="3667.58" y="419.91"/>
+    <poi id="de:09161:8812:0:99" type="BusStop" color="red" layer="202.00" x="3683.16" y="439.31"/>
+    <poi id="de:09161:8813:0:1" type="BusStop" color="red" layer="202.00" x="3790.88" y="595.12"/>
+    <poi id="de:09161:8813:0:2" type="BusStop" color="red" layer="202.00" x="3872.28" y="534.27"/>
+    <poi id="de:09161:8815:0:1" type="BusStop" color="red" layer="202.00" x="4461.88" y="626.28"/>
+    <poi id="de:09161:8815:0:2" type="BusStop" color="red" layer="202.00" x="4395.11" y="619.72"/>
+    <poi id="de:09161:8816:0:1" type="BusStop" color="red" layer="202.00" x="4531.77" y="487.19"/>
+    <poi id="de:09161:8816:0:2" type="BusStop" color="red" layer="202.00" x="4491.19" y="466.99"/>
+    <poi id="de:09161:8816:0:3" type="BusStop" color="red" layer="202.00" x="4495.54" y="469.35"/>
+    <poi id="de:09161:8817:0:1" type="BusStop" color="red" layer="202.00" x="2248.65" y="5179.54"/>
+    <poi id="de:09161:8817:0:2" type="BusStop" color="red" layer="202.00" x="2236.58" y="5189.18"/>
+    <poi id="de:09161:8824:0:1" type="BusStop" color="red" layer="202.00" x="7193.78" y="6068.22"/>
+    <poi id="de:09161:8824:0:2" type="BusStop" color="red" layer="202.00" x="7207.54" y="6051.97"/>
+    <poi id="de:09161:8837:0:1" type="BusStop" color="red" layer="202.00" x="5656.85" y="6717.79"/>
+    <poi id="de:09161:8838:0:1" type="BusStop" color="red" layer="202.00" x="5300.36" y="7339.53"/>
+    <poi id="de:09161:8839:0:1" type="BusStop" color="red" layer="202.00" x="5195.07" y="7043.57"/>
+    <poi id="de:09161:8886:0:1" type="BusStop" color="red" layer="202.00" x="2676.26" y="5544.48"/>
+    <poi id="de:09161:8886:0:2" type="BusStop" color="red" layer="202.00" x="2686.26" y="5530.33"/>
+    <poi id="de:09161:8887:0:1" type="BusStop" color="red" layer="202.00" x="3618.12" y="4964.34"/>
+    <poi id="de:09161:8887:0:2" type="BusStop" color="red" layer="202.00" x="3589.19" y="4972.33"/>
+    <poi id="de:09161:8887:0:3" type="BusStop" color="red" layer="202.00" x="3583.24" y="5067.83"/>
+    <poi id="de:09161:8887:0:4" type="BusStop" color="red" layer="202.00" x="3576.63" y="5044.26"/>
+    <poi id="de:09161:8898:0:1" type="BusStop" color="red" layer="202.00" x="5838.78" y="1534.40"/>
+    <poi id="de:09161:8898:0:2" type="BusStop" color="red" layer="202.00" x="5856.88" y="1543.88"/>
+    <poi id="de:09161:8899:0:1" type="BusStop" color="red" layer="202.00" x="6121.65" y="1641.32"/>
+    <poi id="de:09161:8899:0:2" type="BusStop" color="red" layer="202.00" x="6138.48" y="1644.09"/>
+    <poi id="de:09161:8900:0:1" type="BusStop" color="red" layer="202.00" x="6457.69" y="1718.80"/>
+    <poi id="de:09161:8900:0:2" type="BusStop" color="red" layer="202.00" x="6473.05" y="1721.52"/>
+    <poi id="de:09161:8901:0:1" type="BusStop" color="red" layer="202.00" x="6796.03" y="1862.02"/>
+    <poi id="de:09161:8901:0:2" type="BusStop" color="red" layer="202.00" x="6782.42" y="1850.46"/>
+    <poi id="de:09161:8926:0:1" type="BusStop" color="red" layer="202.00" x="9200.27" y="2109.70"/>
+    <poi id="de:09161:8926:0:2" type="BusStop" color="red" layer="202.00" x="9169.82" y="2027.49"/>
+    <poi id="de:09161:8938:0:1" type="BusStop" color="red" layer="202.00" x="5051.19" y="6527.20"/>
+    <poi id="de:09161:8954:0:1" type="BusStop" color="red" layer="202.00" x="8769.18" y="1400.34"/>
+    <poi id="de:09161:8954:0:2" type="BusStop" color="red" layer="202.00" x="8714.50" y="1429.73"/>
+    <poi id="de:09161:8955:0:1" type="BusStop" color="red" layer="202.00" x="8285.15" y="1643.95"/>
+    <poi id="de:09161:8955:0:2" type="BusStop" color="red" layer="202.00" x="8327.49" y="1631.96"/>
+    <poi id="de:09161:8956:0:1" type="BusStop" color="red" layer="202.00" x="3691.17" y="5283.73"/>
+    <poi id="de:09161:8956:0:2" type="BusStop" color="red" layer="202.00" x="3732.17" y="5266.10"/>
+    <poi id="de:09161:8975:0:1" type="BusStop" color="red" layer="202.00" x="5364.97" y="7180.25"/>
+    <poi id="de:09161:8975:0:2" type="BusStop" color="red" layer="202.00" x="5397.87" y="7209.11"/>
+    <poi id="de:09161:8977:0:1" type="BusStop" color="red" layer="202.00" x="2501.46" y="-1223.15"/>
+    <poi id="de:09161:8977:0:2" type="BusStop" color="red" layer="202.00" x="2514.35" y="-1234.99"/>
+    <poi id="de:09161:9009:1" type="BusStop" color="red" layer="202.00" x="6263.55" y="5539.98"/>
+    <poi id="de:09161:9009:1:3" type="BusStop" color="red" layer="202.00" x="6246.93" y="5553.91"/>
+    <poi id="de:09161:9009:1:4" type="BusStop" color="red" layer="202.00" x="6255.56" y="5559.75"/>
+    <poi id="de:09161:9009:2" type="BusStop" color="red" layer="202.00" x="6275.05" y="5548.13"/>
+    <poi id="de:09161:9009:2:5" type="BusStop" color="red" layer="202.00" x="6258.43" y="5562.06"/>
+    <poi id="de:09161:9009:2:6" type="BusStop" color="red" layer="202.00" x="6266.33" y="5567.88"/>
+    <poi id="de:09161:9009:3" type="BusStop" color="red" layer="202.00" x="6286.56" y="5556.29"/>
+    <poi id="de:09161:9009:3:7" type="BusStop" color="red" layer="202.00" x="6271.41" y="5570.27"/>
+    <poi id="de:09161:9009:70" type="BusStop" color="red" layer="202.00" x="6325.12" y="5477.41"/>
+    <poi id="de:09161:9009:90" type="BusStop" color="red" layer="202.00" x="6289.41" y="5444.00"/>
+    <poi id="de:09161:9009:91" type="BusStop" color="red" layer="202.00" x="6401.47" y="5504.33"/>
+    <poi id="de:09161:9009:92" type="BusStop" color="red" layer="202.00" x="6413.18" y="5460.20"/>
+    <poi id="de:09161:9009:95" type="BusStop" color="red" layer="202.00" x="6285.67" y="5446.11"/>
+    <poi id="de:09161:9009:96" type="BusStop" color="red" layer="202.00" x="6314.47" y="5419.22"/>
+    <poi id="de:09161:90:0:1" type="BusStop" color="red" layer="202.00" x="5252.23" y="1187.55"/>
+    <poi id="de:09161:90:0:2" type="BusStop" color="red" layer="202.00" x="5250.40" y="1221.99"/>
+    <poi id="de:09161:96:0:1" type="BusStop" color="red" layer="202.00" x="6449.94" y="2214.78"/>
+    <poi id="de:09161:96:0:2" type="BusStop" color="red" layer="202.00" x="6438.25" y="2212.18"/>
+    <poi id="de:09185:8467:0:1" type="BusStop" color="red" layer="202.00" x="5667.16" y="7202.11"/>
+    <poi id="de:09185:8467:0:2" type="BusStop" color="red" layer="202.00" x="5698.65" y="7252.07"/>
+    <poi id="de:09186:8130:0:1" type="BusStop" color="red" layer="202.00" x="8568.21" y="1196.91"/>
+    <poi id="de:09186:8130:0:2" type="BusStop" color="red" layer="202.00" x="8649.49" y="1255.17"/>
+</additional>
