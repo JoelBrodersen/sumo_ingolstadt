@@ -7,8 +7,8 @@
       <additional-files value="tlLogics_WAUT_2020-09-16_24h.add.xml, ingolstadt.poly.xml.gz"/>
    </input>
    <time>
-      <begin value="0"/>
-      <end value="86400"/>
+      <begin value="00:00:00"/>
+      <end value="23:59:59"/>
    </time>
    <processing>
       <step-length value="0.25"/>
